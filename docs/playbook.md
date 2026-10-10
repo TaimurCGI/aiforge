@@ -13,7 +13,7 @@ You have a large animation portfolio. The site's job is to show the right slice 
 | Slot | What it proves |
 |------|----------------|
 | A "what if" or how-it-works explainer, 9:16 | Hook in 2 seconds, retention, the explainer lane |
-| A character-led brand or product piece | You can sell with story; ties to your CGI Forge clients |
+| A character-led brand or product piece | You can sell with story |
 | 2 to 3 shorts with the same recurring character | "At scale": same model, same world across shorts |
 | A 16:9 piece | You deliver for YouTube or a website, not only vertical |
 | A breakdown: beat board, raw generation, your Blender fix, final | Your edge over prompt-only creators |
@@ -25,7 +25,7 @@ Put numbers on a piece (views, turnaround, CTR) only when you can show where the
 
 ## Where the work comes from
 
-- **Brands**: DTC brands that already run video ads. Your CGI Forge pipeline (wellness, nutrition, beverage) is the warmest start, since a character film is the natural upsell after renders.
+- **Brands**: DTC brands that already run video ads.
 - **Channels and creators**: faceless explainer channels, kids' and edu channels that need volume with a consistent character.
 - **Agencies and content studios**: white-label animation for agencies selling short-form to their clients.
 - **Roles**: "AI animator", "AI video artist", "3D animator (AI pipeline)", "creative technologist", content studio roles. Strong-economy markets, remote.

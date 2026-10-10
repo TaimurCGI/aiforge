@@ -3,7 +3,8 @@
 window.SITE = {
   name: "AI Forge",
   owner: "Taimur Ali",
-  email: "cgiforge@gmail.com",
+  // Contact email for this agency. Leave empty to hide the email buttons.
+  email: "",
   // Paste your Calendly (or Cal.com) link. Leave empty to hide the "Book a call" buttons.
   calendly: "",
   // Hero showreel. Vertical 9:16 mp4 works best. Leave empty to show the animated placeholder.
@@ -11,7 +12,6 @@ window.SITE = {
   reelPoster: "",
   socials: [
     { label: "Behance", url: "https://behance.net/taimurcgi" },
-    { label: "CGI Forge", url: "https://cgiforge.com" },
     // { label: "TikTok", url: "https://tiktok.com/@yourhandle" },
     // { label: "Instagram", url: "https://instagram.com/yourhandle" },
     // { label: "YouTube", url: "https://youtube.com/@yourhandle" },

@@ -38,6 +38,8 @@
     $("#email-btn").href = `mailto:${SITE.email}`;
     $("#email-link").href = `mailto:${SITE.email}`;
     $("#email-link").textContent = SITE.email;
+    $("#email-btn").hidden = false;
+    $("#email-line").hidden = false;
   }
   if (SITE.calendly) {
     const cal = $("#calendly-btn");
