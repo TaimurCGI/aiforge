@@ -4,7 +4,7 @@ I'm Taimur Ali, a 3D animator with 7 years of experience, mostly in Blender (Cyc
 
 This repo (branch `claude/blissful-maxwell-44nxto`) has a finished coded version of the site and the strategy behind it. Read these first:
 - `README.md`: how the coded site works
-- `docs/playbook.md`: positioning, the 6 portfolio pieces I still need to make, outreach templates, pricing rules
+- `docs/playbook.md`: positioning, how to pick which pieces go on the site, outreach templates, pricing rules
 - `index.html`: all the final site copy, section by section
 - `assets/js/config.js`: site settings and the work-item data model
 - `assets/css/style.css`: colours and fonts
@@ -27,8 +27,9 @@ Rebuild this site in Framer, using a Framer template, with the Framer agent.
 ## Rules
 
 Honesty:
-- I have no animation clips yet. Don't invent projects, clients, view counts, turnaround times or testimonials. Empty work items show as "In production" until I add real clips.
-- My only hard numbers: CGI Forge ad creatives for heyyy (UK wellness) averaged 5.8% CTR across 4 ads, peak 8.26%. Always label these as CGI Forge product-render ad results, never animation results. Spell "heyyy" lowercase with three y's.
+- I have a large animation portfolio. Ask me for the clips and links, and help me pick the strongest 6 to 9 (see the curating section in docs/playbook.md). Build the Work collection from my real pieces.
+- Don't invent details about any piece. Ask me for titles, clients, roles, view counts and turnaround instead of guessing.
+- Confirmed numbers so far: CGI Forge ad creatives for heyyy (UK wellness) averaged 5.8% CTR across 4 ads, peak 8.26%. Always label these as CGI Forge product-render ad results, never animation results. Ask me for real view counts or results on my animations. Spell "heyyy" lowercase with three y's.
 - Don't name Pixar, Zach D Films or Doublespeed on the site. They're references for us, not claims.
 - No prices on the site. I quote on a call after scope.
 

@@ -8,24 +8,22 @@ One line: **Story-first animated shorts by a 3D animator, produced with an AI pi
 
 Keep reference names (Pixar, Zach D Films) in conversations and briefs. Don't put them on the site as claims.
 
-## The proof gap (build this before applying)
+## Curating the work
 
-Right now the site has no animation clips. Every claim on it needs a clip behind it. Build these six, in this order:
+You have a large animation portfolio. The site's job is to show the right slice of it. Pick 6 to 9 pieces and make sure the set covers:
 
-| # | Piece | What it proves | Length |
-|---|-------|----------------|--------|
-| 1 | "What if" explainer, 9:16 | Hook in 2 seconds, retention, the Zach D lane | 45 to 60s |
-| 2 | Character brand film for a real product (spec, label it "spec") | You can sell with story; ties to your CGI Forge clients | 30s |
-| 3 | Series episodes 1, 2, 3 with one recurring character | "At scale": same model, same world across shorts | 30 to 45s each |
-| 4 | Widescreen cut of piece 1 | You can deliver 16:9 for YouTube or a website | 60 to 90s |
-| 5 | Breakdown clip: beat board → raw generation → your Blender fix → final | Your actual edge over prompt-only creators | 20 to 30s |
-| 6 | Showreel from the best 2 to 3 seconds of each | Hero video, first thing anyone sees | 20 to 40s |
+| Slot | What it proves |
+|------|----------------|
+| A "what if" or how-it-works explainer, 9:16 | Hook in 2 seconds, retention, the explainer lane |
+| A character-led brand or product piece | You can sell with story; ties to your CGI Forge clients |
+| 2 to 3 shorts with the same recurring character | "At scale": same model, same world across shorts |
+| A 16:9 piece | You deliver for YouTube or a website, not only vertical |
+| A breakdown: beat board, raw generation, your Blender fix, final | Your edge over prompt-only creators |
+| A 20 to 40s showreel cut from the best moments | Hero video, the first thing anyone sees |
 
-Log real turnaround time per piece (brief to final). If episode 3 took two days, that's a number you can put on the site. Don't estimate one.
+If one of these slots is empty in your existing work, that's the one piece worth making next.
 
-Spec work for a real brand: label it spec in the title or summary, and don't imply they paid for it.
-
-Post pieces 1 and 3 on TikTok, Reels and Shorts as you finish them. Real view counts are the strongest proof for this lane, and they're yours to quote once they exist.
+Put numbers on a piece (views, turnaround, CTR) only when you can show where they came from. Label spec work for real brands as spec.
 
 ## Where the work comes from
 
