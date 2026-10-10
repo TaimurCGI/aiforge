@@ -6,8 +6,6 @@ Volume shops (Doublespeed and similar) sell output: lots of AI clips, UGC and fa
 
 One line: **Story-first animated shorts by a 3D animator, produced with an AI pipeline so a series can ship every week.**
 
-Keep reference names (Pixar, Zach D Films) in conversations and briefs. Don't put them on the site as claims.
-
 ## Curating the work
 
 You have a large animation portfolio. The site's job is to show the right slice of it. Pick 6 to 9 pieces and make sure the set covers:
@@ -64,10 +62,10 @@ Only use "none of them use a character" if that's true after checking the full f
 
 ### Job or gig application (opening paragraph)
 
-> I've worked as a 3D animator for seven years, mostly in Blender, and I now produce animated shorts with an AI pipeline. I write the script and beat board first, generate the shots, and fix timing and off-model frames by hand. My portfolio has [N] shorts, including a three-episode series with one recurring character: [link]. I also run CGI Forge, a product-visualization studio; our ad creatives for heyyy (UK wellness) averaged 5.8% CTR across 4 ads, peak 8.26%.
+> I've worked as a 3D animator for seven years, mostly in Blender, and I now produce animated shorts with an AI pipeline. I write the script and beat board first, generate the shots, and fix timing and off-model frames by hand. My portfolio has [N] shorts, including a three-episode series with one recurring character: [link].
 
 Change the title and the first line per role. The facts stay the same.
 
 ## Pricing
 
-Not on the site. Quote on a call after scope. Shorts priced per finished piece, series priced per month by episode count. 50% deposit, 50% before final files. Quote first, and only discount if they push back for real.
+Quote on a call after scope. Shorts priced per finished piece, series priced per month by episode count. 50% deposit, 50% before final files. Quote first, and only discount if they push back for real.

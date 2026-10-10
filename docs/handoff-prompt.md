@@ -29,9 +29,6 @@ Rebuild this site in Framer, using a Framer template, with the Framer agent.
 Honesty:
 - I have a large animation portfolio. Ask me for the clips and links, and help me pick the strongest 6 to 9 (see the curating section in docs/playbook.md). Build the Work collection from my real pieces.
 - Don't invent details about any piece. Ask me for titles, clients, roles, view counts and turnaround instead of guessing.
-- Confirmed numbers so far: CGI Forge ad creatives for heyyy (UK wellness) averaged 5.8% CTR across 4 ads, peak 8.26%. Always label these as CGI Forge product-render ad results, never animation results. Ask me for real view counts or results on my animations. Spell "heyyy" lowercase with three y's.
-- Don't name Pixar, Zach D Films or Doublespeed on the site. They're references for us, not claims.
-- No prices on the site. I quote on a call after scope.
 
 Writing (all site copy):
 - No em dashes. No "actually." No "the kind of." No "isn't X, it's Y."
