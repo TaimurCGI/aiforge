@@ -1,4 +1,4 @@
-I'm Taimur Ali, a 3D animator with 7 years of experience, mostly in Blender (Cycles, Photoshop, Adobe CC). I now make AI animations: Pixar-style characters and Zach D Films style 3D explainer shorts. Story first, at scale and at speed. I'm building a portfolio and agency site called AI Forge (working name) to win gigs, brand work and full-time remote roles. My reference is Doublespeed, but I focus only on animation, which is my specialty. I also run CGI Forge (cgiforge.com), a 3D product-visualization studio for wellness and nutrition brands.
+I'm Taimur Ali, a 3D animator with 7 years of experience, mostly in Blender. I now make AI animations: Pixar-style characters and Zach D Films style 3D explainer shorts. Story first, at scale and at speed. I'm building a portfolio and agency site called AI Forge (working name) to win gigs, brand work and full-time remote roles. My reference is Doublespeed, but I focus only on animation, which is my specialty. I also run CGI Forge (cgiforge.com), a 3D product-visualization studio for wellness and nutrition brands.
 
 ## What already exists in this folder
 
