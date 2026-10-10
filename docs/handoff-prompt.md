@@ -37,5 +37,3 @@ Writing (all site copy):
 - No em dashes. No "actually." No "the kind of." No "isn't X, it's Y."
 - No rule-of-three padding, inflated or promotional language, filler, or fake-warm lines.
 - Specific, concrete, human, confident. If something reads AI-written, tell me and let me write it.
-
-Keep replies short and direct. Push back if I undercut myself on price or wording.
