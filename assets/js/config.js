@@ -11,7 +11,6 @@ window.SITE = {
   reel: "",
   reelPoster: "",
   socials: [
-    { label: "Behance", url: "https://behance.net/taimurcgi" },
     // { label: "TikTok", url: "https://tiktok.com/@yourhandle" },
     // { label: "Instagram", url: "https://instagram.com/yourhandle" },
     // { label: "YouTube", url: "https://youtube.com/@yourhandle" },
