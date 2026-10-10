@@ -5,7 +5,7 @@ I'm Taimur Ali, a 3D animator with 7 years of experience, mostly in Blender. I n
 This repo (branch `claude/blissful-maxwell-44nxto`) has a finished coded version of the site and the strategy behind it. Read these first:
 - `README.md`: how the coded site works
 - `docs/playbook.md`: positioning, how to pick which pieces go on the site, outreach templates, pricing rules
-- `index.html`: all the final site copy, section by section
+- `index.html`: draft copy from the coded mockup
 - `assets/js/config.js`: site settings and the work-item data model
 - `assets/css/style.css`: mockup styling only, not final brand colours
 
@@ -17,8 +17,6 @@ Rebuild this site in Framer, using a Framer template, with the Framer agent.
 2. Ask me for my Framer project link and the template I'm using. Don't pick a template for me.
 3. Map the existing site onto the template, keeping its strong sections and dropping what doesn't fit:
    - Hero: "Animated shorts that start with the story." plus the lede from index.html, CTAs "See the work" and "Book a call", and a vertical 9:16 showreel video slot.
-   - Work: a CMS collection with fields title, category (Explainer, Character film, Series, Brand), ratio (9:16, 16:9, 1:1, 4:5), video URL, poster image, summary, format, role, turnaround. Filter by category. Clicking a card plays the video with sound in a popup. If the template can't do the filter or popup, write a Framer code component for it.
-   - "Why the work holds up" (4 points), "What I make" (4 services), "From brief to final cut" (5 steps), About, Contact. Use the copy from index.html as is unless the template's layout needs it shorter.
    - Colours and fonts: not decided. Start from the template's and ask me before setting a palette. The colours in the coded site were a mockup, not the brand.
    - Links and contact email: ask me. I don't have a Calendly link yet, so hide "Book a call" until I give you one.
 4. Videos: I'll host clips on Vimeo, Mux or Bunny and paste the URLs in, so don't upload large mp4s to Framer.
