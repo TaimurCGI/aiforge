@@ -13,7 +13,7 @@ Done:
 - Git on this PC now commits and pushes as TaimurCGI <taimurali969@gmail.com> (it was set to MominaAli1). The earlier commit was re-authored and force-pushed.
 
 Next:
-2. Framer: fixes 1-4 and 6 published 2026-10-16 (see docs/framer-fixes.md). Left: fix 5 (point 03, ask Taimur how he keeps characters consistent).
+2. Framer: all fixes in docs/framer-fixes.md published 2026-10-16. Left: form recipient email unverified in Framer (Taimur), email button in the hero portrait card (optional).
 3. (cloud chat) Outbound and Content Engine sheets, then scheduled routines.
 
 ## 2026-10-16 · cloud chat ("AI animation portfolio setup")

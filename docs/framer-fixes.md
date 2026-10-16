@@ -39,4 +39,6 @@ Found on the canvas from before this session (unpublished, origin unknown):
 
 Published to production 2026-10-16 with Taimur's OK (version b7ba0c889), including the older reel-card edits. Checked live: new stats, point 02, email links, second address and meta description all show.
 
-Still open: fix 5 (point 03 wording), the email button inside the hero portrait card, and the unverified form recipient warning in Framer.
+- Fix 5 published 2026-10-16 (version 50c17ecae): point 03 now reads "I make character sheets first, then generate a first frame for every shot instead of one for the whole video. The cast stays on model and I control each shot." FAQ process answer updated to match. Both checked live.
+
+Still open: the email button inside the hero portrait card (no room at 400px) and the unverified form recipient warning in Framer.
