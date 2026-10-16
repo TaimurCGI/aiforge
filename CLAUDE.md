@@ -4,6 +4,9 @@ This repo is shared between two Windows PCs and a cloud Claude session. GitHub i
 
 ## Sync rules (every session, every PC)
 
+- Start of session: `git pull`, then read the top entries of `docs/log.md` and continue from its "Next" list.
+- End of each task: add a dated entry at the top of `docs/log.md` (where it ran, what was done, what's next), then commit and push.
+
 - Branch: always work on `claude/blissful-maxwell-44nxto`. Don't create other branches.
 - At the start of a session, run `git pull` before touching anything.
 - After each finished task, commit with a clear message and `git push`. Don't leave work uncommitted at the end of a session.
