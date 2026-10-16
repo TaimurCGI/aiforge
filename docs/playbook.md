@@ -32,6 +32,8 @@ Put numbers on a piece (views, turnaround, CTR) only when you can show where the
 
 ## Message templates
 
+Never open by mirroring the post or profile ("I make drama ads" to someone hiring for drama ads). It reads fake. Lead with a specific piece of work and its result, then the link.
+
 Adjust per lead. One observation must be true and countable for that brand or channel.
 
 ### Brand (cold)

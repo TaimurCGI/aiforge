@@ -31,4 +31,5 @@ Honesty:
 Writing (all site copy):
 - No em dashes. No "actually." No "the kind of." No "isn't X, it's Y."
 - No rule-of-three padding, inflated or promotional language, filler, or fake-warm lines.
+- In applications and replies, never echo their post back ("I make X" when they asked for X). Lead with a real piece of work and its result.
 - Specific, concrete, human, confident. If something reads AI-written, tell me and let me write it.

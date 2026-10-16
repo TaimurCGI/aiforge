@@ -41,6 +41,10 @@ The same Drive has a **CGI Forge** folder. Never read from it or write to it in 
 - Show me changes before publishing. Don't publish without my OK.
 - Pending fixes are in `docs/framer-fixes.md`.
 
+## Outreach rule
+
+Never open an application, reply or DM by mirroring their post or profile ("I make drama ads" to someone hiring for drama ads). Lead with a specific piece of work and its result, then the link.
+
 ## Context
 
 - `docs/handoff-prompt.md`: who I am, goals, honesty and writing rules
