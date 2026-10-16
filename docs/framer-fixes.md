@@ -37,4 +37,6 @@ Found on the canvas from before this session (unpublished, origin unknown):
 
 - Stat card changed to "70 · Reels made in one week" and the campaign line to "70 story reels for an app…" (Taimur confirmed all 70 were CheerMyRun). "47" removed.
 
-Still open: fix 5 (point 03 wording) and publishing.
+Published to production 2026-10-16 with Taimur's OK (version b7ba0c889), including the older reel-card edits. Checked live: new stats, point 02, email links, second address and meta description all show.
+
+Still open: fix 5 (point 03 wording), the email button inside the hero portrait card, and the unverified form recipient warning in Framer.
