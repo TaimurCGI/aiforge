@@ -1,6 +1,6 @@
 # CheerMyRun campaign
 
-Paid AI drama work for CheerMyRun, a cheer app. 30 reels: 3 stories, 10 markets each, plus single-market stories in the first batch.
+Paid AI drama work for CheerMyRun, a cheer app. 66 reels by Taimur: the 30 in the three Doublespeed review batches, plus 36 more found on the posting accounts (confirmed as Taimur's on 2026-10-16).
 
 ## Confirmed numbers (from Taimur, 2026-10-16)
 
@@ -33,15 +33,17 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 
 ## Instagram numbers (read 2026-10-16, signed in as taimurcgi)
 
-- 27 of the 30 catalogued reels are posted. The 3 UK reels are not on any of the 9 accounts.
-- Total across the 27: about 223,000 views, 13,995 likes, 20 comments. "About" because Instagram rounds three counts (123K, 15.7K, 14.1K).
+- 63 of Taimur's 66 reels are posted. The 3 UK reels from the review batches are not on any of the 9 accounts.
+- Total across the 63 posted: about 289,000 views, 17,283 likes, 29 comments. "About" because Instagram rounds three counts (123K, 15.7K, 14.1K).
+  - The 27 from the review batches: about 223,000 views, 13,995 likes, 20 comments.
+  - The 36 others: 65,733 views, 3,288 likes, 9 comments.
 - Top reel: Km 32 first papa, DE (@lenalaeuft_): 123K views, 7,691 likes.
-- Next: Km 32 first papa BR 15.7K, IT 14.1K; Run for me too IT 8,604; Km 32 first papa FR 7,934.
-- The 9 accounts hold 65 reels in total. The other 38 are not in this catalog: one story per account posted 7 Oct, plus stories posted 12, 14 and 15 Oct in every market. Who made those isn't recorded here.
+- Next: Km 32 first papa BR 15.7K, IT 14.1K; Run for me too IT 8,604; Km 32 first papa FR 7,934; Stepdad first called dad US 7,635.
+- The 9 accounts hold 65 reels. 2 are not Taimur's and are left out: the JP reel with a real runner (@runwithyui, 7 Oct, voice-message ad, 14 views) and the meme (@valrunsdaily, 7 Oct, "he really thinks she's on mile", 1,047 views).
 
 ## Videos
 
-Doublespeed review status for all 30 was "pending" on 2026-10-16. Markets for the 08/10/26 batch are inferred from caption language and order. Views, likes and comments read from Instagram on 2026-10-16.
+Doublespeed review status for all 30 was "pending" on 2026-10-16. Markets for the 08/10/26 batch are inferred from caption language and order. Views, likes and comments read from Instagram on 2026-10-16. Rows marked "Posted" are the 36 reels found on the accounts: no review batch is recorded for them, so the date is the Instagram posting date and the story name is a short label taken from the caption. "Maybe" Drive matches are guesses from file names and haven't been checked.
 
 | Batch | Story | Market | In Drive | Caption | Views | Likes | Comments | Reel |
 |---|---|---|---|---|---|---|---|---|
@@ -75,3 +77,39 @@ Doublespeed review status for all 30 was "pending" on 2026-10-16. Markets for th
 | 09/10/26 | Run for me too | FR | Run for me too/FR.mp4 | en 2019 je me suis arrêtée au km 37, enceinte de lui. cette année c'est lui qui m'a fait finir 🥹 #cheermyrun #marathon #course #running | 2,023 | 75 | 0 | https://www.instagram.com/camillesifit_/reel/DedG3FCIkFp/ |
 | 09/10/26 | Run for me too | IT | Run for me too/IT.mp4 | il nonno si è fermato al km 37 nel 1980. quest'anno l'abbiamo finita insieme 🥹 #cheermyrun #maratona #running #nonno | 8,604 | 365 | 0 | https://www.instagram.com/fitwithgiulia_/reel/DedDdXfq9vV/ |
 | 09/10/26 | Run for me too | JP | Run for me too/JP.mp4 | 2010年は37キロで止まった。今年は娘の声でゴールできた 🥹 #cheermyrun #マラソン #ランニング | 2,235 | 8 | 0 | https://www.instagram.com/runwithyui/reel/Dec-AQio_YS/ |
+| Posted 07/10/26 | Couldn't be there for mile 25 | US |  | he said he couldn't be there for mile 25 🥹 #cheermyrun #nycmarathon #marathon #runtok | 4,573 | 286 | 1 | https://www.instagram.com/marathonmaddie_/reel/DeNfYw8pIXB/ |
+| Posted 07/10/26 | Mum always at km 41 | AU |  | mum always stood at km 41. this year too 🥹 #cheermyrun #sydneymarathon #marathon #runtok | 138 | 1 | 0 | https://www.instagram.com/chloerunsdaily/reel/DeNg5X2y9dI/ |
+| Posted 07/10/26 | Dad learns she's getting married | IT |  | 35 anni fa ha sposato la mamma. al km 35 ha scoperto che sua figlia si sposa 🥹 #cheermyrun #maratonadiroma #maratona #corsa | 190 | 7 | 0 | https://www.instagram.com/fitwithgiulia_/reel/DeNdaMbqWmj/ |
+| Posted 07/10/26 | Brandenburg Gate 1990 | DE | Maybe German/de_1990.mp4 (not checked) | 1990 lief er durchs Brandenburger Tor. heute läuft sein Kind 🥹 #cheermyrun #berlinmarathon #marathon #laufen | 336 | 10 | 0 | https://www.instagram.com/lenalaeuft_/reel/DeNgXqBsub2/ |
+| Posted 07/10/26 | 37 sessions, friend cured | BR |  | 37 sessões, 37 quilômetros. minha amiga tá curada 🥹#cheermyrun #maratonadorio #maratona #corrida | 1,673 | 96 | 1 | https://www.instagram.com/fitwithmariana_/reel/DeNeGuCo5dE/ |
+| Posted 07/10/26 | Grandpa learned to read | FR |  | son grand-père a appris à lire cette année... pour lui écrire ça au km 40 🥹 #cheermyrun #marathondeparis #marathon #course | 1,419 | 44 | 1 | https://www.instagram.com/camillesifit_/reel/DeNdrvIMI8C/ |
+| Posted 07/10/26 | Result due on Sunday | ES |  | el resultado llegaba el domingo por la mañana... y él iba por el km 30 🥹 #cheermyrun #maratóndemadrid #maratón #running | 117 | 1 | 0 | https://www.instagram.com/marathonlucia/reel/DeNe2reo-Yu/ |
+| Posted 07/10/26 | Cleaned other people's houses (early CO version) | CO |  | ella limpió casas ajenas toda la vida... en el km 35 su hijo le dio esta noticia 🥹 #cheermyrun #maratón #running #colombia | 2,606 | 117 | 0 | https://www.instagram.com/valrunsdaily/reel/DeNgpzQiiZx/ |
+| Posted 07/10/26 | University acceptance | JP | Maybe Japanese/Accepted to university.mp4 (not checked) | 去年は落ちた。今年の合格発表は、35キロ地点のお母さんに届けた🥹 #cheermyrun#東京マラソン＃マラソン＃ランニング | 128 | 1 | 0 | https://www.instagram.com/runwithyui/reel/DeNcoSzIoVw/ |
+| Posted 12/10/26 | Brother showed up | US |  | 🇺🇸 sent my big brother my cheer link even though we don't really talk anymore... then he showed up 🥹 #cheermyrun #chicagomarathon #marathon #runtok | 1,298 | 67 | 0 | https://www.instagram.com/marathonmaddie_/reel/DeaM-g1p1FS/ |
+| Posted 12/10/26 | Brother showed up | AU |  | 🇦🇺 sent my brother my cheer link even though we barely talk anymore... then he showed up 🥹 #cheermyrun #melbournemarathon #marathon #runtok | 118 | 1 | 0 | https://www.instagram.com/chloerunsdaily/reel/DeaKYMATTNc/ |
+| Posted 12/10/26 | Brother showed up | IT |  | 🇮🇹 ho mandato il mio link a mio fratello anche se non ci sentiamo quasi più... ed è venuto 🥹 #cheermyrun #maratonadivenezia #maratona #running | 1,897 | 65 | 0 | https://www.instagram.com/fitwithgiulia_/reel/DeaN4d3KYEK/ |
+| Posted 12/10/26 | Brother showed up | DE |  | 🇩🇪 hab meinem bruder meinen cheer-link geschickt, obwohl wir kaum noch reden... und dann war er da 🥹 #cheermyrun #berlinmarathon #marathon #laufen | 1,718 | 71 | 0 | https://www.instagram.com/lenalaeuft_/reel/DeaOeG1sR1b/ |
+| Posted 12/10/26 | Brother showed up | BR |  | 🇧🇷 mandei meu link pro meu irmão mesmo a gente quase não se falando mais... e ele apareceu 🥹 #cheermyrun #maratonadorio #maratona #corrida | 1,201 | 64 | 0 | https://www.instagram.com/fitwithmariana_/reel/DeaNIHBI2Vl/ |
+| Posted 12/10/26 | Brother showed up | FR |  | 🇫🇷 j'ai envoyé mon lien à mon frère alors qu'on se parle presque plus.... et il est venu 🥹 #cheermyrun #marathondeparis #marathon #course | 1,525 | 84 | 0 | https://www.instagram.com/camillesifit_/reel/DeaNbvwtlbm/ |
+| Posted 12/10/26 | Brother showed up | ES |  | 🇪🇸 le mandé mi link a mi hermano aunque ya casi no hablamos... y vino 🥹 #cheermyrun #maratóndevalencia #maratón #running | 1,377 | 92 | 1 | https://www.instagram.com/marathonlucia/reel/DeaLLuCocPd/ |
+| Posted 12/10/26 | Brother showed up | CO |  | 🇨🇴 le mandé mi link a mi hermano aunque ya casi no hablamos... y apareció 🥹 #cheermyrun #maratóndemedellín #maratón #running | 356 | 14 | 0 | https://www.instagram.com/valrunsdaily/reel/DeaKuIEgB37/ |
+| Posted 12/10/26 | Brother showed up | JP |  | 🇯🇵 ほとんど話さなくなった兄にリンクを送ったら..来てくれた 🥹 #cheermyrun #東京マラソン＃マラソン＃ランニング | 123 | 0 | 0 | https://www.instagram.com/runwithyui/reel/DeaOWBesZct/ |
+| Posted 14/10/26 | Stepdad first called dad | US | Maybe Stepdad.mp4 (not checked) | i called my stepdad dad for the first time at mile 20 🥹 #cheermyrun #philadelphiamarathon #marathon #runtok | 7,635 | 429 | 2 | https://www.instagram.com/marathonmaddie_/reel/DefbV3eNtDG/ |
+| Posted 14/10/26 | Stepdad first called dad | AU |  | i called my stepdad dad for the first time at k 32 🥹 #cheermyrun #goldcoastmarathon #marathon #runtok | 136 | 0 | 0 | https://www.instagram.com/chloerunsdaily/reel/DefbDHxS3Qn/ |
+| Posted 14/10/26 | He couldn't be at km 41 | IT |  | pensava che lui non potesse esserci al km 41 🥹 #cheermyrun #firenzemarathon #maratona #running | 3,096 | 116 | 0 | https://www.instagram.com/fitwithgiulia_/reel/Defa9EftVlE/ |
+| Posted 14/10/26 | He couldn't be at km 41 | DE |  | sie dachte, er kann bei km 41 nicht dabei sein 🥹#cheermyrun #hamburgmarathon #marathon #laufen | 6,279 | 325 | 0 | https://www.instagram.com/lenalaeuft_/reel/DefZ-WgMBq0/ |
+| Posted 14/10/26 | He couldn't be at km 41 | BR |  | ela achou que ele não ia estar lá no km 41 🥹 #cheermyrun #maratonadesaopaulo #maratona #corrida | 1,810 | 150 | 0 | https://www.instagram.com/fitwithmariana_/reel/DefaN6nokUm/ |
+| Posted 14/10/26 | He couldn't be at km 41 | FR |  | elle pensait qu'il ne pourrait pas être là au km 41 🥹 #cheermyrun #marathondelyon #marathon #course | 2,144 | 99 | 1 | https://www.instagram.com/camillesifit_/reel/DefbPZ3toDn/ |
+| Posted 14/10/26 | He couldn't be at km 41 | ES |  | ella pensaba que él no podía estar en el km 41 🥹 #cheermyrun #maratondesevilla #maratón #running | 3,900 | 341 | 0 | https://www.instagram.com/marathonlucia/reel/DeffJ4aIxJm/ |
+| Posted 14/10/26 | He couldn't be at km 41 | JP |  | 41キロ地点に彼はいないと思ってた🥹#cheermyrun#大阪マラソン＃マラソン＃ランニング | 2,838 | 11 | 0 | https://www.instagram.com/runwithyui/reel/DefbexpIG0X/ |
+| Posted 14/10/26 | Dad heard her voice after his stroke | CO |  | su papá no hablaba desde el derrame. en el km 32 escuchó su voz 🥹 #cheermyrun #maratón #running #colombia | 2,069 | 151 | 1 | https://www.instagram.com/valrunsdaily/reel/DefafR-g0An/ |
+| Posted 15/10/26 | Dad's cheer for mile 21 | US |  | Dad, can you send me a cheer for mile 21? He said he already recorded it. He didn't tell me the rest #cheermyrun #marathon #nycmarathon #dadanddaughter #running | 1,885 | 101 | 0 | https://www.instagram.com/marathonmaddie_/reel/Deh9Hi6NLNf/ |
+| Posted 15/10/26 | 8 years without dad, cheer at km 35 | AU |  | 8 years without my dad at home. at 35K his cheer came through 🥹 #cheermyrun #sydneymarathon #marathon #running | 2,538 | 68 | 0 | https://www.instagram.com/chloerunsdaily/reel/Deh7k_LSIds/ |
+| Posted 15/10/26 | 8 years without dad, cheer at km 35 | IT |  | 8 anni senza il mio papà a casa, al km 35 mi è arrivato il suo cheer 🥹 #cheermyrun #milanomarathon #maratona #running | 1,596 | 60 | 0 | https://www.instagram.com/fitwithgiulia_/reel/Deh5n0wt0fM/ |
+| Posted 15/10/26 | 8 years without dad, cheer at km 35 | DE |  | 8 Jahre ohne meinen Papa zu Hause. bei km 35 kam sein Cheer 🥹 #cheermyrun #frankfurtmarathon #marathon #laufen | 2,114 | 102 | 0 | https://www.instagram.com/lenalaeuft_/reel/Deh6y73sJAL/ |
+| Posted 15/10/26 | 8 years without dad, cheer at km 35 | ES |  | 8 años sin mi padre en casa. en el km 35 me llegó su cheer 🥹 #cheermyrun #maratondemadrid #maratón #running | 1,805 | 138 | 0 | https://www.instagram.com/marathonlucia/reel/Deh_HSUu_K9/ |
+| Posted 15/10/26 | 8 years without dad, cheer at km 35 | JP |  | 8年間、家にいなかったお父さん。35キロで届いた応援メッセージ🥹#cheermyrun#東京マラソン#マラソン#ランニング | 2,440 | 8 | 0 | https://www.instagram.com/runwithyui/reel/Deh-OJ8INxF/ |
+| Posted 15/10/26 | Dad in a taxi, one-way ticket | BR |  | Meu pai disse que já tinha gravado meu cheer pro km 35... mas ele estava num táxi, com uma passagem só de ida. #cheermyrun #maratona #pai #corrida | 1,316 | 87 | 1 | https://www.instagram.com/fitwithmariana_/reel/Deh_yi0oF1t/ |
+| Posted 15/10/26 | Dad in a taxi, one-way ticket | FR |  | Mon papa m'a dit que mon cheer du km 35 était déjà enregistré... mais il était dans un taxi, avec un aller simple. #cheermyrun #marathon #papa #course | 1,081 | 71 | 0 | https://www.instagram.com/camillesifit_/reel/Deh8fj6Nyfn/ |
+| Posted 15/10/26 | Taxi-driver dad, I'm going to be a doctor | CO |  | mi papá manejó taxi 20 años para que yo estudiara. en su km 7 le conté que voy a ser médica 🥹 #cheermyrun #bogotá #correr #running | 258 | 10 | 0 | https://www.instagram.com/valrunsdaily/reel/DeiAKI2AEw2/ |

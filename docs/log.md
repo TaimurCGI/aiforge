@@ -9,7 +9,7 @@ Done:
 - docs/cheermyrun.md: "In Drive" column filled for all 27.
 - "The cheers were clues" US (30.0 MB) and The Proposal.mp4 (60.4 MB) are different files. Same story or not still needs a look by eye.
 
-- Instagram (signed in as taimurcgi in the app's browser pane): read views, likes and comments for all 9 accounts. 27 of 30 catalogued reels are posted, about 223K views total; top reel Km 32 first papa DE at 123K. UK versions aren't posted. Market per account and all numbers are in docs/cheermyrun.md.
+- Instagram (signed in as taimurcgi in the app's browser pane): read views, likes and comments for all 9 accounts. 27 of 30 catalogued reels are posted, about 223K views total; top reel Km 32 first papa DE at 123K. UK versions aren't posted. Market per account and all numbers are in docs/cheermyrun.md. Taimur confirmed 36 more reels on those accounts are his (2 others, a JP real-runner ad and a meme, are not); added them, so the catalog now has 66 reels, 63 posted, about 289K views total.
 - Git on this PC now commits and pushes as TaimurCGI <taimurali969@gmail.com> (it was set to MominaAli1). The earlier commit was re-authored and force-pushed.
 
 Next:
