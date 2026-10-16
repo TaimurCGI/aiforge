@@ -4,7 +4,7 @@ window.SITE = {
   name: "AI Forge",
   owner: "Taimur Ali",
   // Contact email for this agency. Leave empty to hide the email buttons.
-  email: "",
+  email: "taimurai969@gmail.com",
   // Paste your Calendly (or Cal.com) link. Leave empty to hide the "Book a call" buttons.
   calendly: "",
   // Hero showreel. Vertical 9:16 mp4 works best. Leave empty to show the animated placeholder.
