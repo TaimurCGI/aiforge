@@ -8,7 +8,15 @@ This repo is shared between two Windows PCs and a cloud Claude session. GitHub i
 - At the start of a session, run `git pull` before touching anything.
 - After each finished task, commit with a clear message and `git push`. Don't leave work uncommitted at the end of a session.
 - If a pull brings conflicts, stop and show me before resolving them.
-- Files over 50 MB (raw renders, full-length videos) don't go in git. They live in Google Drive (AI Portfolio folder). Compressed web clips under 10 MB in `assets/work/` are fine.
+- Files over 50 MB (raw renders, full-length videos) don't go in git. They live in Google Drive. Compressed web clips under 10 MB in `assets/work/` are fine.
+
+## Google Drive (account: cgiforge@gmail.com)
+
+All AI Forge files live under the **AI Forge** folder: https://drive.google.com/drive/folders/1aB8MRViIlcg0SvNo-_lm62fDiJeatJRh
+- `Portfolio/` (CheerMyRun with French, German, Japanese versions; Ketro; JTX): https://drive.google.com/drive/folders/1M6c7RfjJhn2TpJINaluk6mv4toTSJjmM
+- `Research/`: https://drive.google.com/drive/folders/189tUTXUBwNyhGojS-dbf1ggORyx_tzBd
+
+The same Drive has a **CGI Forge** folder. Never read from it or write to it in AI Forge work.
 
 ## Framer
 
