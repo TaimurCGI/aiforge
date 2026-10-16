@@ -37,7 +37,7 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 - Total across the 27: about 223,000 views, 13,995 likes, 20 comments. "About" because Instagram rounds three counts (123K, 15.7K, 14.1K).
 - Top reel: Km 32 first papa, DE (@lenalaeuft_): 123K views, 7,691 likes.
 - Next: Km 32 first papa BR 15.7K, IT 14.1K; Run for me too IT 8,604; Km 32 first papa FR 7,934.
-- The accounts also carry 34 reels that are not in this catalog (single-market stories from 07/10, plus 12/10, 14/10 and 15/10 batches). Who made those isn't recorded here.
+- The 9 accounts hold 65 reels in total. The other 38 are not in this catalog: one story per account posted 7 Oct, plus stories posted 12, 14 and 15 Oct in every market. Who made those isn't recorded here.
 
 ## Videos
 
