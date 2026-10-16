@@ -18,3 +18,7 @@ Apply these fixes to my live Framer site (taimur.framer.website). Show me each c
 5. **Point 03, "Characters stay on model".** It says character sheets and locked style frames keep episodes consistent. Ask me how I keep characters consistent and rewrite it to match what I do.
 
 Writing rules for any new copy: no em dashes, no "actually", no "the kind of", no "isn't X, it's Y", no padding or promotional language.
+
+## Suggested addition (ask me first)
+
+6. **Speed proof.** Confirmed: 30 CheerMyRun reels in 3 days, and 70 reels in one week at peak. Propose where it fits (campaign section or hero line) and show me the wording before adding it.

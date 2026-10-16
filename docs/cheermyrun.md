@@ -2,6 +2,13 @@
 
 Paid AI drama work for CheerMyRun, a cheer app. 30 reels: 3 stories, 10 markets each, plus single-market stories in the first batch.
 
+## Confirmed numbers (from Taimur, 2026-10-16)
+
+- All 30 CheerMyRun reels were made in 3 days (review batches dated 07/10, 08/10 and 09/10/26).
+- Peak output: 70 reels in one week.
+- Paid work.
+- Some reels passed 120K views. Exact counts per reel still needed.
+
 ## Doublespeed review links
 
 - 07/10/26: https://doublespeed.ai/review/ebbe7733-d5e9-4385-ba64-89cfb07178bb?v=gd6l9p
