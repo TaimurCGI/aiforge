@@ -35,4 +35,6 @@ Found on the canvas from before this session (unpublished, origin unknown):
 - "47 story reels" (live site says 30).
 - Reel list changed: Berlin, Paris and JP km 35 cards added; "Two years of silence, then mile 26" (live, 1.8K) removed; Ketro/JTX view counts edited.
 
-Still open: fix 5 (point 03 wording), fix 6 (speed proof placement), the 47 number, and publishing.
+- Stat card changed to "70 · Reels made in one week" and the campaign line to "70 story reels for an app…" (Taimur confirmed all 70 were CheerMyRun). "47" removed.
+
+Still open: fix 5 (point 03 wording) and publishing.
