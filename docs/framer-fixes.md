@@ -22,3 +22,17 @@ Writing rules for any new copy: no em dashes, no "actually", no "the kind of", n
 ## Suggested addition (ask me first)
 
 6. **Speed proof.** Confirmed: 30 CheerMyRun reels in 3 days, and 70 reels in one week at peak. Propose where it fits (campaign section or hero line) and show me the wording before adding it.
+
+## Status 2026-10-16 (this PC, Framer canvas edited, NOT published)
+
+Done on the canvas, all breakpoints:
+- Fix 1: point 02 now ends "A shot doesn’t make the cut until it reads right." FAQ process answer no longer says "fix drift by hand in Blender".
+- Fix 2: home page meta description set to the new text (title kept: "Taimur Ali · AI animation editor").
+- Fix 3: "Email me ↗" (mailto:taimurali969@gmail.com) next to "DM me on X" in the hero, the nav (hidden on phone, no room) and the footer contact card; "Email" link next to "X" in the footer row; "Second address: taimurali50@gmail.com" in the footer contact card; FAQ "How do I reach you?" mentions the email. Not added inside the 400px portrait card in the hero (no room).
+- Fix 4 (Taimur's call): hero line "reached 220K+ organic views across 30 reels in 7 days"; stat card "220K+" / "Organic views in 7 days"; FAQ stat "stepdad story, 168K+ views across 7 markets. The German version alone reached 123K."; CMS Berlin 123K / 7.7K likes, JP km 35 4.8K.
+
+Found on the canvas from before this session (unpublished, origin unknown):
+- "47 story reels" (live site says 30).
+- Reel list changed: Berlin, Paris and JP km 35 cards added; "Two years of silence, then mile 26" (live, 1.8K) removed; Ketro/JTX view counts edited.
+
+Still open: fix 5 (point 03 wording), fix 6 (speed proof placement), the 47 number, and publishing.
