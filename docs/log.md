@@ -14,8 +14,7 @@ Done:
 
 Next:
 2. Framer: fixes 1-4 and 6 published 2026-10-16 (see docs/framer-fixes.md). Left: fix 5 (point 03, ask Taimur how he keeps characters consistent).
-3. Sign in to Instagram in the sidebar browser and fill in real view counts in docs/cheermyrun.md.
-4. (cloud chat) Outbound and Content Engine sheets, then scheduled routines.
+3. (cloud chat) Outbound and Content Engine sheets, then scheduled routines.
 
 ## 2026-10-16 · cloud chat ("AI animation portfolio setup")
 
@@ -27,7 +26,7 @@ Done:
 
 Next (needs a session on a PC):
 1. Run scripts\download-cheermyrun.bat and upload the folders to Drive: AI Forge/Portfolio/CheerMyRun.
-2. Framer: fixes 1-4 and 6 published 2026-10-16 (see docs/framer-fixes.md). Left: fix 5 (point 03, ask Taimur how he keeps characters consistent).
+2. Apply docs/framer-fixes.md to the Framer site. Show changes before publishing.
 3. Sign in to Instagram in the sidebar browser and fill in real view counts in docs/cheermyrun.md.
 
 Next (cloud chat):
