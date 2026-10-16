@@ -13,11 +13,24 @@ This repo is shared between two Windows PCs and a cloud Claude session. GitHub i
 - If a pull brings conflicts, stop and show me before resolving them.
 - Files over 50 MB (raw renders, full-length videos) don't go in git. They live in Google Drive. Compressed web clips under 10 MB in `assets/work/` are fine.
 
+## Wrap up (when I say "wrap up" or "handoff")
+
+1. Add a detailed entry at the top of `docs/log.md`: date, which PC or cloud, what was done, decisions made, anything half-finished (exact file and state), what you're waiting on me for, and the exact sentence I should send to the next chat.
+2. Commit and push. Confirm the push succeeded.
+3. Save the same entry as a new Google Doc in Drive: AI Forge/Handoffs (https://drive.google.com/drive/folders/12LBwYuUicnJ2fsuMTpz2thrzS4JLgN95), titled "YYYY-MM-DD HH:MM <where>". Create a new file each time; don't edit old ones.
+4. Tell me it's safe to switch PCs.
+
+## Where things live
+
+- Git (this repo): docs, fix lists, scripts, site files, the work log. Anything text that gets edited.
+- Google Drive (AI Forge folder): videos, renders, Google Sheets (outbound, content engine), client files, handoff copies.
+
 ## Google Drive (account: cgiforge@gmail.com)
 
 All AI Forge files live under the **AI Forge** folder: https://drive.google.com/drive/folders/1aB8MRViIlcg0SvNo-_lm62fDiJeatJRh
 - `Portfolio/` (CheerMyRun with French, German, Japanese versions; Ketro; JTX): https://drive.google.com/drive/folders/1M6c7RfjJhn2TpJINaluk6mv4toTSJjmM
 - `Research/`: https://drive.google.com/drive/folders/189tUTXUBwNyhGojS-dbf1ggORyx_tzBd
+- `Handoffs/`: https://drive.google.com/drive/folders/12LBwYuUicnJ2fsuMTpz2thrzS4JLgN95
 
 The same Drive has a **CGI Forge** folder. Never read from it or write to it in AI Forge work.
 
