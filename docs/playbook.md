@@ -2,7 +2,7 @@
 
 ## Positioning
 
-Volume shops (Doublespeed and similar) sell output: lots of AI clips, UGC and faceless content. AI Forge sells finished animation that holds attention, at a pace that suits social. The edge you can prove is seven years as a 3D animator: you write the story, you see bad timing and off-model frames, and you fix them in Blender instead of rerolling.
+Volume shops (Doublespeed and similar) sell output: lots of AI clips, UGC and faceless content. AI Forge sells finished animation that holds attention, at a pace that suits social. The edge you can prove is seven years as a 3D animator: you write the story, you see bad timing and off-model frames, and you don't ship a shot until it reads right.
 
 One line: **Story-first animated shorts by a 3D animator, produced with an AI pipeline so a series can ship every week.**
 
@@ -16,7 +16,7 @@ You have a large animation portfolio. The site's job is to show the right slice 
 | A character-led brand or product piece | You can sell with story |
 | 2 to 3 shorts with the same recurring character | "At scale": same model, same world across shorts |
 | A 16:9 piece | You deliver for YouTube or a website, not only vertical |
-| A breakdown: beat board, raw generation, your Blender fix, final | Your edge over prompt-only creators |
+| A breakdown: beat board, rejected takes, final | Your edge over prompt-only creators |
 | A 20 to 40s showreel cut from the best moments | Hero video, the first thing anyone sees |
 
 If one of these slots is empty in your existing work, that's the one piece worth making next.
@@ -62,7 +62,7 @@ Only use "none of them use a character" if that's true after checking the full f
 
 ### Job or gig application (opening paragraph)
 
-> I've worked as a 3D animator for seven years, mostly in Blender, and I now produce animated shorts with an AI pipeline. I write the script and beat board first, generate the shots, and fix timing and off-model frames by hand. My portfolio has [N] shorts, including a three-episode series with one recurring character: [link].
+> I've worked as a 3D animator for seven years, mostly in Blender, and I now produce animated shorts with an AI pipeline. I write the script and beat board first, and generate each shot until the timing and acting read right. My portfolio has [N] shorts, including a three-episode series with one recurring character: [link].
 
 Change the title and the first line per role. The facts stay the same.
 
