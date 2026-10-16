@@ -29,3 +29,4 @@ The same Drive has a **CGI Forge** folder. Never read from it or write to it in 
 
 - `docs/handoff-prompt.md`: who I am, goals, honesty and writing rules
 - `docs/playbook.md`: positioning, curating, outreach templates
+- `docs/cheermyrun.md`: CheerMyRun campaign: review links, posting accounts, all 30 reels and which are in Drive
