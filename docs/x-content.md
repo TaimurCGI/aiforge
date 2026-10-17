@@ -11,7 +11,12 @@ Numbers Claude may use in posts (all from docs/cheermyrun.md or Taimur):
 - Capacity: up to 10 finished reels a day, 70 a week, 300 a month (Taimur)
 - Method: character sheets first, then a first frame for every shot instead of one first frame for the whole video (Taimur)
 - Seven years as a 3D animator, mostly in Blender
-- Tools listed on the site FAQ: Higgsfield with Seedance 2.5, Nano Banana Pro
+- Made for 10 markets, but views are from 9: the UK account (@sophierunsdaily_) isn't live yet. Never claim UK views or "views across 10 markets".
+- Turnaround: 24 hours from brief to finished ad (Taimur)
+- Tools: Claude, Higgsfield (Seedance 2.5 + Nano Banana Pro, sometimes 3D Jutsu), ElevenLabs; Kling or Veo when needed. Edits and motion graphics through Claude; Premiere/After Effects rarely. Other languages translated with Claude and checked by a multi-agent reviewer Taimur built (Taimur)
+- Client quotes (Loom reviews, 9 to 12 Oct, public, no NDA), attributed as "my client at CheerMyRun": "We have a winner format, definitely." (the papá/stepdad format that became the 130K reel) / "This works perfect and it's proven." / "Let's replicate this exact one."
+- No singing ads made yet: don't imply he makes them
+- No conversion numbers (sign-ups, CTR, ROAS) yet: views and the client's words only
 - Ketro (pain relief cream), absurd explainer "Never trade knees with a flamingo": 17.8K views, 156 likes (Taimur's file name in Drive). JTX (trading app): no numbers recorded, so posts use none.
 
 ## What the content sells (from docs/offer.md)
@@ -30,9 +35,9 @@ Never write "no one else does this". Show the number and let the reader compare.
 
 | Pillar | Proof to use | Drafts that prove it |
 |---|---|---|
-| **Speed** | 70 reels in one week for CheerMyRun; up to 10 a day, 70 a week, 300 a month | 1, 6, 13, 17 |
-| **Quality** | Seven years as a 3D animator; 130K organic on one reel, 350K+ across the campaign; character sheets + a first frame per shot | 1, 2, 5, 7, 17, Thread 2 |
-| **Story** | Taimur researches and writes every script himself; every reel built on a specific moment (km 32, mile 25, km 37 in 1980) | 8, 9, 10, 11, 17, 18, 19 |
+| **Speed** | 24 hours from brief to finished ad; 70 reels in one week for CheerMyRun; up to 10 a day, 70 a week, 300 a month | 1, 6, 13, 17, 20 |
+| **Quality** | Seven years as a 3D animator; 130K organic on one reel, 350K+ across the campaign; client: "We have a winner format, definitely."; character sheets + a first frame per shot | 1, 2, 5, 7, 17, 21, Thread 2 |
+| **Story** | Taimur researches and writes every script himself; every reel built on a specific moment (km 32, mile 25, km 37 in 1980); 7 languages via Claude + his multi-agent reviewer | 8, 9, 10, 11, 17, 18, 19, 22 |
 
 **Price never goes in public posts or on the site (Taimur, 2026-10-17).** The rate is quoted only in DMs, and only when a lead asks. In posts the USP is speed, quality and story, each shown with a number.
 
@@ -122,12 +127,13 @@ Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio (Cheer
 
 ### Draft 1: pinned proof thread (post first, then pin)
 
-> 1/ I made 70 AI drama reels in one week for one brand.
-> 10 markets. 7 languages. 350K+ organic views. No ad spend.
+> 1/ I made 70 AI drama reels in one week for one brand, in 7 languages.
+> 350K+ organic views so far. No ad spend.
 > Here's what it looked like:
 
 > 2/ The top one: a stepdad who gets called papa for the first time at km 32 of the Berlin marathon.
 > 130K views and 8.1K likes on Instagram.
+> My client's words when he reviewed the format: "We have a winner format, definitely."
 
 > 3/ Same story, 7 languages, very different results:
 > Germany 130K
@@ -146,7 +152,7 @@ Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio (Cheer
 > 5/ Seven years as a 3D animator before AI. That's where the timing and acting come from.
 
 > 6/ I make story-first AI ads for brands that sell online: a pain relief cream, a trading app and a marathon app so far.
-> Up to 10 finished ads a day.
+> 24 hours from brief to finished ad. Up to 10 a day.
 > Your first one is free, made on your own Higgsfield. DM me.
 > taimur.framer.website
 
@@ -157,9 +163,10 @@ Why: receipt in line one, the strongest number, a data point nobody else posts, 
 
 > One AI story reel. 130K views. 8.1K likes. $0 in ads.
 > A stepdad gets called papa for the first time at km 32.
+> My client, when he saw the format: "We have a winner format, definitely."
 
 Media: German/de_stepdad.mp4.
-Why: same format as the cost/result receipts that beat these accounts' averages.
+Why: same format as the cost/result receipts that beat these accounts' averages, plus third-party proof against the fake-portfolio fear.
 
 ### Draft 3: localization data
 
@@ -196,6 +203,7 @@ Why: copies the "you're missing this extra step" hook (235K views) with his real
 
 ### Draft 6: capacity
 
+> 24 hours from brief to finished ad.
 > 10 finished story ads a day.
 > 70 a week.
 > 300 a month.
@@ -264,8 +272,9 @@ Why: rides the "drama ads are printing" wave with his own numbers.
 ### Draft 13: for brands hiring AI video editors
 
 > If you're about to post "hiring AI video editor":
-> I made 70 AI drama reels in one week for CheerMyRun, cut for 10 markets, 350K+ organic views.
-> Per video or monthly batches. First ad free, on your own Higgsfield.
+> I made 70 AI drama reels in one week for CheerMyRun, in 7 languages, 350K+ organic views.
+> My client's review: "This works perfect and it's proven."
+> 24 hours from brief to finished ad. Per video or monthly batches. First ad free, on your own Higgsfield.
 > taimur.framer.website
 
 Media: 30 to 45s montage of the best reels: **needs cutting**.
@@ -302,10 +311,10 @@ Why: hits the buyer's "wasted credits" fear and positions Taimur as the safe hir
 ### Draft 17: speed, quality, story
 
 > What you get from me on every AI ad:
-> Speed: 70 reels in one week for CheerMyRun. Up to 10 a day.
+> Speed: 24 hours from brief to finished ad. 70 reels in one week for CheerMyRun.
 > Quality: seven years as a 3D animator before AI.
 > Story: I research and write every script myself.
-> Proof: 130K organic views on one reel, 350K+ across the campaign.
+> Proof: 130K organic views on one reel, 350K+ across the campaign. My client: "We have a winner format, definitely."
 > First one's free, on your own Higgsfield.
 
 Media: Berlin reel or a 3-reel montage.
@@ -333,7 +342,7 @@ Why: proves research + story with three concrete beats from his real reels.
 
 ### Thread 2: character consistency (weekly thread)
 
-> 1/ How I kept the same characters across 70 AI reels in 10 languages:
+> 1/ How I kept the same characters across 70 AI reels in 7 languages:
 
 > 2/ Character sheets first. Every character gets a sheet before any shot is generated.
 
@@ -347,6 +356,39 @@ Why: proves research + story with three concrete beats from his real reels.
 > Want the same on your product? First ad free, on your Higgsfield. taimur.framer.website
 
 Media: 2/ character sheet, 3/ a first-frame grid for one reel: **both need Taimur's files**. Check 4/ is true before posting (that every market version used the same sheets).
+
+### Draft 20: the stack
+
+> My AI ad stack:
+> Claude: research, scripts, edits, motion graphics
+> Higgsfield: Nano Banana Pro for frames, Seedance 2.5 for shots
+> ElevenLabs: voice
+> Kling or Veo when a shot needs it
+> Premiere and After Effects almost never.
+> 24 hours from brief to finished ad.
+
+Media: a screen recording or a screenshot of one project across the tools: **needs Taimur's capture** (or post text only).
+Why: stack breakdowns get saved (@adilinthewild's stack post: 488 likes, 206 reposts). Brands running Higgsfield see he works where they already pay.
+
+### Draft 21: the client's review
+
+> My client's Loom review of one AI ad format:
+> "We have a winner format, definitely."
+> "This works perfect and it's proven."
+> "Let's replicate this exact one."
+> That format became the 130K-view reel.
+
+Media: the Berlin reel. A screenshot of the Loom with the quote on screen would be stronger: **needs Taimur's screenshot** (check it shows nothing private).
+Why: third-party proof is rare in this niche and answers the fake-portfolio fear directly. Attributed as "my client" until Iñigo's role is confirmed.
+
+### Draft 22: 7 languages, one reviewer
+
+> I only write in English.
+> The other 6 languages of the CheerMyRun campaign were translated with Claude and checked by a multi-agent reviewer I built.
+> German version: 130K organic views.
+
+Media: the German reel with English subtitles side by side, or a screenshot of the reviewer: **needs making**.
+Why: the localization angle plus a tool he built himself, which builders on X repost. Proves the multi-market claim without saying he speaks the languages.
 
 ### Reply templates (for big accounts and hiring posts)
 
