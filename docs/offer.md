@@ -2,6 +2,16 @@
 
 Set by Taimur on 2026-10-17, using the six steps from Tom Noske's post (instagram.com/p/DeSo34eBhvZ): niche, person, result, offer, price, content.
 
+## USP (Taimur, 2026-10-17)
+
+The combination of four things:
+- **Rate:** $50 per video.
+- **Speed:** 70 reels in one week for CheerMyRun, up to 10 a day.
+- **Quality:** seven years as a 3D animator, so timing, acting and characters hold up.
+- **Story:** Taimur researches and writes every script himself.
+
+In public copy, prove it with these numbers rather than saying "no one else does this".
+
 ## 1. Niche
 
 Story-first AI animated ads for brands that sell online. No single market: past clients are Ketro (pain relief cream), JTX (trading app) and CheerMyRun (marathon cheer app). Any product works, except ones that sell on sex appeal.
