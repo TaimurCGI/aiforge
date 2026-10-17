@@ -13,6 +13,7 @@ Paid AI drama work for CheerMyRun, a cheer app. 66 reels by Taimur: the 30 in th
 
 ## Doublespeed review links
 
+- 06/10/26: https://doublespeed.ai/review/fad0f9bb-a51e-4385-97ec-ecf2b3eb8f38?v=18qqfsy (10 single-market stories posted 7 Oct, incl. "he said he couldn't be there for mile 25", saved to Drive as Portfolio/CheerMyRun/Mile 25/US.mp4)
 - 07/10/26: https://doublespeed.ai/review/ebbe7733-d5e9-4385-ba64-89cfb07178bb?v=gd6l9p
 - 08/10/26: https://doublespeed.ai/review/1abb41e7-d148-4837-b851-2a50a694d1bf?v=2g8ok8x
 - 09/10/26: https://doublespeed.ai/review/8b40be25-43a0-4106-ace9-b550599f45af?v=czlz6d
@@ -26,7 +27,7 @@ Added 2026-10-17 (Taimur): later batches, some posted, some due in the next few 
 
 ## Instagram posting accounts
 
-Shared by Taimur on 2026-10-16. Market per account confirmed from the posted captions on 2026-10-16. No account posts the UK versions.
+Shared by Taimur on 2026-10-16. Market per account confirmed from the posted captions on 2026-10-16. UK versions post on a 10th account, @sophierunsdaily (seen in the 06/10/26 review batch on 2026-10-17); its views are not read yet.
 
 | Market | Account |
 |---|---|
