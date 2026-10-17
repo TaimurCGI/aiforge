@@ -47,18 +47,18 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 - **Tools:** Claude, Higgsfield (Nano Banana Pro + Seedance 2.5; occasionally Higgsfield 3D Jutsu), ElevenLabs. Kling or Veo when needed, but Seedance gives the best results. Editing and motion graphics through Claude; Premiere Pro and After Effects for hand edits when needed (rarely).
 - **Languages:** English. Other languages are translated with Claude and checked by a multi-agent reviewer Taimur built.
 - **Singing ads:** none made yet; happy to do one as a free test.
-- **Rights:** no NDA with Doublespeed; the CheerMyRun work, numbers and client feedback can be shared publicly (Taimur, 2026-10-17). Iñigo's role is still unknown, so attribute quotes to "my client at CheerMyRun" until it is.
+- **Rights:** no NDA with Doublespeed; the CheerMyRun work, numbers and client feedback can be shared publicly (Taimur, 2026-10-17). Quotes are from Iñigo Vazquez, founder of CheerMyRun (Taimur, 2026-10-17).
 
 ## Proof to collect
 
-- **Client quotes: Iñigo (CheerMyRun), from his Loom reviews 9 to 12 Oct 2026** (pasted by Taimur 2026-10-17):
+- **Client quotes: Iñigo Vazquez, founder of CheerMyRun, from his Loom reviews 9 to 12 Oct 2026** (pasted by Taimur 2026-10-17):
   - Loom 5, 10 Oct, "Proven AI Cheer Hook Format!!!" (papá / stepdad format, which became the 130K German reel): "We have a winner format, definitely." / "I would squeeze as much as we can out of these." / "This is amazing, guys. This is perfect. Perfect, perfect." / "I love it because it's short, it's less than a minute." / "This works perfect and it's proven." He also considered moving their hook-and-demo accounts to "these type of AI videos".
   - Loom 4, 12 Oct (US papá): "This is perfect, right?" / "Let's replicate this exact one." / on the grandpa idea: "I think that's gonna do well." / on the centred end card: "When it's centered, it looks a lot cleaner... It's high quality."
   - Loom 6, 10 Oct (US siblings): "I think this is a very good format." / "I love this, right?"
   - Loom 3, 9 Oct (UK siblings): "I think it's incredible and we have a winner here as well, if we change these things."
   - Loom 1 and 2, 9 Oct (Run for me too, IT reel): "this is a very good format."
   - What he praised most: the papá format as a proven winner, the CheerMyRun notification pop-up, reels under a minute, the emotional cheers, the clean centred end card.
-  - Taimur says these can be shared publicly (no NDA). Attribute as "my client at CheerMyRun" until Iñigo's role is known.
+  - Taimur says these can be shared publicly (no NDA). Attribute as "Iñigo Vazquez, founder of CheerMyRun" (or "CheerMyRun's founder" when space is short).
 - **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
 ## 6. Content

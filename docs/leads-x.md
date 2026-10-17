@@ -99,9 +99,9 @@ DM:
 
 ### 7. @thankyouecom / @unknownpsyop, 8 Oct (AI drama, emotional storytelling)
 https://x.com/thankyouecom/status/2108000171598741894
-Comment: "We have a winner format, definitely." My client on this one, now 130K organic. taimur.framer.website
+Comment: "We have a winner format, definitely." CheerMyRun's founder on this one, now 130K organic. taimur.framer.website
 DM:
-> Hey, my client's verdict on this AI drama format: "We have a winner format, definitely." A girl calls her stepdad "papa" for the first time at km 32. The German version is at 130K views, no ad spend. instagram.com/reel/DeQPcZdsZaC
+> Hey, CheerMyRun's founder on this AI drama format: "We have a winner format, definitely." A girl calls her stepdad "papa" for the first time at km 32. The German version is at 130K views, no ad spend. instagram.com/reel/DeQPcZdsZaC
 >
 > Still looking? Send me a product and I'll make a free test drama on your Higgsfield, ready in 24 hours. taimur.framer.website
 
@@ -117,7 +117,7 @@ DM:
 https://x.com/RJWEMMY/status/2107502100796080521
 Comment: 70 AI reels in one week, best one 130K organic. taimur.framer.website
 DM:
-> Hey, at that spend volume matters: I made 70 AI reels in one week for CheerMyRun, best one 130K organic. My client's words on that format: "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+> Hey, at that spend volume matters: I made 70 AI reels in one week for CheerMyRun, best one 130K organic. The founder's words on that format: "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
 >
 > If the role's still open, I'll prove it with a free test ad on your Higgsfield, turned around in 24 hours. taimur.framer.website
 
@@ -149,7 +149,7 @@ DM:
 https://x.com/Hamzah456537/status/2102473824013091199
 Comment: One of my AI ads pulled 8.1K likes on a single post. taimur.framer.website
 DM:
-> Hey Hamzah, "This works perfect and it's proven." That's my client at CheerMyRun on this format. Best version: 130K views, 8.1K likes, organic. instagram.com/reel/DeQPcZdsZaC
+> Hey Hamzah, "This works perfect and it's proven." That's Iñigo Vazquez, founder of CheerMyRun, on this format. Best version: 130K views, 8.1K likes, organic. instagram.com/reel/DeQPcZdsZaC
 >
 > Is the role still open? I'll make a free test for your brand on your Higgsfield within 24 hours. taimur.framer.website
 
