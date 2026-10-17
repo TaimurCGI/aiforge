@@ -12,6 +12,17 @@ Numbers Claude may use in posts (all from docs/cheermyrun.md or Taimur):
 - Method: character sheets first, then a first frame for every shot instead of one first frame for the whole video (Taimur)
 - Seven years as a 3D animator, mostly in Blender
 - Tools listed on the site FAQ: Higgsfield with Seedance 2.5, Nano Banana Pro
+- Ketro (pain relief cream), absurd explainer "Never trade knees with a flamingo": 17.8K views, 156 likes (Taimur's file name in Drive). JTX (trading app): no numbers recorded, so posts use none.
+
+## What the content sells (from docs/offer.md)
+
+- **Offer:** story-first AI animated ads for brands that sell online, any product except ones sold on sex appeal. Past clients: Ketro (pain relief cream), JTX (trading app), CheerMyRun (marathon cheer app).
+- **Buyer:** the owner or head of creative at an ecom or app brand running paid social, often the person posting "hiring AI video editor" on X. Wants winning creatives fast. Fears AI slop, wasted generation credits and fake portfolios.
+- **Call to action in posts:** a free test ad, made on the brand's own Higgsfield. Contract or per-video work first.
+- **Price:** not in public posts. Quote after the free test or on a call (unless Taimur says otherwise).
+- **Origin story:** seven years animating in Blender, now AI; 70 reels in one week for CheerMyRun; 130K organic on one reel, 350K+ across the campaign.
+
+Every draft below is written for that buyer: a result they can check, proof against the slop/fake-portfolio fear, and the free test as the next step.
 
 ## Research
 
@@ -72,25 +83,28 @@ The small ecom accounts (6K to 9K followers) get 5K to 35K views on posts with a
 5. **Naming the trend with proof.** "Drama ads are printing" is everywhere; Taimur can back it with his own 350K+.
 6. **Breakdown threads.** Numbered steps, a case study, a list of styles. These get saved and reposted.
 
-### Taimur's edge
+### Taimur's edge, for the buyer
 
-- He has real, checkable numbers on the format brands are hiring for right now (AI drama ads).
-- Volume proof: 70 reels in a week, up to 10 a day. Brands hiring editors ask for speed.
-- Localization proof: the same story in 7 languages with very different results. Few people post that data.
-- Animator background: seven years in 3D, which explains why his characters hold up. Higgsfield's Blender + AI film shows the audience cares about that pipeline.
+- **Against "AI slop":** seven years as a 3D animator; he catches bad timing, weight and off-model frames. Higgsfield's Blender + AI film shows this audience cares about that pipeline.
+- **Against "fake portfolios":** every number he posts links to a live Instagram post anyone can check.
+- **Against "slow":** 70 reels in a week, up to 10 a day.
+- **Range:** a pain relief cream (Ketro), a trading app (JTX) and a marathon cheer app (CheerMyRun). Story-first ads work for any product that sells online.
+- **Localization data:** the same story in 7 languages with very different results. Few people post that.
+- **Low-risk first step:** a free test ad on the brand's own Higgsfield, so they see his work on their product with their account before paying.
 
 ### Plan
 
-- **Fix the profile first:** replace the 10 Oct post with the new pinned proof thread (Draft 1). Suggested bio: "Story-first AI animation. 7 years as a 3D animator. 70 AI drama reels in a week for CheerMyRun, 350K+ organic views." Put taimur.framer.website in the website field.
+- **Fix the profile first:** replace the 10 Oct post with the new pinned proof thread (Draft 1). Suggested bio: "Story-first AI animated ads for brands that sell online. 7 years as a 3D animator. 350K+ organic views on my last campaign. DM for a free test ad." Put taimur.framer.website in the website field.
 - **Cadence:** 1 original post a day (alternate clip posts, receipts, questions), 1 thread a week, and 10 to 20 replies a day.
+- **Every post ends the same way when it has a CTA:** free test ad, DM. No price in public posts; Taimur quotes after the test or on a call.
 - **Replies are the main growth lever at 21 followers.** Reply early to posts from @CEO_Vlad, @MaxbatIe, @Framer_X, @irabukht, @higgsfield_ai and to every new AI video editor hiring post. Lead with a clip or a number, not "DM'd".
 - **Timing:** the data here does not show posting times. Most posters and hirers are US ecom owners, so start at 9 to 11am US Eastern and compare with an evening slot for two weeks.
-- **How this gets him hired:** the leads in docs/leads-x.md come from brand owners posting on X. A profile with a pinned proof thread and daily clips turns every reply and DM into a click to proof. Repeat the same 2 or 3 numbers until they're what people remember about him.
-- **Avoid:** reposting other people's clips as "masterpiece" posts, unverifiable claims, and naming numbers he can't show.
+- **How this gets him work:** the leads in docs/leads-x.md come from brand owners posting on X. A pinned proof thread plus daily clips turns every reply and DM into a click to proof, and the free test turns the click into a trial. Contract and per-video work first; full-time only if the offer is very good, so posts say "per video or monthly batches", not "hire me full-time".
+- **Avoid:** reposting other people's clips as "masterpiece" posts, unverifiable claims, promising a winner or ROAS, and anything for products sold on sex appeal.
 
 ## Drafts
 
-Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio/CheerMyRun.
+Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio (CheerMyRun, Ketro, JTX). No price in any public post.
 
 ### Draft 1: pinned proof thread (post first, then pin)
 
@@ -117,11 +131,13 @@ Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio/CheerM
 
 > 5/ Seven years as a 3D animator before AI. That's where the timing and acting come from.
 
-> 6/ I can make up to 10 finished reels a day.
-> Brands that want story ads: taimur.framer.website
+> 6/ I make story-first AI ads for brands that sell online: a pain relief cream, a trading app and a marathon app so far.
+> Up to 10 finished ads a day.
+> Your first one is free, made on your own Higgsfield. DM me.
+> taimur.framer.website
 
 Media: 1/ Berlin reel (German/de_stepdad.mp4). 3/ a screenshot of the 7 numbers or a split-screen of the 7 versions (Km 32 first papa/*.mp4 + German/de_stepdad.mp4): **needs making**. 4/ a character sheet: **needs Taimur's file**.
-Why: receipt in line one, the strongest number, a data point nobody else posts, then the method and a call to action. Pinned, it's the page every reply and DM leads to.
+Why: receipt in line one, the strongest number, a data point nobody else posts, the method (answers the slop fear), then range and the free test. Pinned, it's the page every reply and DM leads to.
 
 ### Draft 2: single receipt + clip
 
@@ -166,21 +182,22 @@ Why: copies the "you're missing this extra step" hook (235K views) with his real
 
 ### Draft 6: capacity
 
-> 10 finished story reels a day.
+> 10 finished story ads a day.
 > 70 a week.
 > 300 a month.
-> Each one with a script, a hook in the first two seconds and an ending that pays it off.
+> Each one researched and scripted, with a hook in the first two seconds and an ending that pays it off.
+> Want to see one on your product? First one's free.
 
 Media: a fast montage of 10 reels: **needs cutting**.
-Why: brands hiring editors ask about speed and volume first.
+Why: brands hiring editors ask about speed and volume first; "researched and scripted" says it's more than generation.
 
 ### Draft 7: the animator's eye
 
-> Seven years of keyframing before AI.
-> When a shot comes back with bad timing or weight, I see it on the first watch, and it doesn't make the cut.
+> Brands don't fear AI ads. They fear AI slop.
+> Seven years of keyframing before AI: when a shot comes back with bad timing or weight, I see it on the first watch, and it doesn't make the cut.
 
 Media: Run for me too/IT.mp4.
-Why: answers the "AI slop" debate (@Aazarshad's post got 832K views) from a position few AI editors have.
+Why: names the buyer's fear in line one and answers it from a position few AI editors have (the AI-vs-human debate post got 832K views).
 
 ### Draft 8: clip post, Italy
 
@@ -230,15 +247,43 @@ Why: breakdown posts get saved; it shows a real pipeline, not one-prompt output.
 Media: Berlin reel or a 3-reel montage.
 Why: rides the "drama ads are printing" wave with his own numbers.
 
-### Draft 13: hiring-facing
+### Draft 13: for brands hiring AI video editors
 
-> Brands hiring AI video editors:
-> I made 70 AI drama reels in one week for CheerMyRun, cut for 10 markets.
-> Open to full-time, contract or per-video.
+> If you're about to post "hiring AI video editor":
+> I made 70 AI drama reels in one week for CheerMyRun, cut for 10 markets, 350K+ organic views.
+> Per video or monthly batches. First ad free, on your own Higgsfield.
 > taimur.framer.website
 
 Media: 30 to 45s montage of the best reels: **needs cutting**.
-Why: a post he can link in every application reply, and brand owners searching "AI video editor" will find it.
+Why: speaks to the exact person posting hiring tweets, before they post. He can link it in every application reply.
+
+### Draft 14: range (any product can carry a story)
+
+> A pain relief cream.
+> A trading app.
+> A marathon cheer app.
+> Three products, one approach: a story first, then the product.
+> If you sell online and want an AI ad that doesn't look like every other one, I'll make your first one free.
+
+Media: 3-clip montage, one per brand (Ketro flamingo, a JTX storybook clip, Berlin): **needs cutting**. Drive: Portfolio/Ketro, Portfolio/JTX, Portfolio/CheerMyRun.
+Why: the buyer is any ecom or app brand, not only cheer apps; this shows range in one post.
+
+### Draft 15: clip post, Ketro
+
+> Never trade knees with a flamingo.
+> An absurd AI explainer for a pain relief cream. 17.8K views.
+
+Media: Portfolio/Ketro/flamingo 17.8k views 156 likes.mp4.
+Why: a product ad (not an app), funny hook, number in line two. Shows the absurd-explainer format brands post about.
+
+### Draft 16: the credits question (needs Taimur's number)
+
+> Before you give an AI editor your Higgsfield login, ask one question:
+> how many generations do you burn per finished shot?
+> Mine: [X].
+
+Media: none.
+Why: hits the buyer's "wasted credits" fear and positions Taimur as the safe hire. **Needs Taimur's real average** before posting; don't post with a guess.
 
 ### Thread 2: character consistency (weekly thread)
 
@@ -252,7 +297,8 @@ Why: a post he can link in every application reply, and brand owners searching "
 
 > 5/ Seven years in 3D taught me to check timing, weight and acting on every shot before it goes in the edit.
 
-> 6/ Result for CheerMyRun: 70 reels in a week, 350K+ organic views. Portfolio: taimur.framer.website
+> 6/ Result for CheerMyRun: 70 reels in a week, 350K+ organic views.
+> Want the same on your product? First ad free, on your Higgsfield. taimur.framer.website
 
 Media: 2/ character sheet, 3/ a first-frame grid for one reel: **both need Taimur's files**. Check 4/ is true before posting (that every market version used the same sheets).
 
@@ -262,11 +308,12 @@ Short, one hook, one link. Personalize the first line to their post every time.
 
 - On a drama-ad post: "AI drama ads are most of what I made this month: 70 for CheerMyRun, top one at 130K organic. [clip]"
 - On a cost post: "[their tool or cost point]. Mine: up to 10 finished reels a day, story first. [clip]"
-- On a hiring post: one line about their product or market, one reel link, portfolio, and a question about their brief. See docs/leads-x.md for per-lead drafts.
+- On a hiring post: one line about their product or market, one reel link, portfolio, and the free test ("happy to make your first one free on your Higgsfield"). See docs/leads-x.md for per-lead drafts. No price in public replies.
 
 ## Questions for Taimur
 
-1. Cost per reel (credits or $) and time per reel: cost receipts are the strongest format in this niche, and we don't have yours.
+1. Generation cost per finished ad (Higgsfield credits or $) and how many generations you use per finished shot. Cost receipts are the strongest format in this niche, and Draft 16 answers the buyer's "wasted credits" fear. Neither can go out without your real numbers.
 2. Can you share a character sheet and the first-frame grid for one reel? Drafts 1, 5, 11 and Thread 2 use them.
+5. JTX view counts, if you want JTX clips posted with a number (none are recorded).
 3. Are the 9 reels posted 16 Oct yours too? One German stepdad remake had 33.1K views on day one; that would be a strong post.
 4. Is CheerMyRun fine with you posting client numbers and naming the posting accounts on X? The site already names them, but confirm before a big thread.
