@@ -8,6 +8,7 @@ Paid AI drama work for CheerMyRun, a cheer app. 66 reels by Taimur: the 30 in th
 - Peak output: 70 reels in one week, all CheerMyRun (Taimur, 2026-10-16). Ketro and JTX reels were separate.
 - Paid work.
 - All views were 100% organic, no ad spend (Taimur, 2026-10-17).
+- Capacity: up to 10 finished reels a day, 70 a week, 300 a month (Taimur, 2026-10-17).
 - 150K+ views across the 30 review-batch reels; the DE "Km 32 first papa" reel was posted on day 3 (Taimur). Instagram on 2026-10-16 shows about 223K for the 27 posted, DE at 123K, DE dated 8 Oct.
 
 ## Doublespeed review links

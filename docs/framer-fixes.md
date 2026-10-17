@@ -54,7 +54,7 @@ Pending publish: hero "350K organic views" and the case-study caption about orga
 2. Refresh reel-card numbers: Berlin 123K/7.7K -> 130K/8.1K. The others are current.
 3. Hero deck leads with "Dad at mile 20" (US, 8.2K). Lead with Berlin (130K) or the new DE stepdad reel (33.1K in a day).
 4. Case study shows the Berlin reel again (already first in the grid). Use a second winner there, e.g. DE stepdad 33.1K or FR stepdad 10.1K.
-5. FAQ: add "How fast do you work?" -> 70 reels in one week for CheerMyRun, versions for 10 markets.
+5. FAQ "How fast do you work?" added on canvas (not published): "Up to 10 finished reels a day, 70 a week or 300 a month. For CheerMyRun I made 70 reels in one week, with versions for 10 markets."
 6. Portrait card in About has DM only; add Email (needs a small layout change, card is 400px).
 7. Instagram/TikTok link next to X if Taimur has a public account for his work.
 8. Framer badge "Create a free website with Framer" shows in the footer; removing it needs a paid Framer plan.
