@@ -42,6 +42,13 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 
 $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,000). Private: never on the site or in posts, never in a first DM. Quote it only when a lead asks about pricing (Taimur, 2026-10-17). Reply text is in docs/leads-x.md.
 
+## Tools, languages, rights (Taimur, 2026-10-17)
+
+- **Tools:** Claude, Higgsfield (Nano Banana Pro + Seedance 2.5; occasionally Higgsfield 3D Jutsu), ElevenLabs. Kling or Veo when needed, but Seedance gives the best results. Editing and motion graphics through Claude; Premiere Pro and After Effects for hand edits when needed (rarely).
+- **Languages:** English. Other languages are translated with Claude and checked by a multi-agent reviewer Taimur built.
+- **Singing ads:** none made yet; happy to do one as a free test.
+- **Rights:** no NDA with Doublespeed; the CheerMyRun work, numbers and client feedback can be shared publicly (Taimur, 2026-10-17). Iñigo's role is still unknown, so attribute quotes to "my client at CheerMyRun" until it is.
+
 ## Proof to collect
 
 - **Client quotes: Iñigo (CheerMyRun), from his Loom reviews 9 to 12 Oct 2026** (pasted by Taimur 2026-10-17):
@@ -51,7 +58,7 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
   - Loom 3, 9 Oct (UK siblings): "I think it's incredible and we have a winner here as well, if we change these things."
   - Loom 1 and 2, 9 Oct (Run for me too, IT reel): "this is a very good format."
   - What he praised most: the papá format as a proven winner, the CheerMyRun notification pop-up, reels under a minute, the emotional cheers, the clean centred end card.
-  - Before use in DMs, posts or on the site: confirm Iñigo's role and get his OK to quote him.
+  - Taimur says these can be shared publicly (no NDA). Attribute as "my client at CheerMyRun" until Iñigo's role is known.
 - **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
 ## 6. Content

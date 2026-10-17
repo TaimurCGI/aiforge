@@ -74,7 +74,7 @@ DM:
 >
 > 1. CheerMyRun, Germany, 130K: instagram.com/reel/DeQPcZdsZaC / CheerMyRun, Brazil, 16K: instagram.com/reel/DeQRGIIoodw / Ketro pain gel explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
 > 2. CheerMyRun (app), Ketro, JTX
-> 3. Higgsfield with Seedance 2.5, Nano Banana Pro, Blender
+> 3. Claude, Higgsfield (Seedance 2.5 + Nano Banana Pro), ElevenLabs; Kling or Veo when a shot needs it; Premiere Pro and After Effects for hand edits
 > 4. 70 reels in one week for CheerMyRun across 10 markets, 350K+ organic views
 >
 > Happy to make a free test ad for one of your products on your Higgsfield, delivered within 24 hours. taimur.framer.website
@@ -95,13 +95,13 @@ Comment: My Pixar-style AI drama did 130K organic in Germany. taimur.framer.webs
 DM:
 > Hey, I've already tested Pixar-style AI drama in Germany: 130K organic views, 8.1K likes. instagram.com/reel/DeQPcZdsZaC
 >
-> For a health brand I'd build it around one person getting back to something they love. Still hiring? I'll make one free as a test on your Higgsfield, back to you in 24 hours. taimur.framer.website
+> For a health brand I'd build it around one person getting back to something they love. I haven't shipped a singing ad yet, so I'd happily make that the free test. Still hiring? I'll make one free as a test on your Higgsfield, back to you in 24 hours. taimur.framer.website
 
 ### 7. @thankyouecom / @unknownpsyop, 8 Oct (AI drama, emotional storytelling)
 https://x.com/thankyouecom/status/2108000171598741894
-Comment: 130K views on a girl calling her stepdad "papa" for the first time at km 32. taimur.framer.website
+Comment: "We have a winner format, definitely." My client on this one, now 130K organic. taimur.framer.website
 DM:
-> Hey, my best AI drama ad: a girl calls her stepdad "papa" for the first time at km 32. 130K views, 8.1K likes, no ad spend. instagram.com/reel/DeQPcZdsZaC
+> Hey, my client's verdict on this AI drama format: "We have a winner format, definitely." A girl calls her stepdad "papa" for the first time at km 32. The German version is at 130K views, no ad spend. instagram.com/reel/DeQPcZdsZaC
 >
 > Still looking? Send me a product and I'll make a free test drama on your Higgsfield, ready in 24 hours. taimur.framer.website
 
@@ -117,7 +117,7 @@ DM:
 https://x.com/RJWEMMY/status/2107502100796080521
 Comment: 70 AI reels in one week, best one 130K organic. taimur.framer.website
 DM:
-> Hey, at that spend volume matters: I made 70 AI reels in one week for CheerMyRun, best one 130K organic. instagram.com/reel/DeQPcZdsZaC
+> Hey, at that spend volume matters: I made 70 AI reels in one week for CheerMyRun, best one 130K organic. My client's words on that format: "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
 >
 > If the role's still open, I'll prove it with a free test ad on your Higgsfield, turned around in 24 hours. taimur.framer.website
 
@@ -127,7 +127,7 @@ Comment: My best AI drama this month: 130K organic views. taimur.framer.website
 DM:
 > Hey Ole, still looking? My best AI drama this month: 130K views, no ad spend. instagram.com/reel/DeQPcZdsZaC
 >
-> For skincare I'd tell it through one character's story from first use to the moment someone notices. I'll make it free as a test on your Higgsfield within 24 hours. taimur.framer.website
+> For skincare I'd tell it through one character's story from first use to the moment someone notices. Happy to try it as a Suno singing ad too. I'll make it free as a test on your Higgsfield within 24 hours. taimur.framer.website
 
 ### 11. @davidolic_, 26 Sep (Pixar 3D, claymation, UGC, VSLs; supplements a bonus)
 https://x.com/davidolic_/status/2103819846018376029
@@ -149,7 +149,7 @@ DM:
 https://x.com/Hamzah456537/status/2102473824013091199
 Comment: One of my AI ads pulled 8.1K likes on a single post. taimur.framer.website
 DM:
-> Hey Hamzah, my best AI ad so far: 130K views, 8.1K likes, organic. instagram.com/reel/DeQPcZdsZaC
+> Hey Hamzah, "This works perfect and it's proven." That's my client at CheerMyRun on this format. Best version: 130K views, 8.1K likes, organic. instagram.com/reel/DeQPcZdsZaC
 >
 > Is the role still open? I'll make a free test for your brand on your Higgsfield within 24 hours. taimur.framer.website
 

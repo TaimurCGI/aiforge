@@ -27,7 +27,7 @@ Added 2026-10-17 (Taimur): later batches, some posted, some due in the next few 
 
 ## Instagram posting accounts
 
-Shared by Taimur on 2026-10-16. Market per account confirmed from the posted captions on 2026-10-16. UK versions post on a 10th account, @sophierunsdaily (seen in the 06/10/26 review batch on 2026-10-17); its views are not read yet.
+Shared by Taimur on 2026-10-16. Market per account confirmed from the posted captions on 2026-10-16. UK versions will post on a 10th account, @sophierunsdaily_, which is not live yet (Taimur, 2026-10-17). The 06/10/26 review batch lists it as @sophierunsdaily.
 
 | Market | Account |
 |---|---|
