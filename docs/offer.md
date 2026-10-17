@@ -10,7 +10,7 @@ The combination of four things:
 - **Quality:** seven years as a 3D animator, so timing, acting and characters hold up.
 - **Story:** Taimur researches and writes every script himself.
 
-In public copy, prove it with these numbers rather than saying "no one else does this".
+In public copy, prove speed, quality and story with these numbers rather than saying "no one else does this". The rate stays private until a lead asks.
 
 ## 1. Niche
 
@@ -40,7 +40,7 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 
 ## 5. Price
 
-$50 per video, no discounts: any volume is the count times $50 (20 videos = $1,000). Shown openly in DMs and on the site (Taimur, 2026-10-17); not yet decided for public X posts.
+$50 per video, no discounts: any volume is the count times $50 (20 videos = $1,000). Private: never on the site or in posts, never in a first DM. Quote it only when a lead asks about pricing (Taimur, 2026-10-17). Reply text is in docs/leads-x.md.
 
 ## 6. Content
 
