@@ -72,3 +72,4 @@ Pending publish: hero "350K organic views" and the case-study caption about orga
 - Badge stays (Taimur's choice).
 
 Still open: suggestion 4 (case study needs a second winner; best is the DE stepdad reel from 16 Oct, 33.1K, not in Drive yet), suggestion 7 (other socials, needs a handle), suggestion 8 (client quote, needs a real one), unverified form recipient.
+- 2026-10-17 (version b58a1080f, Taimur's OK, checked live): cleaning card now Germany "She never had a home of her own" (5.9K / 114); 1978 card replaced by US "He couldn't be there for mile 25" (4.6K / 293); Instagram link (instagram.com/taimurcgi) added to the footer. Rules applied: one reel per story, English markets first when they outperform.
