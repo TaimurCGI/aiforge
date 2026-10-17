@@ -51,7 +51,7 @@ Still open: the email button inside the hero portrait card (no room at 400px) an
 Pending publish: hero "350K organic views" and the case-study caption about organic testing (on canvas).
 
 1. Stat card "220K+ · Organic views in 7 days" -> "350K+ · Organic views on Instagram" to match the hero.
-2. Refresh reel-card numbers: Berlin 123K/7.7K -> 130K/8.1K; Nonno 8.6K/368 (current); Japan km 35 4.8K -> 4.8K (4,880).
+2. Refresh reel-card numbers: Berlin 123K/7.7K -> 130K/8.1K. The others are current.
 3. Hero deck leads with "Dad at mile 20" (US, 8.2K). Lead with Berlin (130K) or the new DE stepdad reel (33.1K in a day).
 4. Case study shows the Berlin reel again (already first in the grid). Use a second winner there, e.g. DE stepdad 33.1K or FR stepdad 10.1K.
 5. FAQ: add "How fast do you work?" -> 70 reels in one week for CheerMyRun, versions for 10 markets.
