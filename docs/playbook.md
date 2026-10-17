@@ -77,4 +77,6 @@ Outreach offer: a free test ad for their product, made with their Higgsfield acc
 
 Work terms (Taimur, 2026-10-17): contract first, as a monthly retainer or per video. Full-time only if the offer is really good.
 
+Rate (Taimur, 2026-10-17): $50 per video up to 60 seconds, research + script + production included; generation costs paid by the client on their Higgsfield. Full offer: docs/offer.md. The older notes below are from before this rate was set.
+
 Quote on a call after scope. Shorts priced per finished piece, series priced per month by episode count. 50% deposit, 50% before final files. Quote first, and only discount if they push back for real.
