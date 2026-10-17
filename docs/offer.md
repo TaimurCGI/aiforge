@@ -44,10 +44,14 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 
 ## Proof to collect
 
-- **Client quotes (CheerMyRun, reported by Taimur 2026-10-17):**
-  - On the stepdad reel (Km 32 first papa, 130K on the German version): "we have a winner format, definitely" and "I would squeeze as much as we can out of these".
-  - On the videos overall: "amazing" and "well produced" (exact wording still to confirm).
-  - Before use in DMs, posts or on the site: confirm who said it (name and role) and get their OK to quote it.
+- **Client quotes: Iñigo (CheerMyRun), from his Loom reviews 9 to 12 Oct 2026** (pasted by Taimur 2026-10-17):
+  - Loom 5, 10 Oct, "Proven AI Cheer Hook Format!!!" (papá / stepdad format, which became the 130K German reel): "We have a winner format, definitely." / "I would squeeze as much as we can out of these." / "This is amazing, guys. This is perfect. Perfect, perfect." / "I love it because it's short, it's less than a minute." / "This works perfect and it's proven." He also considered moving their hook-and-demo accounts to "these type of AI videos".
+  - Loom 4, 12 Oct (US papá): "This is perfect, right?" / "Let's replicate this exact one." / on the grandpa idea: "I think that's gonna do well." / on the centred end card: "When it's centered, it looks a lot cleaner... It's high quality."
+  - Loom 6, 10 Oct (US siblings): "I think this is a very good format." / "I love this, right?"
+  - Loom 3, 9 Oct (UK siblings): "I think it's incredible and we have a winner here as well, if we change these things."
+  - Loom 1 and 2, 9 Oct (Run for me too, IT reel): "this is a very good format."
+  - What he praised most: the papá format as a proven winner, the CheerMyRun notification pop-up, reels under a minute, the emotional cheers, the clean centred end card.
+  - Before use in DMs, posts or on the site: confirm Iñigo's role and get his OK to quote him.
 - **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
 ## 6. Content
