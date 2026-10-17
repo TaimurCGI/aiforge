@@ -33,63 +33,127 @@ Searched daily. Work newest first; anything older than about a week is "later" (
 - @shrey1224jain: Indian editors only.
 - @kunisscale: excludes applicants from Pakistan.
 
-## Drafts (comment + DM for every lead, newest first)
+## Drafts v2 (hook first, personalized, newest first)
 
-Key links: Berlin 130K instagram.com/reel/DeQPcZdsZaC · Brazil 16K instagram.com/reel/DeQRGIIoodw · Italy 8.6K instagram.com/reel/DedDdXfq9vV · Ketro 17.9K instagram.com/reel/DeAX99xM4wA
+Style: one-line hook (verified result or an idea for their product), one reel link, portfolio, a question. Every number checked on Instagram 17 Oct. Never paste the same text twice.
 
-### @LoadedTraffic, 15 Oct: https://x.com/LoadedTraffic/status/2110883076297408914
-Comment: AI. I made the Brazilian versions of a CheerMyRun AI drama campaign, top one at 16K views. Portfolio: taimur.framer.website
-DM: AI / I made the Brazilian versions of an AI drama campaign for CheerMyRun. This one is at 16K views and 1.9K likes on Instagram: instagram.com/reel/DeQRGIIoodw / The German version of the same story passed 130K. 70 reels in one week across 10 markets, all organic. / More: taimur.framer.website / Seven years as a 3D animator. Happy to do a test edit for your brand.
+Reels: Berlin 130K / 8.1K likes instagram.com/reel/DeQPcZdsZaC · Brazil 16K / 1.9K likes instagram.com/reel/DeQRGIIoodw · Ketro 17.9K instagram.com/reel/DeAX99xM4wA
 
-### @husnaindelivers, 15 Oct: https://x.com/husnaindelivers/status/2110848745034408435 (low pay: $8 to $10 per brief)
-Comment: 70 AI drama reels in one week for CheerMyRun, 350K+ organic views. All my own work: taimur.framer.website
-DM: My last campaign: 70 AI drama reels for CheerMyRun in one week, 10 markets, 350K+ organic views. Top reel: 130K. instagram.com/reel/DeQPcZdsZaC / Portfolio, all my own work: taimur.framer.website / I can take 10 to 15 briefs a week and start now. Which model do you use most, Seedance or Kling?
+### 1. @LoadedTraffic, 15 Oct (Brazilian supplement brand; DM must contain "AI")
+https://x.com/LoadedTraffic/status/2110883076297408914
+Comment: AI. My Portuguese AI drama reel hit 16K views and 1.9K likes in Brazil, zero ad spend. taimur.framer.website
+DM:
+> AI
+>
+> My Brazilian AI drama reel: 16K views, 1.9K likes, no ad spend. instagram.com/reel/DeQRGIIoodw
+>
+> For a supplement I'd use the same shape: one person, one emotional moment, the product at the payoff. Portfolio: taimur.framer.website
 
-### Trafilea via @bigremotejob, 15 Oct: https://x.com/bigremotejob/status/2110747925483594220
-Company application form (link in the post). No comment or DM; apply on the form.
+### 2. @husnaindelivers, 15 Oct (supplement, $8 to $10 per brief; he says most portfolios are fake)
+https://x.com/husnaindelivers/status/2110848745034408435
+Comment: Every reel in here is mine. Top one: 130K organic. taimur.framer.website
+DM:
+> Every reel in this portfolio is my own work, top one at 130K organic views: taimur.framer.website
+>
+> I made 70 reels in one week for CheerMyRun, so 10 to 15 briefs a week fits. Can start now. Which model do you use most?
 
-### @TwangEcom, 12 Oct: https://x.com/TwangEcom/status/2109434099228447003
-Comment: AI animation for CheerMyRun, Ketro and JTX, top reel 130K views. Sending the 4 answers by DM. taimur.framer.website
-DM: 1. Three AI ads (all AI animation): CheerMyRun German market 130K instagram.com/reel/DeQPcZdsZaC; CheerMyRun Italian market 8.6K instagram.com/reel/DedDdXfq9vV; Ketro absurd explainer 17.9K instagram.com/reel/DeAX99xM4wA / 2. Brands: CheerMyRun (marathon cheer app), Ketro, JTX. / 3. Tools: Higgsfield with Seedance 2.5, Nano Banana Pro, plus Blender (seven years as a 3D animator). / 4. Volume: 70 reels for CheerMyRun in one week across 10 markets, 350K+ organic views so far. Up to 10 finished reels a day. / Portfolio: taimur.framer.website
+### 3. Trafilea via @bigremotejob, 15 Oct
+https://x.com/bigremotejob/status/2110747925483594220
+Application form, no comment or DM.
 
-### @arnaudslr, 10 Oct: https://x.com/arnaudslr/status/2108968328056480004
-Comment: My last campaign: 70 AI reels in a week, 350K+ organic views, top one 130K. taimur.framer.website
-DM: Hey Arnaud, my last campaign was 70 AI drama reels for CheerMyRun in one week across 10 markets, 350K+ organic views. Top reel: 130K views, instagram.com/reel/DeQPcZdsZaC / Portfolio: taimur.framer.website / Seven years as a 3D animator. I can make a test ad for your sleep brand this week.
+### 4. @TwangEcom, 12 Oct (asked 4 questions, so the DM answers all 4)
+https://x.com/TwangEcom/status/2109434099228447003
+Comment: AI animation is my main lane. Top ad: 130K organic. Sending your 4 answers by DM.
+DM:
+> 130K organic views on my top AI animation ad. Your 4:
+>
+> 1. CheerMyRun, Germany, 130K: instagram.com/reel/DeQPcZdsZaC / CheerMyRun, Brazil, 16K: instagram.com/reel/DeQRGIIoodw / Ketro pain gel explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
+> 2. CheerMyRun (app), Ketro, JTX
+> 3. Higgsfield with Seedance 2.5, Nano Banana Pro, Blender
+> 4. 70 reels in one week for CheerMyRun across 10 markets, 350K+ organic views
+>
+> taimur.framer.website
 
-### @ecomsoloo, 8 Oct: https://x.com/ecomsoloo/status/2108297491141804539
-Comment: I made German-market AI animation for CheerMyRun. Top reel: 130K views in Germany. taimur.framer.website
-DM: Hey, I made the German versions of an AI drama campaign for CheerMyRun. The top one is at 130K views and 8.1K likes: instagram.com/reel/DeQPcZdsZaC / Another German one passed 33K within two days of posting. Pixar-style, all organic. / Portfolio: taimur.framer.website / Still hiring? Happy to make a test ad for your brand.
+### 5. @arnaudslr, 10 Oct (D2C sleep brand, pillows)
+https://x.com/arnaudslr/status/2108968328056480004
+Comment: Made a 130K-view AI drama with zero ad spend. I'd love to try one for a pillow. taimur.framer.website
+DM:
+> Hey Arnaud, an idea for your sleep brand: a 30-second AI drama about the night before a big race, ending on the pillow.
+>
+> My last drama like that did 130K organic: instagram.com/reel/DeQPcZdsZaC
+>
+> Want me to make it as a test? taimur.framer.website
 
-### @thankyouecom / @unknownpsyop, 8 Oct: https://x.com/thankyouecom/status/2108000171598741894
-Comment: AI story ads for CheerMyRun: 350K+ organic views, top reel 130K. taimur.framer.website
-DM: Hey, this month I made 70 AI drama reels for CheerMyRun in one week. The top one, a stepdad story, has 130K views and 8.1K likes: instagram.com/reel/DeQPcZdsZaC / Portfolio: taimur.framer.website / Seven years as a 3D animator, so characters stay on model across a batch. Still looking? Open to a test ad.
+### 6. @ecomsoloo, 8 Oct (German health brand; Pixar, claymation, singing)
+https://x.com/ecomsoloo/status/2108297491141804539
+Comment: My Pixar-style AI drama did 130K organic in Germany. taimur.framer.website
+DM:
+> Hey, I've already tested Pixar-style AI drama in Germany: 130K organic views, 8.1K likes. instagram.com/reel/DeQPcZdsZaC
+>
+> For a health brand I'd build it around one person getting back to something they love. Still hiring? taimur.framer.website
 
-### @EcomRisingg, 6 Oct: https://x.com/EcomRisingg/status/2107405088771985860
-Comment: Pixar-style AI ads, my top one for CheerMyRun is at 130K views. taimur.framer.website
-DM: Hey, here's my Pixar-style AI work. CheerMyRun, 130K views: instagram.com/reel/DeQPcZdsZaC / Ketro explainer, 17.9K: instagram.com/reel/DeAX99xM4wA / Full portfolio: taimur.framer.website / Still taking editors? Send a brief and I'll turn around a concept.
+### 7. @thankyouecom / @unknownpsyop, 8 Oct (AI drama, emotional storytelling)
+https://x.com/thankyouecom/status/2108000171598741894
+Comment: 130K views on a girl calling her stepdad "papa" for the first time at km 32. taimur.framer.website
+DM:
+> Hey, my best AI drama ad: a girl calls her stepdad "papa" for the first time at km 32. 130K views, 8.1K likes, no ad spend. instagram.com/reel/DeQPcZdsZaC
+>
+> More: taimur.framer.website. Still looking for editors?
 
-### @RJWEMMY, 6 Oct: https://x.com/RJWEMMY/status/2107502100796080521
-Comment: 70 AI reels in a week for CheerMyRun, 350K+ organic views. taimur.framer.website
-DM: Hey, seven years as a 3D animator, now AI ads. My last campaign: 70 reels in one week across 10 markets for CheerMyRun, 350K+ organic views, top reel 130K: instagram.com/reel/DeQPcZdsZaC / Portfolio: taimur.framer.website / Is the role still open? Available full-time, remote.
+### 8. @EcomRisingg, 6 Oct (Pixar, claymation, cartoon; paid per concept)
+https://x.com/EcomRisingg/status/2107405088771985860
+Comment: Pixar-style AI ads, top one at 130K. Send a brief, I'll send a concept. taimur.framer.website
+DM:
+> Hey, two of my Pixar-style AI ads: a marathon drama at 130K (instagram.com/reel/DeQPcZdsZaC) and an absurd pain gel explainer at 17.9K (instagram.com/reel/DeAX99xM4wA).
+>
+> Send a brief and I'll come back with a concept. taimur.framer.website
 
-### @OleBakel, 29 Sep: https://x.com/OleBakel/status/2104813573960552741
-Comment: AI drama for CheerMyRun, 350K+ organic views, top reel 130K. taimur.framer.website
-DM: Hey Ole, AI drama is most of my recent work: 70 reels for CheerMyRun in one week, 350K+ organic views, top one 130K: instagram.com/reel/DeQPcZdsZaC / Portfolio: taimur.framer.website / Still looking for editors?
+### 9. @RJWEMMY, 6 Oct (senior role, DTC spending $1.5M+, $2K to $4K/mo)
+https://x.com/RJWEMMY/status/2107502100796080521
+Comment: 70 AI reels in one week, best one 130K organic. taimur.framer.website
+DM:
+> Hey, at that spend volume matters: I made 70 AI reels in one week for CheerMyRun, best one 130K organic. instagram.com/reel/DeQPcZdsZaC
+>
+> I can do up to 10 a day. Is the role still open? taimur.framer.website
 
-### @davidolic_, 26 Sep: https://x.com/davidolic_/status/2103819846018376029
-Comment: Pixar-style AI ads for CheerMyRun and Ketro, top reel 130K views. taimur.framer.website
-DM: Hey, Pixar-style AI ads are my main format. CheerMyRun reel at 130K views: instagram.com/reel/DeQPcZdsZaC / Ketro explainer at 17.9K: instagram.com/reel/DeAX99xM4wA / Portfolio: taimur.framer.website / Still hiring?
+### 10. @OleBakel, 29 Sep (skincare; AI drama + long animations with Suno)
+https://x.com/OleBakel/status/2104813573960552741
+Comment: My best AI drama this month: 130K organic views. taimur.framer.website
+DM:
+> Hey Ole, still looking? My best AI drama this month: 130K views, no ad spend. instagram.com/reel/DeQPcZdsZaC
+>
+> For skincare I'd tell it through one character's story from first use to the moment someone notices. taimur.framer.website
 
-### @bevcoastkev, 25 Sep: https://x.com/bevcoastkev/status/2103489448075813180
-Comment: 70 Pixar-style AI reels in one week for CheerMyRun, 350K+ organic views. taimur.framer.website
-DM: Hey Kev, my last campaign was 70 Pixar-style AI reels in one week for CheerMyRun, 350K+ organic views, top one 130K: instagram.com/reel/DeQPcZdsZaC / I can do up to 10 finished reels a day. Portfolio: taimur.framer.website / Still looking?
+### 11. @davidolic_, 26 Sep (Pixar 3D, claymation, UGC, VSLs)
+https://x.com/davidolic_/status/2103819846018376029
+Comment: Seven years as a 3D animator before AI. Top AI ad: 130K organic. taimur.framer.website
+DM:
+> Hey, Pixar-style 3D is where I come from: seven years as a 3D animator before AI. My top AI ad: 130K organic. instagram.com/reel/DeQPcZdsZaC
+>
+> Still hiring? taimur.framer.website
 
-### @Hamzah456537, 22 Sep: https://x.com/Hamzah456537/status/2102473824013091199
-Comment: Pixar-style AI drama for CheerMyRun, top reel 130K views, 350K+ across the campaign. taimur.framer.website
-DM: Hey Hamzah, my top Pixar-style AI ad is at 130K views and 8.1K likes: instagram.com/reel/DeQPcZdsZaC / It's from a 70-reel campaign for CheerMyRun, made in one week across 10 markets. Portfolio: taimur.framer.website / Is the role still open?
+### 12. @bevcoastkev, 25 Sep (high-volume Pixar-style and cinematic)
+https://x.com/bevcoastkev/status/2103489448075813180
+Comment: 70 AI reels in one week for one client. The best one hit 130K organic. taimur.framer.website
+DM:
+> Hey Kev, 70 AI reels in one week for one client, best one 130K organic: instagram.com/reel/DeQPcZdsZaC
+>
+> I can deliver up to 10 finished a day. Still need editors? taimur.framer.website
 
-### @ecomnischay, 19 Sep: https://x.com/ecomnischay/status/2101139705610039766
-Comment: Pixar-style AI ads, 350K+ organic views on my last campaign. taimur.framer.website
-DM: Hey, my last campaign was 70 Pixar-style AI reels for CheerMyRun in one week, 350K+ organic views. Top one: instagram.com/reel/DeQPcZdsZaC (130K) / Portfolio: taimur.framer.website / Still hiring?
+### 13. @Hamzah456537, 22 Sep (9-figure health brand; Pixar, movie, singing ads)
+https://x.com/Hamzah456537/status/2102473824013091199
+Comment: One of my AI ads pulled 8.1K likes on a single post. taimur.framer.website
+DM:
+> Hey Hamzah, my best AI ad so far: 130K views, 8.1K likes, organic. instagram.com/reel/DeQPcZdsZaC
+>
+> Made during a 70-reel week for CheerMyRun. Is the role still open? taimur.framer.website
+
+### 14. @ecomnischay, 19 Sep (Pixar, movie, singing ads)
+https://x.com/ecomnischay/status/2101139705610039766
+Comment: Best AI drama I made this month: 130K organic. taimur.framer.website
+DM:
+> Hey, still hiring? My strongest AI ad, 130K organic views: instagram.com/reel/DeQPcZdsZaC
+>
+> I made 69 more that same week. taimur.framer.website
 
 Skipped (restricted): @drew_ecom3 (Spanish / Spain-only), @shrey1224jain (India only), @kunisscale (excludes Pakistan).
