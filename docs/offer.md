@@ -44,7 +44,10 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 
 ## Proof to collect
 
-- **Client quote:** the CheerMyRun client said the videos are "amazing" and "well produced" (Taimur, 2026-10-17). Still need the exact wording, who said it (name and role) and an OK to quote it publicly before it goes in DMs, posts or on the site.
+- **Client quotes (CheerMyRun, reported by Taimur 2026-10-17):**
+  - On the stepdad reel (Km 32 first papa, 130K on the German version): "we have a winner format, definitely" and "I would squeeze as much as we can out of these".
+  - On the videos overall: "amazing" and "well produced" (exact wording still to confirm).
+  - Before use in DMs, posts or on the site: confirm who said it (name and role) and get their OK to quote it.
 - **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
 ## 6. Content
