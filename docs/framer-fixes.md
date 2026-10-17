@@ -45,3 +45,18 @@ Still open: the email button inside the hero portrait card (no room at 400px) an
 
 - 2026-10-17 (version 831be146c): Paris card replaced with "Nonno stopped at km 37 in 1980" (Run for me too IT, @fitwithgiulia_, 8.6K views / 368 likes on 17 Oct). Web copy 720px wide made from the Drive original. Checked live.
 - 2026-10-17 (version 86bb444c5): hero line now "Seven years as a 3D animator, now making AI animation for brands: AI drama, Pixar-style ads and absurd explainers. My last campaign was 70 reels in one week across 10 markets and 7 languages, and has passed 350K views on Instagram." Basis: 9 accounts read 17 Oct, 72 reels, about 367K views (350K+ used because Instagram rounds large counts). Checked live.
+
+## Suggested improvements (review 2026-10-17, waiting on Taimur)
+
+Pending publish: hero "350K organic views" and the case-study caption about organic testing (on canvas).
+
+1. Stat card "220K+ · Organic views in 7 days" -> "350K+ · Organic views on Instagram" to match the hero.
+2. Refresh reel-card numbers: Berlin 123K/7.7K -> 130K/8.1K; Nonno 8.6K/368 (current); Japan km 35 4.8K -> 4.8K (4,880).
+3. Hero deck leads with "Dad at mile 20" (US, 8.2K). Lead with Berlin (130K) or the new DE stepdad reel (33.1K in a day).
+4. Case study shows the Berlin reel again (already first in the grid). Use a second winner there, e.g. DE stepdad 33.1K or FR stepdad 10.1K.
+5. FAQ: add "How fast do you work?" -> 70 reels in one week for CheerMyRun, versions for 10 markets.
+6. Portrait card in About has DM only; add Email (needs a small layout change, card is 400px).
+7. Instagram/TikTok link next to X if Taimur has a public account for his work.
+8. Framer badge "Create a free website with Framer" shows in the footer; removing it needs a paid Framer plan.
+9. Template layer names (Alex Monterrozo, itz.alexmonterrozo) remain in the page source. Not visible; rename for cleanliness.
+10. A one-line client quote from CheerMyRun would add proof, only if he has a real one.
