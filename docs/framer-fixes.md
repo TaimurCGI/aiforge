@@ -44,3 +44,4 @@ Published to production 2026-10-16 with Taimur's OK (version b7ba0c889), includi
 Still open: the email button inside the hero portrait card (no room at 400px) and the unverified form recipient warning in Framer.
 
 - 2026-10-17 (version 831be146c): Paris card replaced with "Nonno stopped at km 37 in 1980" (Run for me too IT, @fitwithgiulia_, 8.6K views / 368 likes on 17 Oct). Web copy 720px wide made from the Drive original. Checked live.
+- 2026-10-17 (version 86bb444c5): hero line now "Seven years as a 3D animator, now making AI animation for brands: AI drama, Pixar-style ads and absurd explainers. My last campaign was 70 reels in one week across 10 markets and 7 languages, and has passed 350K views on Instagram." Basis: 9 accounts read 17 Oct, 72 reels, about 367K views (350K+ used because Instagram rounds large counts). Checked live.
