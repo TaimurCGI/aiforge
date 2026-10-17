@@ -73,4 +73,6 @@ Change the title and the first line per role. The facts stay the same.
 
 ## Pricing
 
+Outreach offer: a free test ad for their product, made with their Higgsfield access (Taimur covers Claude himself). Taimur, 2026-10-17.
+
 Quote on a call after scope. Shorts priced per finished piece, series priced per month by episode count. 50% deposit, 50% before final files. Quote first, and only discount if they push back for real.
