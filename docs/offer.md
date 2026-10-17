@@ -6,7 +6,7 @@ Set by Taimur on 2026-10-17, using the six steps from Tom Noske's post (instagra
 
 The combination of four things:
 - **Rate:** $50 per video.
-- **Speed:** 70 reels in one week for CheerMyRun, up to 10 a day.
+- **Speed:** 24 hours from brief to finished ad. 70 reels in one week for CheerMyRun, up to 10 a day.
 - **Quality:** seven years as a 3D animator, so timing, acting and characters hold up.
 - **Story:** Taimur researches and writes every script himself.
 
@@ -41,6 +41,11 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 ## 5. Price
 
 $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,000). Private: never on the site or in posts, never in a first DM. Quote it only when a lead asks about pricing (Taimur, 2026-10-17). Reply text is in docs/leads-x.md.
+
+## Proof to collect
+
+- **Client quote:** the CheerMyRun client said the videos are "amazing" and "well produced" (Taimur, 2026-10-17). Still need the exact wording, who said it (name and role) and an OK to quote it publicly before it goes in DMs, posts or on the site.
+- **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
 ## 6. Content
 
