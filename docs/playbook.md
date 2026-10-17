@@ -10,6 +10,8 @@ One line: **Story-first animated shorts by a 3D animator, produced with an AI pi
 
 You have a large animation portfolio. The site's job is to show the right slice of it. Pick 6 to 9 pieces and make sure the set covers:
 
+One reel per story: when a story has several winning market versions or remakes, show only the version with the most views (Taimur, 2026-10-17).
+
 | Slot | What it proves |
 |------|----------------|
 | A "what if" or how-it-works explainer, 9:16 | Hook in 2 seconds, retention, the explainer lane |
