@@ -17,6 +17,13 @@ Paid AI drama work for CheerMyRun, a cheer app. 66 reels by Taimur: the 30 in th
 - 08/10/26: https://doublespeed.ai/review/1abb41e7-d148-4837-b851-2a50a694d1bf?v=2g8ok8x
 - 09/10/26: https://doublespeed.ai/review/8b40be25-43a0-4106-ace9-b550599f45af?v=czlz6d
 
+Added 2026-10-17 (Taimur): later batches, some posted, some due in the next few days. Batch dates and contents not catalogued yet.
+
+- https://doublespeed.ai/review/11bb7dd9-9ced-4eb6-b695-a5c528031b9d?v=a3kinh
+- https://doublespeed.ai/review/0d8ef6f2-96f7-44b3-9776-93823fac6393?v=1a9593m
+- https://doublespeed.ai/review/d2b39d53-f49a-427b-bbde-21fae5a5a543?v=vkqyvl
+- https://doublespeed.ai/review/15a9389a-ce4b-49fb-b7ca-a575ebbd0833
+
 ## Instagram posting accounts
 
 Shared by Taimur on 2026-10-16. Market per account confirmed from the posted captions on 2026-10-16. No account posts the UK versions.
