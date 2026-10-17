@@ -19,7 +19,7 @@ Numbers Claude may use in posts (all from docs/cheermyrun.md or Taimur):
 - **Offer:** story-first AI animated ads for brands that sell online, any product except ones sold on sex appeal. Past clients: Ketro (pain relief cream), JTX (trading app), CheerMyRun (marathon cheer app).
 - **Buyer:** the owner or head of creative at an ecom or app brand running paid social, often the person posting "hiring AI video editor" on X. Wants winning creatives fast. Fears AI slop, wasted generation credits and fake portfolios.
 - **Call to action in posts:** a free test ad, made on the brand's own Higgsfield. Contract or per-video work first.
-- **Price:** not in public posts. Quote after the free test or on a call (unless Taimur says otherwise).
+- **Price:** never in public posts or on the site. Quoted only in DMs, when a lead asks (Taimur, 2026-10-17).
 - **Origin story:** seven years animating in Blender, now AI; 70 reels in one week for CheerMyRun; 130K organic on one reel, 350K+ across the campaign.
 
 Every draft below is written for that buyer: a result they can check, proof against the slop/fake-portfolio fear, and the free test as the next step.
@@ -110,7 +110,7 @@ The small ecom accounts (6K to 9K followers) get 5K to 35K views on posts with a
 
 - **Fix the profile first:** replace the 10 Oct post with the new pinned proof thread (Draft 1). Suggested bio: "Story-first AI animated ads for brands that sell online. 7 years as a 3D animator. 350K+ organic views on my last campaign. DM for a free test ad." Put taimur.framer.website in the website field.
 - **Cadence:** 1 original post a day (alternate clip posts, receipts, questions), 1 thread a week, and 10 to 20 replies a day.
-- **Every post ends the same way when it has a CTA:** free test ad, DM. No price in public posts; Taimur quotes after the test or on a call.
+- **Every post ends the same way when it has a CTA:** free test ad, DM. No price in public posts or on the site; Taimur quotes the rate only in DMs, when a lead asks.
 - **Replies are the main growth lever at 21 followers.** Reply early to posts from @CEO_Vlad, @MaxbatIe, @Framer_X, @irabukht, @higgsfield_ai and to every new AI video editor hiring post. Lead with a clip or a number, not "DM'd".
 - **Timing:** the data here does not show posting times. Most posters and hirers are US ecom owners, so start at 9 to 11am US Eastern and compare with an evening slot for two weeks.
 - **How this gets him work:** the leads in docs/leads-x.md come from brand owners posting on X. A pinned proof thread plus daily clips turns every reply and DM into a click to proof, and the free test turns the click into a trial. Contract and per-video work first; full-time only if the offer is very good, so posts say "per video or monthly batches", not "hire me full-time".
