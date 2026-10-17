@@ -58,7 +58,7 @@ DM: Hey Arnaud, my last campaign was 70 AI drama reels for CheerMyRun in one wee
 
 ### @ecomsoloo, 8 Oct: https://x.com/ecomsoloo/status/2108297491141804539
 Comment: I made German-market AI animation for CheerMyRun. Top reel: 130K views in Germany. taimur.framer.website
-DM: Hey, I made the German versions of an AI drama campaign for CheerMyRun. The top one is at 130K views and 8.1K likes: instagram.com/reel/DeQPcZdsZaC / Another German one passed 33K in its first day. Pixar-style, all organic. / Portfolio: taimur.framer.website / Still hiring? Happy to make a test ad for your brand.
+DM: Hey, I made the German versions of an AI drama campaign for CheerMyRun. The top one is at 130K views and 8.1K likes: instagram.com/reel/DeQPcZdsZaC / Another German one passed 33K within two days of posting. Pixar-style, all organic. / Portfolio: taimur.framer.website / Still hiring? Happy to make a test ad for your brand.
 
 ### @thankyouecom / @unknownpsyop, 8 Oct: https://x.com/thankyouecom/status/2108000171598741894
 Comment: AI story ads for CheerMyRun: 350K+ organic views, top reel 130K. taimur.framer.website
