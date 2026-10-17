@@ -30,12 +30,11 @@ Never write "no one else does this". Show the number and let the reader compare.
 
 | Pillar | Proof to use | Drafts that prove it |
 |---|---|---|
-| **Rate** | $50 per video up to 60s, research + script + production included | Draft 17 (held until Taimur OKs the public price) |
 | **Speed** | 70 reels in one week for CheerMyRun; up to 10 a day, 70 a week, 300 a month | 1, 6, 13, 17 |
-| **Quality** | Seven years as a 3D animator; 130K organic on one reel, 350K+ across the campaign; character sheets + a first frame per shot | 1, 2, 5, 7, Thread 2 |
-| **Story** | Taimur researches and writes every script himself; every reel built on a specific moment (km 32, mile 25, km 37 in 1980) | 8, 9, 10, 11, 18, 19 |
+| **Quality** | Seven years as a 3D animator; 130K organic on one reel, 350K+ across the campaign; character sheets + a first frame per shot | 1, 2, 5, 7, 17, Thread 2 |
+| **Story** | Taimur researches and writes every script himself; every reel built on a specific moment (km 32, mile 25, km 37 in 1980) | 8, 9, 10, 11, 17, 18, 19 |
 
-**Price in public posts: not yet.** Taimur may want the $50 public as part of the USP. Ask him before any post includes it; until then Draft 17 has a with-price and a without-price version.
+**Price never goes in public posts or on the site (Taimur, 2026-10-17).** The rate is quoted only in DMs, and only when a lead asks. In posts the USP is speed, quality and story, each shown with a number.
 
 ## Research
 
@@ -300,9 +299,8 @@ Why: a product ad (not an app), funny hook, number in line two. Shows the absurd
 Media: none.
 Why: hits the buyer's "wasted credits" fear and positions Taimur as the safe hire. **Needs Taimur's real average** before posting; don't post with a guess.
 
-### Draft 17: the four-part USP (with-price version held)
+### Draft 17: speed, quality, story
 
-Without price (ready):
 > What you get from me on every AI ad:
 > Speed: 70 reels in one week for CheerMyRun. Up to 10 a day.
 > Quality: seven years as a 3D animator before AI.
@@ -310,16 +308,8 @@ Without price (ready):
 > Proof: 130K organic views on one reel, 350K+ across the campaign.
 > First one's free, on your own Higgsfield.
 
-With price (**only after Taimur says the price can be public**):
-> What $50 gets you from me:
-> A finished AI ad up to 60 seconds, researched, scripted and produced.
-> Speed: 70 reels in one week for CheerMyRun. Up to 10 a day.
-> Quality: seven years as a 3D animator before AI.
-> Proof: 130K organic views on one reel, 350K+ across the campaign.
-> First one's free, on your own Higgsfield.
-
 Media: Berlin reel or a 3-reel montage.
-Why: states all four pillars with a number each, no "no one else" claim. The price version is the strongest hook for brand owners comparing editor rates, so it's worth asking him.
+Why: states speed, quality and story with a number each, no "no one else" claim, and ends on the free test.
 
 ### Draft 18: the script behind the 130K reel
 
@@ -371,7 +361,6 @@ Short, one hook, one link. Personalize the first line to their post every time.
 1. Generation cost per finished ad (Higgsfield credits or $) and how many generations you use per finished shot. Cost receipts are the strongest format in this niche, and Draft 16 answers the buyer's "wasted credits" fear. Neither can go out without your real numbers.
 2. Can you share a character sheet and the first-frame grid for one reel? Drafts 1, 5, 11 and Thread 2 use them.
 5. JTX view counts, if you want JTX clips posted with a number (none are recorded).
-6. Can the $50 per video go in public posts? It's part of the USP; Draft 17 has a version ready either way.
-7. For Draft 18: the first line of the Berlin script, to quote it exactly.
+6. For Draft 18: the first line of the Berlin script, to quote it exactly.
 3. Are the 9 reels posted 16 Oct yours too? One German stepdad remake had 33.1K views on day one; that would be a strong post.
 4. Is CheerMyRun fine with you posting client numbers and naming the posting accounts on X? The site already names them, but confirm before a big thread.
