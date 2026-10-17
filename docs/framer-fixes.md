@@ -60,3 +60,15 @@ Pending publish: hero "350K organic views" and the case-study caption about orga
 8. Framer badge "Create a free website with Framer" shows in the footer; removing it needs a paid Framer plan.
 9. Template layer names (Alex Monterrozo, itz.alexmonterrozo) remain in the page source. Not visible; rename for cleanliness.
 10. A one-line client quote from CheerMyRun would add proof, only if he has a real one.
+
+### Done 2026-10-17 (versions f38055031 and 219a067a7, Taimur's OK, checked live)
+- Hero line says "350K organic views"; case-study caption adds the organic-testing line.
+- Suggestion 1: stat card "350K+ · Organic views on Instagram".
+- Suggestion 2: Berlin card 130K / 8.1K.
+- Suggestion 3: hero video deck now leads with "Papa" at km 32, Berlin (was "Dad" at mile 20).
+- Suggestion 5: FAQ "How fast do you work?" published.
+- Suggestion 6: About portrait card stacked; "DM me on X" + "Email me" under the name, wraps on narrow phones.
+- Suggestion 10: all layer names with the template creator's name renamed; drawer handle text set to taimurcgi. Page source has no "Alex Monterrozo" left. Draft Terms/Privacy pages still hold template copy and stay unpublished (404).
+- Badge stays (Taimur's choice).
+
+Still open: suggestion 4 (case study needs a second winner; best is the DE stepdad reel from 16 Oct, 33.1K, not in Drive yet), suggestion 7 (other socials, needs a handle), suggestion 8 (client quote, needs a real one), unverified form recipient.
