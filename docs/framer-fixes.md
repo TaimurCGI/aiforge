@@ -42,3 +42,5 @@ Published to production 2026-10-16 with Taimur's OK (version b7ba0c889), includi
 - Fix 5 published 2026-10-16 (version 50c17ecae): point 03 now reads "I make character sheets first, then generate a first frame for every shot instead of one for the whole video. The cast stays on model and I control each shot." FAQ process answer updated to match. Both checked live.
 
 Still open: the email button inside the hero portrait card (no room at 400px) and the unverified form recipient warning in Framer.
+
+- 2026-10-17 (version 831be146c): Paris card replaced with "Nonno stopped at km 37 in 1980" (Run for me too IT, @fitwithgiulia_, 8.6K views / 368 likes on 17 Oct). Web copy 720px wide made from the Drive original. Checked live.
