@@ -14,6 +14,8 @@ In public copy, prove it with these numbers rather than saying "no one else does
 
 ## 1. Niche
 
+Market: **wealth**. Taimur sells to businesses, and what they buy is ads that make them money. The products he animates can sit in any of the three markets (Ketro is health, JTX is wealth, CheerMyRun's stories are relationships); that doesn't change which market he is in.
+
 Story-first AI animated ads for brands that sell online. No single market: past clients are Ketro (pain relief cream), JTX (trading app) and CheerMyRun (marathon cheer app). Any product works, except ones that sell on sex appeal.
 
 ## 2. Who
@@ -38,7 +40,7 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 
 ## 5. Price
 
-$50 per video. A monthly batch is the same rate times the count (for example, 20 videos is $1,000). Quote in the call or after the free test, not in the first DM.
+$50 per video, no discounts: any volume is the count times $50 (20 videos = $1,000). Shown openly in DMs and on the site (Taimur, 2026-10-17); not yet decided for public X posts.
 
 ## 6. Content
 
