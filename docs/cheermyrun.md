@@ -41,6 +41,12 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 | CO | https://www.instagram.com/valrunsdaily |
 | JP | https://www.instagram.com/runwithyui |
 
+## Re-count 2026-10-19
+
+- 90 of Taimur's reels live on the 9 accounts (excluding the JP real-runner ad and the meme): 488,275 views. 18 were posted 17 to 18 Oct; without them about 449,500. 7 counts are Instagram-rounded (137K, 62.9K, 24.2K, 20K, 16.4K, 14.3K, 13.7K).
+- Top reels: Berlin stepdad 137K (8,576 likes), DE stepdad remake 62.9K, BR grandpa news 24.2K, FR stepdad 20K, BR stepdad 16.4K, IT stepdad 14.3K, ES grandpa news 13.7K.
+- UK: @sophierunsdaily_ exists with 0 posts.
+
 ## Instagram numbers (read 2026-10-16, signed in as taimurcgi)
 
 - 63 of Taimur's 66 reels are posted. The 3 UK reels from the review batches are not on any of the 9 accounts.
