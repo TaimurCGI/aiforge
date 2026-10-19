@@ -46,13 +46,13 @@ Reels: Berlin 130K / 8.1K likes instagram.com/reel/DeQPcZdsZaC · Brazil 16K / 1
 
 ### 1. @LoadedTraffic, 15 Oct (Brazilian supplement brand; DM must contain "AI")
 https://x.com/LoadedTraffic/status/2110883076297408914
-Comment: AI. My Portuguese AI drama reel hit 16K views and 1.9K likes in Brazil, zero ad spend. taimur.framer.website
+Comment: AI. My Portuguese AI drama reel hit 16K views and 1.9K likes in Brazil, zero ad spend. taimur.framer.website/brazil
 DM:
 > AI
 >
 > My Brazilian AI drama reel: 16K views, 1.9K likes, no ad spend. instagram.com/reel/DeQRGIIoodw
 >
-> For a supplement I'd use the same shape: one person, one emotional moment, the product at the payoff. Happy to make you one free as a test, back to you within 24 hours. I just need access to your Higgsfield. taimur.framer.website
+> For a supplement I'd use the same shape: one person, one emotional moment, the product at the payoff. Happy to make you one free as a test, back to you within 24 hours. I just need access to your Higgsfield. taimur.framer.website/brazil
 
 ### 2. @husnaindelivers, 15 Oct (supplement, $8 to $10 per brief; he says most portfolios are fake)
 https://x.com/husnaindelivers/status/2110848745034408435
@@ -91,11 +91,11 @@ DM:
 
 ### 6. @ecomsoloo, 8 Oct (German health brand; Pixar, claymation, singing)
 https://x.com/ecomsoloo/status/2108297491141804539
-Comment: My Pixar-style AI drama did 130K organic in Germany. taimur.framer.website
+Comment: My Pixar-style AI drama did 130K organic in Germany. taimur.framer.website/germany
 DM:
 > Hey, I've already tested Pixar-style AI drama in Germany: 130K organic views, 8.1K likes. instagram.com/reel/DeQPcZdsZaC
 >
-> For a health brand I'd build it around one person getting back to something they love. I haven't shipped a singing ad yet, so I'd happily make that the free test. Still hiring? I'll make one free as a test on your Higgsfield, back to you in 24 hours. taimur.framer.website
+> For a health brand I'd build it around one person getting back to something they love. I haven't shipped a singing ad yet, so I'd happily make that the free test. Still hiring? I'll make one free as a test on your Higgsfield, back to you in 24 hours. taimur.framer.website/germany
 
 ### 7. @thankyouecom / @unknownpsyop, 8 Oct (AI drama, emotional storytelling)
 https://x.com/thankyouecom/status/2108000171598741894
