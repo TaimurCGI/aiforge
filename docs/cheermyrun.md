@@ -13,17 +13,24 @@ Paid AI drama work for CheerMyRun, a cheer app. 66 reels by Taimur: the 30 in th
 
 ## Doublespeed review links
 
-- 06/10/26: https://doublespeed.ai/review/fad0f9bb-a51e-4385-97ec-ecf2b3eb8f38?v=18qqfsy (10 single-market stories posted 7 Oct, incl. "he said he couldn't be there for mile 25", saved to Drive as Portfolio/CheerMyRun/Mile 25/US.mp4)
-- 07/10/26: https://doublespeed.ai/review/ebbe7733-d5e9-4385-ba64-89cfb07178bb?v=gd6l9p
-- 08/10/26: https://doublespeed.ai/review/1abb41e7-d148-4837-b851-2a50a694d1bf?v=2g8ok8x
-- 09/10/26: https://doublespeed.ai/review/8b40be25-43a0-4106-ace9-b550599f45af?v=czlz6d
+One batch per day, 10 markets each (Taimur, 2026-10-19). "Posted" is when the batch went up on Instagram.
 
-Added 2026-10-17 (Taimur): later batches, some posted, some due in the next few days. Batch dates and contents not catalogued yet.
+| Batch | Link | Stories | Posted |
+|---|---|---|---|
+| 06/10/26 | https://doublespeed.ai/review/fad0f9bb-a51e-4385-97ec-ecf2b3eb8f38?v=18qqfsy | 10 single-market stories (mile 25, 37 sessions, Brandenburg 1990, grandpa learned to read...) | 7 Oct |
+| 07/10/26 | https://doublespeed.ai/review/ebbe7733-d5e9-4385-ba64-89cfb07178bb?v=gd6l9p | Km 32 first papa (stepdad), cheers were clues, 1978, Mile 26 | 8 Oct |
+| 08/10/26 | https://doublespeed.ai/review/1abb41e7-d148-4837-b851-2a50a694d1bf?v=2g8ok8x | 25 years of cleaning | 10 Oct |
+| 09/10/26 | https://doublespeed.ai/review/8b40be25-43a0-4106-ace9-b550599f45af?v=czlz6d | Run for me too | 13 Oct |
+| 10/10/26 | https://doublespeed.ai/review/8240571a-2a10-4b69-92a6-9ae05b9a89f5 | Brother showed up (UK: told dad I got into Oxford) | 12 Oct |
+| 11/10/26 | https://doublespeed.ai/review/b694046f-0a31-45c1-8cd3-f9242fe73e55?v=4ktrkk | He couldn't be at km 41; US/AU stepdad at mile 20 / k 32; CO dad after the stroke | 14 Oct |
+| 12/10/26 | https://doublespeed.ai/review/11bb7dd9-9ced-4eb6-b695-a5c528031b9d?v=a3kinh | Stepdad remake (US, AU, DE, FR, IT) + telling dad he'll be a grandpa (UK, BR, CO, ES, JP) | 16 Oct |
+| 13/10/26 | https://doublespeed.ai/review/0d8ef6f2-96f7-44b3-9776-93823fac6393?v=1a9593m | Dad's cheer for mile 21 / 8 years without dad / taxi stories | 15 Oct |
+| 14/10/26 | https://doublespeed.ai/review/d2b39d53-f49a-427b-bbde-21fae5a5a543?v=vkqyvl | My dad doesn't do voice messages | 17 to 18 Oct |
+| 15/10/26 | https://doublespeed.ai/review/15a9389a-ce4b-49fb-b7ca-a575ebbd0833 | At 10, my mum gave me her kidney | 18 Oct |
+| 16/10/26 | https://doublespeed.ai/review/d46f2059-47f6-41f0-8c3b-279efcb7dd98 | Mum read me the letter I wrote at 12 | not yet seen |
+| 17/10/26 | https://doublespeed.ai/review/b7cc3fc9-70c9-43d9-8bd6-b71dbb691d05 | I want to marry your daughter... during her marathon | not yet seen |
 
-- https://doublespeed.ai/review/11bb7dd9-9ced-4eb6-b695-a5c528031b9d?v=a3kinh
-- https://doublespeed.ai/review/0d8ef6f2-96f7-44b3-9776-93823fac6393?v=1a9593m
-- https://doublespeed.ai/review/d2b39d53-f49a-427b-bbde-21fae5a5a543?v=vkqyvl
-- https://doublespeed.ai/review/15a9389a-ce4b-49fb-b7ca-a575ebbd0833
+The video files are linked inside each review page, in post order (#1 = US, #2 = UK, #3 = AU, #4 = DE, #5 = BR, #6 = CO, #7 = ES, #8 = FR, #9 = IT, #10 = JP).
 
 ## Instagram posting accounts
 
