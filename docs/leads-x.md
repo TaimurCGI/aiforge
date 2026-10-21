@@ -162,3 +162,21 @@ DM:
 > I made 69 more that same week. Free test ad on your Higgsfield within 24 hours if you want one for your product. taimur.framer.website
 
 Skipped (restricted): @drew_ecom3 (Spanish / Spain-only), @shrey1224jain (India only), @kunisscale (excludes Pakistan).
+
+## Sent log (read from Taimur's X DMs, 2026-10-21; no replies yet in any thread)
+
+| Sent | To | What | Lead in this file |
+|---|---|---|---|
+| 20 Oct | Kevin (@bevcoastkev) | Portfolio, Ketro + "250k+ views across 10 markets" stepdad story, "Compensation $1k per month" | #12 |
+| 20 Oct | David O. (@davidolic_) | 139K reel, free test in 24h | #11 |
+| 20 Oct | Tyler Wang (@TwangEcom) | 4 answers; adds "30 for Ketro and 10 for JTX" | #4 |
+| 20 Oct | Loaded Traffic | Brazil 24K reel + Ketro, free test | #1 |
+| 20 Oct | Yuanda W | "haven't made AI drama ads" (not from the drafts) | new |
+| 20 Oct | Pounds | networking with another AI animator | new |
+| 17 Oct | Yassine B | the drafted DM | done |
+| 18 Oct | Solo | Drive folder 9 Oct, volume note, portfolio + 130K follow-up | new |
+| 13 Oct | Dmitrii Anikin | one line + portfolio | new |
+| 11 Oct | Arnaud (@arnaudslr) | 3 ads; says the FR reel "now also runs as a paid ad" | #5 |
+| 11 Oct | EcomRisinggg | 17.8K Ketro + 7.8K France | #8 |
+| 9 Oct | Will Connell | Drive folder link only | new |
+| 6 Oct | Gustav Walsted | "Statics" | new |
