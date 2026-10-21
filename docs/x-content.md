@@ -91,7 +91,7 @@ The small ecom accounts (6K to 9K followers) get 5K to 35K views on posts with a
 
 ## Competitors
 
-Direct competitors: solo AI ad editors and AI animators (individuals or 1 to 3 person shops) who post their own work on X to get hired. Researched 17 to 21 Oct 2026, read only. Posts counted from the last 60 days. X signed the browser out partway through, so 8 accounts below have bio data only (marked).
+Direct competitors: solo AI ad editors and AI animators (individuals or 1 to 3 person shops) who post their own work on X to get hired. Researched 17 to 21 Oct 2026, read only. Posts counted from the last 60 days. X signed the browser out partway through, so 6 accounts below have bio data only (marked).
 
 ### Profiles
 
@@ -497,5 +497,5 @@ Short, one hook, one link. Personalize the first line to their post every time.
 5. JTX view counts, if you want JTX clips posted with a number (none are recorded).
 6. For Draft 18: the first line of the Berlin script, to quote it exactly.
 3. Answered 21 Oct: all reels on the 10 accounts are Taimur's. The German stepdad remake (posted 16 Oct) is at 67.5K; it's the same story as Berlin, so use it as a "same story, second version" proof point, not as a separate story.
-4. Is CheerMyRun fine with you posting client numbers and naming the posting accounts on X? The site already names them, but confirm before a big thread.
+4. Answered 17 Oct: no NDA; CheerMyRun work, numbers and client feedback can be shared publicly (docs/offer.md).
 7. X signed the research browser out on 21 Oct. Sign in again in the browser pane so the 6 bio-only competitors (and daily searches) can be finished.
