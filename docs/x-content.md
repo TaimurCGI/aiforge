@@ -89,6 +89,98 @@ Every AI video editor hiring post found gets 30 to 130 replies, almost all edito
 
 The small ecom accounts (6K to 9K followers) get 5K to 35K views on posts with a receipt (cost, spend, result) or a direct question. That is the realistic model for @taimurcgi.
 
+## Competitors
+
+Direct competitors: solo AI ad editors and AI animators (individuals or 1 to 3 person shops) who post their own work on X to get hired. Researched 17 to 21 Oct 2026, read only. Posts counted from the last 60 days. X signed the browser out partway through, so 8 accounts below have bio data only (marked).
+
+### Profiles
+
+| Account | Followers | What they post | Best posts (last 60 days) | Hook style | Proof | How they invite work | Public price |
+|---|---|---|---|---|---|---|---|
+| [@beechinour](https://x.com/beechinour) | 18.9K | AI ad breakdowns, editing prompts, tool tips | [2,209 likes / 151K](https://x.com/beechinour/status/2109645397211898166) "highest roi 20 minutes of your life:"; [1,163 / 90.8K](https://x.com/beechinour/status/2090136313106190543) "i made a full breakdown on how i created this arcane style ad for @GTE"; [1,044 / 104K](https://x.com/beechinour/status/2097036762283458575) "...i've been editing for 11 years / use this prompt" | Short lowercase line, then a teach | Client tag in the post (@GTE), years of experience, the full breakdown | Personal site link; no hard pitch | None |
+| [@abxxai](https://x.com/abxxai) | 23.7K | Realistic AI clips + "the workflow" threads, often tool-sponsored | [2,613 / 381K](https://x.com/abxxai/status/2097698694296686623) "crazy...that i made this with GPT Image 2.5 and Seedance 2.5 / nobody is teaching you the actual workflow"; [488 / 52.7K](https://x.com/abxxai/status/2111105993384022253) "AI video isn't the hard part anymore.. the prompt is"; [325 / 59.9K](https://x.com/abxxai/status/2107847831168196890) "brands pay thousands for shoot like this.." | Surprise + "nobody teaches this" | The clip itself + prompts | None visible; brand deals with tools | None |
+| [@Framer_X](https://x.com/Framer_X) | 52.6K | AI animation clips, tutorials, own IP series | "DO I LOOK FAT in these jeans? Made with Seedance 2.5. Prompts" 2,078 / 152K; "HE REALLY HAD TO SAY IT" 762 / 15.3K; [309 / 16.4K](https://x.com/Framer_X/status/2109579135643168806) "18 days ago, I started posting my AI animated series on Facebook" | One funny line + clip, or a results list | Arrow list of results (3.4M views, 10K followers) | "Follow me to learn how" | None |
+| [@MaxbatIe](https://x.com/MaxbatIe) | 6.2K | AI drama ads for clients (small agency), costs, results, trope jokes | [253 / 35.8K](https://x.com/MaxbatIe/status/2107573231116828720) "Genuine question. Is anyone making better AI drama ads than us right now?"; 64 / 9.4K "This video took $16.93 to make"; 40 / 7.7K "Posted one AI drama video for a client... It became the new top spender" | Challenge or receipt | Cost and "top spender" results | Bio: "$10M+ in client revenue"; no CTA in posts | None |
+| [@pounddz](https://x.com/pounddz) | 13.8K | Organic AI content case studies, commentary (agency @weareglitchy) | [424 / 27.5K](https://x.com/pounddz/status/2108996450956829011) "You need to study this Instagram account: 35 million views in 7 days on completely AI videos"; [234 / 34K](https://x.com/pounddz/status/2109707436244529391) Iman investment take; [104 / 13.7K](https://x.com/pounddz/status/2103086813598408802) "We live in a new era of Entertainment Ads" | "You need to study this" + big number | Other accounts' numbers | Agency handle in bio | None |
+| [@Dani__oros](https://x.com/Dani__oros) | 614 | AI short films, model tests | [207 / 15.7K](https://x.com/Dani__oros/status/2089187312118993153) "DO NOT WAKE HER / I spent 4 days making this with Seedance 2.5"; [123 / 7.5K](https://x.com/Dani__oros/status/2090187152902762848) "Total cost was $100."; [78 / 5K](https://x.com/Dani__oros/status/2110790297458544971) Kling 4.0 test | Time and cost receipts | Clip + cost | "DM for collab & Business inquiries", Linktree | None |
+| [@heizzai](https://x.com/heizzai) | 1,006 | AI films, personal wins, a paid community | [205 / 11.2K](https://x.com/heizzai/status/2093837250526405037) "I'm the best AI Creator in Nigeria. And I'm coming for y'all..."; [82 / 3.7K](https://x.com/heizzai/status/2106833406340546880) "AI paid off… new ride @ 24"; 52 / 14K "I bought my first car" | Bold claim, personal story | Lifestyle results | Telegram community | Community link |
+| [@2un_dee](https://x.com/2un_dee) | 1,748 | DR ad clips with short essays | [1 / 222](https://x.com/2un_dee/status/2103799646342590923) "I made an ad that sings to sell a pet vitamin. it's not a gimmick. here's why it works"; [1 / 92](https://x.com/2un_dee/status/2104897716539031943) "Most ads explain too much."; 3 / 83 ElevenLabs V4 | Opinion line | The clip, no numbers | "DM to work together", reel link | None |
+| [@itsjustchiamaka](https://x.com/itsjustchiamaka) | 815 | DR/AI UGC/Pixar-style ad clips, personal posts | Top two were birthday posts (161 / 2.5K, 87 / 1.8K); ad clips get tens of views | "I Turn Scrollers Into Buyers" (bio) | Bio claim only | "DMs open", Canva portfolio | None |
+| [@hassancreatives](https://x.com/hassancreatives) | 35 | Daily ad clips and opinions (48 posts in 60 days) | [5 / 400](https://x.com/hassancreatives/status/2109897004101025796) tool news; [5 / 369](https://x.com/hassancreatives/status/2105103337700081938) "A-player Creative Strategists and AI Video Editors are about to become the most in-demand people in DTC"; [3 / 202](https://x.com/hassancreatives/status/2105710355326582858) "AI UGC is easy to generate. Harder to make believable." | Opinion line | Bio: "$2M+ Tracked Revenue" | "DMs open", own site | None |
+| [@husnaindelivers](https://x.com/husnaindelivers) | 78 | Mostly hiring posts for a client | [27 / 1.9K](https://x.com/husnaindelivers/status/2110484844899901949) and [20 / 1.6K](https://x.com/husnaindelivers/status/2110848745034408435) hiring posts | "URGENT HIRING" | Bio: "9 Figure AI Editor" | "DMs open" | Lists $8 to $10 per brief for hires |
+| [@ArshiaTlo](https://x.com/ArshiaTlo) | 166 | Before/after edits, editing tutorials | Pinned demo for a creator (351 views); before/after posts ~100 to 145 views | "Stop just showing your edits. Show the before & after" | Bio: "4M+ views generated" | "DM for Projects (& get a free demo if you're serious about my services)" | None for edits |
+| [@Tristan_Editor1](https://x.com/Tristan_Editor1) | 10 | Three sample clips ("AI UGC #1", "Clay Animation #1") | 51 views max | Labels only | Bio: "20M+ views generated for clients" | Instagram link | None |
+| [@mfaisalashfaq](https://x.com/mfaisalashfaq) | 3 | Barely posts | none found | none | Bio: "5+ years. 3,000+ UGC ads. 50+ brands." | Calendly link | None |
+| [@SubasAiEditor](https://x.com/SubasAiEditor) (bio only) | n/a | AI videos | not read | none | none | "DM me for your next video" | "AI Videos starting at $5" |
+| [@Editor_Cyborg](https://x.com/Editor_Cyborg) (bio only) | n/a | AI avatar / lip-sync DR ads | not read | none | none | "DM me 'CLONE'" keyword | None |
+| [@Divyansh_biz](https://x.com/Divyansh_biz) (bio only) | n/a | AI UGC, avatar, Pixar-style ads | not read | none | none | "DM 'SOCIAL'" keyword | None |
+| [@ProEditorMohit](https://x.com/ProEditorMohit) (bio only) | n/a | AI commercials, product films | not read | none | none | "Available Worldwide DM" | None |
+| [@YungMill81](https://x.com/YungMill81) (bio only) | n/a | Cinematic AI brand films | not read | none | none | "Building a remote creative career publicly", "DM for serious projects" | None |
+| [@Mary_kreyn](https://x.com/Mary_kreyn) (bio only) | n/a | Real projects, editing decisions, tests | not read | none | none | Studio name in bio | None |
+
+Not counted as competitors: @CEO_Vlad (brand owner, a buyer), @Ecombos_Ai (sells info products), Seedance showcase accounts (repost others' clips).
+
+### What the fastest-growing ones do
+
+- **They teach on every post.** @beechinour, @abxxai and @Framer_X attach a breakdown, a prompt or a workflow to the clip. Saves and reposts come from the teaching, and the clip proves they can do it.
+- **The number or the surprise is in line one**, not in the bio: "35 million views in 7 days", "Total cost was $100", "took $16.93 to make", "crazy...that i made this with".
+- **They name the client or the tool in the post** (@beechinour tags @GTE; @abxxai tags the tool), which gets them reposted by that account.
+- **Credentials in one clause**, inside a useful post: "i've been editing for 11 years / use this prompt".
+- **They post often and reply a lot**; none of the growing accounts pitch in every post.
+
+The small solo editors (@2un_dee, @hassancreatives, @itsjustchiamaka, @ArshiaTlo, @Tristan_Editor1) do the opposite: big claims in the bio ("$2M+ Tracked Revenue", "20M+ views generated", "A-Player"), bare clips with a generic caption, no numbers on the post, nothing to learn. They sit at 35 to 1,100 views a post. Posting more doesn't fix it; @hassancreatives posted 48 times in 60 days and averages 88 views.
+
+### Gaps Taimur can own
+
+| Gap | Who comes closest | Taimur's proof |
+|---|---|---|
+| A named client quote on the post | Nobody quotes a client | Iñigo Vazquez, founder of CheerMyRun: "We have a winner format, definitely." |
+| Checkable campaign numbers on the post, linked to live posts | @MaxbatIe (cost, "top spender") | 600K+ organic across 110 reels; one reel at 142K, all on public Instagram |
+| Speed in numbers | Nobody posts turnaround | 24 hours brief to ad; 70 reels in one week |
+| The script and the research, not only prompts | @2un_dee talks about story but shows no numbers | He researches and writes every script; km 32 / mile 25 / km 37 beats |
+| An animator's craft background | @beechinour (11 years editing) | Seven years as a 3D animator in Blender |
+| Same story in 7 languages, with a reviewer he built | Nobody | 7 languages via Claude + his multi-agent reviewer |
+| A risk-free first step | @ArshiaTlo ("free demo if you're serious") | Free test ad, made on the client's own Higgsfield |
+
+### Drafts modelled on competitor formats
+
+**C1. The client breakdown (model: @beechinour's "full breakdown on how I created this arcane style ad for @GTE", 90.8K views)**
+> I made a full breakdown of how I built the AI ad that hit 142K organic views for CheerMyRun:
+> the research, the one-line script, the character sheets, a first frame for every shot, and the 7 language versions.
+Thread below it with one step per post, each with a screenshot. Media: Berlin reel + stage screenshots: **needs Taimur's working files**. Tag CheerMyRun's X account if they have one (not checked).
+
+**C2. Credential inside a tip (model: @beechinour's "i've been editing for 11 years / use this prompt", 104K views)**
+> I've been a 3D animator for seven years.
+> The AI habit that fixed my off-model characters: a first frame for every shot, not one for the whole video.
+> Character sheet first, then this order: [3 to 4 steps].
+Media: a first-frame grid from one reel: **needs Taimur's file**. Taimur fills in the steps in his own words.
+
+**C3. "Crazy that I made this" + workflow (model: @abxxai, 381K views)**
+> crazy that this ad is fully AI and still at 142K organic views.
+> Nano Banana Pro for frames, Seedance 2.5 for shots, ElevenLabs for voice, Claude for the script.
+> The part most AI ad workflows skip is the script. Here's mine:
+Media: Berlin reel; reply with the script page: **needs Taimur's script**.
+
+**C4. The challenge, with proof attached (model: @MaxbatIe's "Genuine question", 35.8K views)**
+> Genuine question.
+> Has anyone else got a single AI drama ad past 142K organic views, no ad spend?
+> Mine's below. Show me yours.
+Media: Berlin reel. Why: same reply-pulling format, but with a number his challengers have to beat.
+
+**C5. "Study this account" (model: @pounddz, 27.5K views)**
+> I make the ads for this Instagram account, and it's worth studying:
+> one AI story at 142K organic views, a second version of the same story at 67.5K, same characters.
+> A good story can carry a second version.
+Media: screenshot of the @lenalaeuft_ reels grid showing both counts: **needs making** (check the counts on the day). Says plainly that he makes the ads, so it isn't presented as someone else's account.
+
+### Top 5 to watch
+
+1. [@beechinour](https://x.com/beechinour): the closest model, a working editor whose client breakdowns get 90K to 150K views.
+2. [@MaxbatIe](https://x.com/MaxbatIe): same buyer and format (AI drama ads for brands), small account with outsized posts.
+3. [@abxxai](https://x.com/abxxai): biggest reach from "made this + workflow" posts.
+4. [@Framer_X](https://x.com/Framer_X): AI animation specifically; clip + one-line caption + prompts.
+5. [@pounddz](https://x.com/pounddz): organic-results case studies, the angle closest to Taimur's 600K+ organic.
+
 ## Strategy
 
 ### What works in this niche
@@ -406,3 +498,4 @@ Short, one hook, one link. Personalize the first line to their post every time.
 6. For Draft 18: the first line of the Berlin script, to quote it exactly.
 3. Answered 21 Oct: all reels on the 10 accounts are Taimur's. The German stepdad remake (posted 16 Oct) is at 67.5K; it's the same story as Berlin, so use it as a "same story, second version" proof point, not as a separate story.
 4. Is CheerMyRun fine with you posting client numbers and naming the posting accounts on X? The site already names them, but confirm before a big thread.
+7. X signed the research browser out on 21 Oct. Sign in again in the browser pane so the 6 bio-only competitors (and daily searches) can be finished.
