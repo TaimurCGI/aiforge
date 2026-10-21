@@ -87,3 +87,4 @@ Still open: suggestion 4 (case study needs a second winner; best is the DE stepd
 - 2026-10-19 (version a424ed73e, Taimur's OK, checked live): /brazil and /germany published. Brazilian and German leads now link to their market page.
 - 2026-10-21 canvas (not published): 500K+ in hero line and stat card on /, /brazil, /germany; Brazil intro 31K, Germany intro 142K; reel views refreshed (Berlin 142K, grandpa 31.1K, kidney 10.8K...). Waiting on Taimur's OK.
 - 2026-10-21 canvas (not published): changed to 600K+ at Taimur's request. Basis: 601,151 across 110 reels, thin margin; counts the 20 reels posted 19 to 20 Oct (assumed his) and 7 Instagram-rounded counts.
+- 2026-10-21 (version 4589cb1ef, Taimur's OK, checked live on /, /brazil, /germany): 600K+ and 21 Oct reel counts. Taimur confirmed all newer reels are his.

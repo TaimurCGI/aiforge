@@ -15,7 +15,7 @@ Done:
 Next:
 2. Framer: all fixes in docs/framer-fixes.md published 2026-10-16. Left: form recipient email unverified in Framer (Taimur), email button in the hero portrait card (optional).
 3. (cloud chat) Outbound and Content Engine sheets, then scheduled routines.
-4. Re-count 21 Oct: 601,151 views across 110 reels, so 600K+ is true (thin margin). Canvas says 600K+ on all three pages; publish on Taimur's OK.
+4. Re-count 21 Oct: 601,151 views across 110 reels, 600K+ published 21 Oct on all three pages (version 4589cb1ef).
 5. Market pages /brazil and /germany are live (19 Oct). Next candidates: /us and /spain-latam, built the same way (docs/framer-fixes.md).
 
 ## 2026-10-16 · cloud chat ("AI animation portfolio setup")
