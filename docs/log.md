@@ -15,7 +15,7 @@ Done:
 Next:
 2. Framer: all fixes in docs/framer-fixes.md published 2026-10-16. Left: form recipient email unverified in Framer (Taimur), email button in the hero portrait card (optional).
 3. (cloud chat) Outbound and Content Engine sheets, then scheduled routines.
-4. Around 21 Oct: re-count views on the 9 posting accounts (method and 19 Oct total of 488,275 in docs/cheermyrun.md). Once the total passes 500,000, change "450K+" to "500K+" in the hero line and stat card, show Taimur, publish on his OK.
+4. Re-count 21 Oct: 601,151 views across 110 reels, so 500K+ is true. Canvas updated on all three pages; publish on Taimur's OK.
 5. Market pages /brazil and /germany are live (19 Oct). Next candidates: /us and /spain-latam, built the same way (docs/framer-fixes.md).
 
 ## 2026-10-16 · cloud chat ("AI animation portfolio setup")
