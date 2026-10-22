@@ -12,6 +12,8 @@ The combination of four things:
 
 In public copy, prove speed, quality and story with these numbers rather than saying "no one else does this". The rate stays private until a lead asks.
 
+**Organic, not ads (Taimur, 2026-10-22):** all work so far is organic content with no ad spend. Taimur has not made or run paid ads yet. Describe it as organic AI drama reels / AI animation content, never as ads he made. Offering a free test ad to a lead is fine.
+
 ## 1. Niche
 
 Market: **wealth**. Taimur sells to businesses, and what they buy is ads that make them money. The products he animates can sit in any of the three markets (Ketro is health, JTX is wealth, CheerMyRun's stories are relationships); that doesn't change which market he is in.
