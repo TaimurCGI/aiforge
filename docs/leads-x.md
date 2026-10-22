@@ -250,6 +250,6 @@ DM (one message for both roles):
 **@yashsxna, 17 Oct** (8-figure DTC supplement brand, AI drama ads, above-market pay) https://x.com/yashsxna/status/2111486969973010902
 Comment: "We have a winner format, definitely." A founder on my AI drama reel, now 142K organic. taimur.framer.website
 DM:
-> Hey, Organic AI drama is most of what I make. A girl calls her stepdad "papa" for the first time at km 32: 142K organic views, 8.5K likes, and the founder's verdict was "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+> Hey, organic AI drama is most of what I make. A girl calls her stepdad "papa" for the first time at km 32: 142K organic views, 8.5K likes, and the founder's verdict was "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
 >
 > For a supplement brand I'd build the same shape around your product. Free test on your Higgsfield, back in 24 hours? taimur.framer.website
