@@ -260,3 +260,29 @@ DM:
 > Hey, organic AI drama is most of what I make. A girl calls her stepdad "papa" for the first time at km 32: 142K organic views, 8.5K likes, and the founder's verdict was "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
 >
 > For a supplement brand I'd build the same shape around your product. Free test on your Higgsfield, back in 24 hours? taimur.framer.website
+
+## Apply now (animation leads, not yet messaged; 22 Oct)
+
+Newest first. Older drafts for @ecomsoloo, @OleBakel, @Hamzah456537 and @ecomnischay are above (sections 6, 10, 13, 14). Already messaged, so not listed: @davidolic_, @bevcoastkev, @EcomRisingg, @TwangEcom.
+
+**NEW: @IAmJoshGoldberg, 21 Oct** (3D character animator for human exercise animations: custom Blender rig, realistic body mechanics, facial animation + lip sync, Three.js/glTF export, AI workflow a plus) https://x.com/IAmJoshGoldberg/status/2112913956176355433
+Needs from Taimur before sending: a link to traditional 3D (Blender) animation work, and whether he has done facial animation / lip sync and glTF export.
+Comment: Seven years animating characters in Blender. DMing my reel.
+DM:
+> Hey Josh, I've been a 3D animator for seven years, mostly in Blender, so custom rigs and believable body mechanics are where I started. These days I add an AI workflow on top for speed. [3D ANIMATION REEL LINK]
+>
+> Happy to animate one short exercise on your rig as a free test so you can check the mechanics yourself.
+
+**@konig0000, 17 Oct role only** (AI video editor + static ad designer, $2.5K to $3K/mo; asks for 3 videos, 3 statics and an AI portfolio) https://x.com/konig0000/status/2111339706709582184
+Comment: Full AI videos with animation, script to final cut. Top one 142K organic. DMing my 3 + 3.
+DM:
+> Hey, for your AI video + statics role.
+>
+> 3 videos (all organic, generated and edited by me): stepdad story, 142K views instagram.com/reel/DeQPcZdsZaC / pain gel explainer, 17.9K instagram.com/reel/DeAX99xM4wA / grandpa's 1980 race, 8.7K instagram.com/reel/DedDdXfq9vV
+>
+> Statics: I designed the static ads for heyyy (UK wellness); the top one hit 8.26% CTR on cold Meta traffic. behance.net/taimurcgi
+>
+> Portfolio: taimur.framer.website
+(Check the heyyy line is accurate before sending.)
+
+**@Zion04920 (Arko Brand Group), 18 Oct**: draft in "Drafts for the 22 Oct scan" above.
