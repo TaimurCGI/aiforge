@@ -89,3 +89,4 @@ Still open: suggestion 4 (case study needs a second winner; best is the DE stepd
 - 2026-10-21 canvas (not published): changed to 600K+ at Taimur's request. Basis: 601,151 across 110 reels, thin margin; counts the 20 reels posted 19 to 20 Oct (assumed his) and 7 Instagram-rounded counts.
 - 2026-10-21 (version 4589cb1ef, Taimur's OK, checked live on /, /brazil, /germany): 600K+ and 21 Oct reel counts. Taimur confirmed all newer reels are his.
 - 2026-10-22 canvas (not published): "ads" wording removed (Taimur: his work is organic content, not paid ads yet). Home hero "Pixar-style stories", formats FAQ, "finished video", meta; /brazil and /germany eyebrow, intro and meta now say "AI animation" / "organic AI drama reels". Kept: "no ad spend", "first test ad is free", "before any money goes into ads".
+- 2026-10-22 (version 6fffc809a, Taimur's OK, checked live on all three pages): organic wording fix published.
