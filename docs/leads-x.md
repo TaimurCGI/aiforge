@@ -180,3 +180,19 @@ Skipped (restricted): @drew_ecom3 (Spanish / Spain-only), @shrey1224jain (India 
 | 11 Oct | EcomRisinggg | 17.8K Ketro + 7.8K France | #8 |
 | 9 Oct | Will Connell | Drive folder link only | new |
 | 6 Oct | Gustav Walsted | "Statics" | new |
+
+## New leads, scan of 22 Oct (posts 15 to 22 Oct, newest first)
+
+| Posted | Who | What | Fit | Link |
+|---|---|---|---|---|
+| 21 Oct | @sivertridd | Agency, AI ads maker for performance/DR ads, briefs and tools provided, full-time remote, $2K+ | Good (full-time) | https://x.com/sivertridd/status/2112771384556560442 |
+| 20 Oct | @TheInternetsJan | AI video editor for cinematic shorts and product videos, consistent work, from $500/week | Good (contract) | https://x.com/TheInternetsJan/status/2112598360376909917 |
+| 20 Oct | @manu_ecom | DTC supplement brands at $1M+/month, Suno song ads and drama ads, base + uncapped bonus (also posted 19 Oct) | Strong | https://x.com/manu_ecom/status/2112452195396313391 |
+| 20 Oct | @mkwizrd | AI video editors for ecom, $2.5K base + 3% of ad spend as bonus | Good | https://x.com/mkwizrd/status/2112488623991873677 |
+| 18 Oct | @Zion04920 (Arko Brand Group) | D2C ads: singing, claymation, 3D animation, drama; pay + bonus + profit share on winners | Strong | https://x.com/Zion04920/status/2111657532414681514 |
+| 18 Oct | @konig0000 | Multiple AI video editors, $2.5K to $3K/mo + bonus, 3 to 4 briefs a week | Good | https://x.com/konig0000/status/2111811201630151111 |
+| 17 Oct | @yashsxna | 8-figure DTC supplement brand, AI drama ads, pay above market | Strong | https://x.com/yashsxna/status/2111486969973010902 |
+| 17 Oct | @konig0000 | AI video editor + static ad designer, $2.5K to $3K/mo full-time | Medium | https://x.com/konig0000/status/2111339706709582184 |
+| 18 Oct | @MoiezVayn, @Noreenmotions | AI ad editor, "low budget" | Low | |
+
+Skipped: Brazilian supplement brand reposts (@unknownpsyop, @konig0000 22 Oct) now say "have to be Brazilian" (same job as @LoadedTraffic, already DMed); @geraferrero (Spanish-speaking); @juan27ed (singing ads with proof, Spanish, no Higgsfield); identical "$1,800/mo, 5+ years" reposts (@thepreciouseun, @kendranelson234, @mhikenxy, @the_careerblog); creator/UGC talent calls (@SideShiftUGC, @UGCOpportunity, @Shiv_IITD); on-site in Abuja (@real_khanzunlah).
