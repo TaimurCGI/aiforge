@@ -13,6 +13,7 @@ Numbers Claude may use in posts (all from docs/cheermyrun.md or Taimur):
 - Seven years as a 3D animator, mostly in Blender
 - 10 accounts now: the UK account (@sophierunsdaily_) went live with 2 posts by 21 Oct and is in the 600K+ count. Per-market claims still need the catalog in docs/cheermyrun.md.
 - Turnaround: 24 hours from brief to finished ad (Taimur)
+- All past work (CheerMyRun, Ketro, JTX) is organic content, not paid ads (Taimur, 22 Oct). In posts call it reels, organic AI drama reels or organic AI animation; never "my top ad", "I make drama ads" or ad-spend results. Offering a free test ad and saying organic winners are a cheap way to find ads worth funding are fine.
 - Tools: Claude, Higgsfield (Seedance 2.5 + Nano Banana Pro, sometimes 3D Jutsu), ElevenLabs; Kling or Veo when needed. Edits and motion graphics through Claude; Premiere/After Effects rarely. Other languages translated with Claude and checked by a multi-agent reviewer Taimur built (Taimur)
 - Client quotes (Loom reviews, 9 to 12 Oct, public, no NDA), attributed to Iñigo Vazquez, founder of CheerMyRun ("CheerMyRun's founder" where space is short): "We have a winner format, definitely." (the papá/stepdad format that became the 130K reel) / "This works perfect and it's proven." / "Let's replicate this exact one."
 - No singing ads made yet: don't imply he makes them
@@ -145,7 +146,7 @@ The small solo editors (@2un_dee, @hassancreatives, @itsjustchiamaka, @ArshiaTlo
 ### Drafts modelled on competitor formats
 
 **C1. The client breakdown (model: @beechinour's "full breakdown on how I created this arcane style ad for @GTE", 90.8K views)**
-> I made a full breakdown of how I built the AI ad that hit 142K organic views for CheerMyRun:
+> I made a full breakdown of how I built the AI reel that hit 142K organic views for CheerMyRun:
 > the research, the one-line script, the character sheets, a first frame for every shot, and the 7 language versions.
 Thread below it with one step per post, each with a screenshot. Media: Berlin reel + stage screenshots: **needs Taimur's working files**. Tag CheerMyRun's X account if they have one (not checked).
 
@@ -156,19 +157,19 @@ Thread below it with one step per post, each with a screenshot. Media: Berlin re
 Media: a first-frame grid from one reel: **needs Taimur's file**. Taimur fills in the steps in his own words.
 
 **C3. "Crazy that I made this" + workflow (model: @abxxai, 381K views)**
-> crazy that this ad is fully AI and still at 142K organic views.
+> crazy that this reel is fully AI and still at 142K organic views.
 > Nano Banana Pro for frames, Seedance 2.5 for shots, ElevenLabs for voice, Claude for the script.
-> The part most AI ad workflows skip is the script. Here's mine:
+> The part most AI video workflows skip is the script. Here's mine:
 Media: Berlin reel; reply with the script page: **needs Taimur's script**.
 
 **C4. The challenge, with proof attached (model: @MaxbatIe's "Genuine question", 35.8K views)**
 > Genuine question.
-> Has anyone else got a single AI drama ad past 142K organic views, no ad spend?
+> Has anyone else got a single organic AI drama reel past 142K views, no ad spend?
 > Mine's below. Show me yours.
 Media: Berlin reel. Why: same reply-pulling format, but with a number his challengers have to beat.
 
 **C5. "Study this account" (model: @pounddz, 27.5K views)**
-> I make the ads for this Instagram account, and it's worth studying:
+> I make the reels for this Instagram account, and it's worth studying:
 > one AI story at 142K organic views, a second version of the same story at 67.5K, same characters.
 > A good story can carry a second version.
 Media: screenshot of the @lenalaeuft_ reels grid showing both counts: **needs making** (check the counts on the day). Says plainly that he makes the ads, so it isn't presented as someone else's account.
@@ -205,7 +206,7 @@ Media: screenshot of the @lenalaeuft_ reels grid showing both counts: **needs ma
 
 ### Plan
 
-- **Fix the profile first:** replace the 10 Oct post with the new pinned proof thread (Draft 1). Suggested bio: "Story-first AI animated ads for brands that sell online. 7 years as a 3D animator. 600K+ organic views on my last campaign. DM for a free test ad." Put taimur.framer.website in the website field.
+- **Fix the profile first:** replace the 10 Oct post with the new pinned proof thread (Draft 1). Suggested bio: "Story-first AI animation for brands that sell online. 7 years as a 3D animator. 600K+ organic views on my last campaign. DM for a free test ad." Put taimur.framer.website in the website field.
 - **Cadence:** 1 original post a day (alternate clip posts, receipts, questions), 1 thread a week, and 10 to 20 replies a day.
 - **Every post ends the same way when it has a CTA:** free test ad, DM. No price in public posts or on the site; Taimur quotes the rate only in DMs, when a lead asks.
 - **Replies are the main growth lever at 21 followers.** Reply early to posts from @CEO_Vlad, @MaxbatIe, @Framer_X, @irabukht, @higgsfield_ai and to every new AI video editor hiring post. Lead with a clip or a number, not "DM'd".
@@ -243,8 +244,8 @@ Ready to post unless marked. Media paths are in Drive: AI Forge/Portfolio (Cheer
 
 > 5/ Seven years as a 3D animator before AI. That's where the timing and acting come from.
 
-> 6/ I make story-first AI ads for brands that sell online: a pain relief cream, a trading app and a marathon app so far.
-> 24 hours from brief to finished ad. Up to 10 a day.
+> 6/ I make story-first AI animation for brands that sell online: a pain relief cream, a trading app and a marathon app so far.
+> 24 hours from brief to finished video. Up to 10 a day.
 > Your first one is free, made on your own Higgsfield. DM me.
 > taimur.framer.website
 
@@ -270,7 +271,7 @@ Why: same format as the cost/result receipts that beat these accounts' averages,
 > Colombia 4.5K
 > Spain 2.9K
 > Japan 488
-> If you're only testing your ads in English, you're guessing.
+> If you're only posting in English, you're guessing.
 
 Media: split-screen of the 7 versions: **needs cutting** (or post text only).
 Why: original data, easy to repost, starts a discussion on localization.
@@ -295,8 +296,8 @@ Why: copies the "you're missing this extra step" hook (235K views) with his real
 
 ### Draft 6: capacity
 
-> 24 hours from brief to finished ad.
-> 10 finished story ads a day.
+> 24 hours from brief to finished video.
+> 10 finished story reels a day.
 > 70 a week.
 > 300 a month.
 > Each one researched and scripted, with a hook in the first two seconds and an ending that pays it off.
@@ -355,8 +356,8 @@ Why: breakdown posts get saved; it shows a real pipeline, not one-prompt output.
 
 ### Draft 12: trend with proof
 
-> AI drama ads work because people stay to see how the story ends.
-> 110 of them for CheerMyRun so far, 600K+ organic views, no ad spend.
+> AI drama works because people stay to see how the story ends.
+> 110 organic reels for CheerMyRun so far, 600K+ views, no ad spend.
 
 Media: Berlin reel or a 3-reel montage.
 Why: rides the "drama ads are printing" wave with his own numbers.
@@ -366,7 +367,7 @@ Why: rides the "drama ads are printing" wave with his own numbers.
 > If you're about to post "hiring AI video editor":
 > I made 70 AI drama reels in one week for CheerMyRun, in 7 languages. The campaign is now at 600K+ organic views.
 > CheerMyRun's founder: "This works perfect and it's proven."
-> 24 hours from brief to finished ad. Per video or monthly batches. First ad free, on your own Higgsfield.
+> 24 hours from brief to finished video. Per video or monthly batches. First ad free, on your own Higgsfield.
 > taimur.framer.website
 
 Media: 30 to 45s montage of the best reels: **needs cutting**.
@@ -402,8 +403,8 @@ Why: hits the buyer's "wasted credits" fear and positions Taimur as the safe hir
 
 ### Draft 17: speed, quality, story
 
-> What you get from me on every AI ad:
-> Speed: 24 hours from brief to finished ad. 70 reels in one week for CheerMyRun.
+> What you get from me on every video:
+> Speed: 24 hours from brief to finished video. 70 reels in one week for CheerMyRun.
 > Quality: seven years as a 3D animator before AI.
 > Story: I research and write every script myself.
 > Proof: 142K organic views on one reel, 600K+ across the campaign. CheerMyRun's founder: "We have a winner format, definitely."
@@ -414,7 +415,7 @@ Why: states speed, quality and story with a number each, no "no one else" claim,
 
 ### Draft 18: the script behind the 142K reel
 
-> The script for my best AI ad was one line long at the start:
+> The script for my best AI reel was one line long at the start:
 > "At km 32 she called him papa for the first time."
 > Everything else in the reel builds to that moment.
 > 142K organic views in Germany.
@@ -424,7 +425,7 @@ Why: proves the Story pillar with the reel that has the biggest number; shows th
 
 ### Draft 19: research before script
 
-> Before writing a single AI ad script I look for one real moment people already feel.
+> Before writing a single script I look for one real moment people already feel.
 > For CheerMyRun: the km where a runner hears a voice they didn't expect.
 > km 32. mile 25. km 37 in 1980.
 > 600K+ organic views across 110 reels.
@@ -451,20 +452,20 @@ Media: 2/ character sheet, 3/ a first-frame grid for one reel: **both need Taimu
 
 ### Draft 20: the stack
 
-> My AI ad stack:
+> My AI video stack:
 > Claude: research, scripts, edits, motion graphics
 > Higgsfield: Nano Banana Pro for frames, Seedance 2.5 for shots
 > ElevenLabs: voice
 > Kling or Veo when a shot needs it
 > Premiere and After Effects almost never.
-> 24 hours from brief to finished ad.
+> 24 hours from brief to finished video.
 
 Media: a screen recording or a screenshot of one project across the tools: **needs Taimur's capture** (or post text only).
 Why: stack breakdowns get saved (@adilinthewild's stack post: 488 likes, 206 reposts). Brands running Higgsfield see he works where they already pay.
 
 ### Draft 21: the founder's review
 
-> Iñigo Vazquez, founder of CheerMyRun, in his Loom review of one AI ad format:
+> Iñigo Vazquez, founder of CheerMyRun, in his Loom review of one AI reel format:
 > "We have a winner format, definitely."
 > "This works perfect and it's proven."
 > "Let's replicate this exact one."
@@ -486,7 +487,7 @@ Why: the localization angle plus a tool he built himself, which builders on X re
 
 Short, one hook, one link. Personalize the first line to their post every time.
 
-- On a drama-ad post: "AI drama ads are most of what I made this month: 70 for CheerMyRun, top one at 142K organic. [clip]"
+- On a drama-ad post: "Organic AI drama reels are most of what I made this month: 110 for CheerMyRun, top one at 142K views. [clip]"
 - On a cost post: "[their tool or cost point]. Mine: up to 10 finished reels a day, story first. [clip]"
 - On a hiring post: one line about their product or market, one reel link, portfolio, and the free test ("happy to make your first one free on your Higgsfield"). See docs/leads-x.md for per-lead drafts. No price in public replies.
 
