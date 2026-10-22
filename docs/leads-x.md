@@ -181,6 +181,13 @@ Skipped (restricted): @drew_ecom3 (Spanish / Spain-only), @shrey1224jain (India 
 | 9 Oct | Will Connell | Drive folder link only | new |
 | 6 Oct | Gustav Walsted | "Statics" | new |
 
+## Filter (Taimur, 2026-10-22): animation only
+
+Only work leads whose post asks for animation (AI animation, animated, 3D animation, Pixar-style, cartoon, claymation, 2D/storybook or similar). Skip the rest.
+
+Applied to the 22 Oct scan: keep @Zion04920 (claymation, 3D animation) and @konig0000's 17 Oct role (mentions animations). Skip @sivertridd, @TheInternetsJan, @manu_ecom, @mkwizrd, @yashsxna and @konig0000's 18 Oct role (no animation mentioned).
+Applied to the older unsent leads: keep @ecomsoloo, @Hamzah456537, @ecomnischay, @davidolic_, @OleBakel (Pixar, cartoon, claymation or animations named); skip @husnaindelivers, @thankyouecom, @RJWEMMY.
+
 ## New leads, scan of 22 Oct (posts 15 to 22 Oct, newest first)
 
 | Posted | Who | What | Fit | Link |
