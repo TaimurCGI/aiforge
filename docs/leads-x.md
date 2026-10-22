@@ -199,12 +199,12 @@ Skipped: Brazilian supplement brand reposts (@unknownpsyop, @konig0000 22 Oct) n
 
 ### Drafts for the 22 Oct scan (hook first, personalized, newest first; numbers checked 21 Oct)
 
-**@sivertridd, 21 Oct** (agency, DR AI ads, full-time $2K to $2.5K base) https://x.com/sivertridd/status/2112771384556560442
-Comment: Top AI drama reel I made: 142K organic, zero ad spend. DMing you. taimur.framer.website
+**@sivertridd, 21 Oct** (agency, performance/DR AI ads from their briefs, tools provided, full-time $2K to $2.5K base; no animation style asked for, so pitch hooks, briefs and speed; weakest fit, Taimur may skip) https://x.com/sivertridd/status/2112771384556560442
+Comment: My organic AI reels hold attention with no ad spend: top one 142K. Send me a brief and I'll turn it around in 24h. taimur.framer.website
 DM:
-> Hey, my best AI reel so far: 142K organic views with no ad spend, and the client's founder called it "a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+> Hey Sivert, quick one on your AI ads role. My work so far is organic, and the hook carries everything: my top reel did 142K views with no ad spend. instagram.com/reel/DeQPcZdsZaC
 >
-> I script and produce story content end to end, 24 hours per video, and I'm open to full-time. Happy to do one of your briefs as a free test on your tools. Portfolio: taimur.framer.website
+> I haven't run paid DR ads yet, so let the work answer it: send me one of your briefs and I'll deliver a finished ad on your tools within 24 hours, free. If it's not up to your standard, no hard feelings. taimur.framer.website
 
 **@TheInternetsJan, 20 Oct** (cinematic shorts and product videos, from $500/week; asks for portfolios in comments) https://x.com/TheInternetsJan/status/2112598360376909917
 Comment: Cinematic AI shorts are my lane: 70 reels in a week for one client, top one 142K organic. Portfolio: taimur.framer.website
