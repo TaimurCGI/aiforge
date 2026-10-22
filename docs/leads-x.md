@@ -266,10 +266,10 @@ DM:
 Newest first. Older drafts for @ecomsoloo, @OleBakel, @Hamzah456537 and @ecomnischay are above (sections 6, 10, 13, 14). Already messaged, so not listed: @davidolic_, @bevcoastkev, @EcomRisingg, @TwangEcom.
 
 **NEW: @IAmJoshGoldberg, 21 Oct** (3D character animator for human exercise animations: custom Blender rig, realistic body mechanics, facial animation + lip sync, Three.js/glTF export, AI workflow a plus) https://x.com/IAmJoshGoldberg/status/2112913956176355433
-Needs from Taimur before sending: a link to traditional 3D (Blender) animation work, and whether he has done facial animation / lip sync and glTF export.
+Taimur's call (22 Oct): send the AI animation portfolio. Facial animation / lip sync and glTF export are not claimed.
 Comment: Seven years animating characters in Blender. DMing my reel.
 DM:
-> Hey Josh, I've been a 3D animator for seven years, mostly in Blender, so custom rigs and believable body mechanics are where I started. These days I add an AI workflow on top for speed. [3D ANIMATION REEL LINK]
+> Hey Josh, I've been a 3D animator for seven years, mostly in Blender, so custom rigs and believable body mechanics are where I started. These days I make AI animation on top of that background, and the AI workflow keeps me fast. Portfolio: taimur.framer.website
 >
 > Happy to animate one short exercise on your rig as a free test so you can check the mechanics yourself.
 
