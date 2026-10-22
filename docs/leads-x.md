@@ -196,3 +196,60 @@ Skipped (restricted): @drew_ecom3 (Spanish / Spain-only), @shrey1224jain (India 
 | 18 Oct | @MoiezVayn, @Noreenmotions | AI ad editor, "low budget" | Low | |
 
 Skipped: Brazilian supplement brand reposts (@unknownpsyop, @konig0000 22 Oct) now say "have to be Brazilian" (same job as @LoadedTraffic, already DMed); @geraferrero (Spanish-speaking); @juan27ed (singing ads with proof, Spanish, no Higgsfield); identical "$1,800/mo, 5+ years" reposts (@thepreciouseun, @kendranelson234, @mhikenxy, @the_careerblog); creator/UGC talent calls (@SideShiftUGC, @UGCOpportunity, @Shiv_IITD); on-site in Abuja (@real_khanzunlah).
+
+### Drafts for the 22 Oct scan (hook first, personalized, newest first; numbers checked 21 Oct)
+
+**@sivertridd, 21 Oct** (agency, DR AI ads, full-time $2K to $2.5K base) https://x.com/sivertridd/status/2112771384556560442
+Comment: Top AI drama ad I made: 142K organic, zero ad spend. DMing you. taimur.framer.website
+DM:
+> Hey, my best AI ad so far: 142K organic views with no ad spend, and the client's founder called it "a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+>
+> I script and produce DR ads end to end, 24 hours per ad, and I'm open to full-time. Happy to do one of your briefs as a free test on your tools. Portfolio: taimur.framer.website
+
+**@TheInternetsJan, 20 Oct** (cinematic shorts and product videos, from $500/week; asks for portfolios in comments) https://x.com/TheInternetsJan/status/2112598360376909917
+Comment: Cinematic AI shorts are my lane: 70 reels in a week for one client, top one 142K organic. Portfolio: taimur.framer.website
+DM:
+> Hey, I commented my portfolio, sharing the strongest piece here too: a cinematic AI short at 142K organic views. instagram.com/reel/DeQPcZdsZaC
+>
+> I can finish 10 videos a day, so weekly volume isn't an issue. Free test on one of your products in 24 hours if you want to see it first. taimur.framer.website
+
+**@manu_ecom, 20 Oct** (DTC supplements $1M+/month; wants proof of winning Suno song ads, drama ads and $100K+ spend; full-time) https://x.com/manu_ecom/status/2112452195396313391
+Comment: AI drama is my main format. Top one 142K organic, and the founder called it a winner format. taimur.framer.website
+DM:
+> Hey Manu, my strongest AI drama ad: 142K organic views and 8.5K likes, no ad spend. CheerMyRun's founder on it: "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+>
+> Straight answer on your list: my drama ads ran organic, so I don't have $100K-spend proof yet, and I haven't shipped a Suno song ad. I'd make one of each free as a test on your Higgsfield, back in 24 hours, so you can judge them on your own product. Portfolio: taimur.framer.website
+
+**@mkwizrd, 20 Oct** (health and wellness ecom, $2.5K base + 3% of winner spend; FULL-TIME AND EXCLUSIVE, no side clients; apply via the Notion form in the post and put "trench" in the name field) https://x.com/mkwizrd/status/2112488623991873677
+Comment: Applied. 70 AI dramas in one week for one client, top one 142K organic.
+Form intro:
+> Seven years as a 3D animator, now AI drama and story ads. My top one: 142K organic views, 8.5K likes. instagram.com/reel/DeQPcZdsZaC
+>
+> I built my own multi-agent reviewer with Claude that checks every language version before it ships, and I can finish 10 videos a day. Happy to start with the paid trial task. Portfolio: taimur.framer.website
+
+**@Zion04920 (Arko Brand Group), 18 Oct** (singing, claymation, 3D animation, drama; profit share on winners) https://x.com/Zion04920/status/2111657532414681514
+Comment: 3D animator for seven years, now AI drama: top ad 142K organic. DMing my portfolio.
+DM:
+> Hey, 3D animation is where I come from: seven years before AI. Now I make AI drama ads. The best one hit 142K organic views, and the founder called it "a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+>
+> I also made an absurd 3D explainer for a pain-relief cream that got 17.9K: instagram.com/reel/DeAX99xM4wA
+>
+> I haven't shipped singing or claymation yet, so I'd happily make one of those the free test, on your tools, back in 24 hours. taimur.framer.website
+
+**@konig0000, 17 and 18 Oct** (two roles: AI video editors $2.5K to $3K + bonus with a paid test; AI video + static ad designer wanting 3 videos and 3 statics) https://x.com/konig0000/status/2111811201630151111 and https://x.com/konig0000/status/2111339706709582184
+Comment (on the 18 Oct post): Full videos generated with AI, not just edited: 70 in one week, top one 142K organic. DMing.
+DM (one message for both roles):
+> Hey, answering both your posts in one.
+>
+> Videos: I generate and edit full AI ads myself, script to final cut. Top one: 142K organic views. instagram.com/reel/DeQPcZdsZaC / Pain gel explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
+>
+> Statics: I designed the static ads for heyyy (UK wellness); the top one hit 8.26% CTR on cold Meta traffic. behance.net/taimurcgi
+>
+> Happy to start with the paid test project. Portfolio: taimur.framer.website
+
+**@yashsxna, 17 Oct** (8-figure DTC supplement brand, AI drama ads, above-market pay) https://x.com/yashsxna/status/2111486969973010902
+Comment: "We have a winner format, definitely." A founder on my AI drama ad, now 142K organic. taimur.framer.website
+DM:
+> Hey, AI drama is most of what I make. A girl calls her stepdad "papa" for the first time at km 32: 142K organic views, 8.5K likes, and the founder's verdict was "We have a winner format, definitely." instagram.com/reel/DeQPcZdsZaC
+>
+> For a supplement brand I'd build the same shape around your product. Free test on your Higgsfield, back in 24 hours? taimur.framer.website
