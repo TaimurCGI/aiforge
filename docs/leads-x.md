@@ -263,7 +263,9 @@ DM:
 
 ## Apply now (animation leads, not yet messaged; 22 Oct)
 
-Newest first. Older drafts for @ecomsoloo, @OleBakel, @Hamzah456537 and @ecomnischay are above (sections 6, 10, 13, 14). Already messaged, so not listed: @davidolic_, @bevcoastkev, @EcomRisingg, @TwangEcom.
+Newest first, posts from the last 7 days only (Taimur, 22 Oct). Apply now: @IAmJoshGoldberg (21 Oct), @Zion04920 (18 Oct), @konig0000 17 Oct role.
+
+Later (older than 7 days, don't show unless asked): @ecomsoloo (8 Oct), @OleBakel (29 Sep), @Hamzah456537 (22 Sep), @ecomnischay (19 Sep); drafts in sections 6, 10, 13, 14 above. Already messaged: @davidolic_, @bevcoastkev, @EcomRisingg, @TwangEcom.
 
 **NEW: @IAmJoshGoldberg, 21 Oct** (3D character animator for human exercise animations: custom Blender rig, realistic body mechanics, facial animation + lip sync, Three.js/glTF export, AI workflow a plus) https://x.com/IAmJoshGoldberg/status/2112913956176355433
 Taimur's call (22 Oct): send the AI animation portfolio. Facial animation / lip sync and glTF export are not claimed.
