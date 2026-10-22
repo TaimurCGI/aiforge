@@ -288,3 +288,32 @@ DM:
 (Check the heyyy line is accurate before sending.)
 
 **@Zion04920 (Arko Brand Group), 18 Oct**: draft in "Drafts for the 22 Oct scan" above.
+
+## DM format from 22 Oct (Taimur): brief, spaced, watch more than read
+
+**@Zion04920**
+> Hey, 3D animator, now AI.
+>
+> 142K organic:
+> instagram.com/reel/DeQPcZdsZaC
+>
+> 3D explainer, 17.9K:
+> instagram.com/reel/DeAX99xM4wA
+>
+> More: taimur.framer.website
+>
+> Free claymation or singing test?
+> Back in 24h.
+
+**@konig0000 (17 Oct role)**
+> Hey, here's my 3 + 3.
+>
+> Videos:
+> instagram.com/reel/DeQPcZdsZaC (142K)
+> instagram.com/reel/DeAX99xM4wA (17.9K)
+> instagram.com/reel/DedDdXfq9vV (8.7K)
+>
+> Statics:
+> behance.net/taimurcgi
+>
+> Portfolio: taimur.framer.website
