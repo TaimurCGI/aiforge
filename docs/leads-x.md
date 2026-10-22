@@ -292,18 +292,18 @@ DM:
 ## DM format from 22 Oct (Taimur): brief, spaced, watch more than read
 
 **@Zion04920**
-> Hey, 3D animator, now AI.
+> Hey! I've been animating in 3D for 7 years and moved into AI animation this year.
 >
-> 142K organic:
+> This one hit 142K organic:
 > instagram.com/reel/DeQPcZdsZaC
 >
-> 3D explainer, 17.9K:
+> A 3D explainer, 17.9K:
 > instagram.com/reel/DeAX99xM4wA
 >
 > More: taimur.framer.website
 >
-> Free claymation or singing test?
-> Back in 24h.
+> Happy to do a free claymation or singing test, back in 24h.
+(Check "this year" is right before sending.)
 
 **@konig0000 (17 Oct role)**
 > Hey, here's my 3 + 3.
