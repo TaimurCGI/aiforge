@@ -317,3 +317,7 @@ DM:
 > behance.net/taimurcgi
 >
 > Portfolio: taimur.framer.website
+
+## Scan 22 Oct, later (posts since 20 Oct, animation only)
+
+No new animation job posts. Checked and skipped: PostHog "Animator & Motion Graphics Designer" (company role, global remote; motion graphics, not AI animation; apply on their careers page if Taimur wants), LeanSugar AI Video Specialist (Nigeria only), Afristar Media (Abuja on-site), @308Greenfield (wanted free 2D motion work).
