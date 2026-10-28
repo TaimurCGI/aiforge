@@ -48,6 +48,14 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 | CO | https://www.instagram.com/valrunsdaily |
 | JP | https://www.instagram.com/runwithyui |
 
+## Re-count 2026-10-28 (views + likes)
+
+- 133 of Taimur's reels on 10 accounts (excluding the JP real-runner ad and the meme): **912,196 views, 60,606 likes, 6.64% like rate** (likes / views). Two reels have likes hidden in the page preview; their 17 Oct counts were used (101 and 1).
+- Like rate by account: BR 10.9%, ES 9.0%, CO 8.0%, FR 7.8%, IT 7.1%, US 6.6%, AU 6.6%, DE 6.0%, UK 4.6%, JP 1.5% (Japanese viewers like far less; JP views are still strong).
+- Top by views: Berlin stepdad 154K (9,910 likes, 6.4%); AU proposal "I want to marry your daughter... during her marathon" 103K (7,421, 7.2%); DE stepdad remake 85.5K (5,037, 5.9%); US proposal 58.3K (4,287, 7.4%); BR grandpa news 43.6K (5,459, 12.5%); FR stepdad remake 35.2K (3,288, 9.3%); JP proposal 35K (735, 2.1%).
+- Best like rate on reels with 5K+ views: BR grandpa news 12.5%, BR stepdad 12.1%, ES grandpa news 11.2%, CO reel Deu5Wx6NODe 11.0%, FR stepdad remake 9.3%, IT stepdad 9.2%.
+- New story to note: the proposal story (17/10 batch, posted 20 Oct) is the second strongest after the stepdad story.
+
 ## Re-count 2026-10-21
 
 - 110 of Taimur's reels on 10 accounts (9 + @sophierunsdaily_, now 2 posts), excluding the JP real-runner ad and the meme: 601,151 views. 20 posted 19 to 20 Oct; without them 535,135. Passed 500K.
