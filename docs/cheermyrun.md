@@ -56,6 +56,20 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 - Best like rate on reels with 5K+ views: BR grandpa news 12.5%, BR stepdad 12.1%, ES grandpa news 11.2%, CO reel Deu5Wx6NODe 11.0%, FR stepdad remake 9.3%, IT stepdad 9.2%.
 - New story to note: the proposal story (17/10 batch, posted 20 Oct) is the second strongest after the stepdad story.
 
+### Hook demo accounts (28 Oct)
+
+Same reels reposted with only the hook redone, on accounts that mostly post UGC (Taimur). Only these three reels are his; the rest of those accounts is UGC and not counted.
+
+| Account | Reel | Views | Likes | Like rate | Original hook, same reel |
+|---|---|---|---|---|---|
+| @chloesifit (FR) | DevRJMNq3i4, Run for me too | 9,278 | 912 | 9.8% | @camillesifit_ DedG3FCIkFp: 2,137 views |
+| @runwithaoi_ (JP) | Deu6z51sJ3s, Run for me too | 4,789 | 33 | 0.7% | @runwithyui Dec-AQio_YS: 2,325 views |
+| @maddierunsdaily (EN) | Deu6Y8ZTGZ8, Run for me too | 1,452 | 36 | 2.5% | @chloerunsdaily DedE2WayqOU: 1,472 views |
+
+- New hook vs original: 4.3x views in France, 2.1x in Japan, level in English.
+- On the same accounts, the UGC reels get about 130 to 570 views; the animated reposts got 1.5K to 9.3K (about 60x the usual reach on @chloesifit).
+- Campaign total with these: 136 reels, 927,715 views, 61,587 likes, 6.6% like rate.
+
 ## Re-count 2026-10-21
 
 - 110 of Taimur's reels on 10 accounts (9 + @sophierunsdaily_, now 2 posts), excluding the JP real-runner ad and the meme: 601,151 views. 20 posted 19 to 20 Oct; without them 535,135. Passed 500K.
