@@ -49,6 +49,7 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 - **Tools:** Claude, Higgsfield (Nano Banana Pro + Seedance 2.5; occasionally Higgsfield 3D Jutsu), ElevenLabs. Kling or Veo when needed, but Seedance gives the best results. Editing and motion graphics through Claude; Premiere Pro and After Effects for hand edits when needed (rarely).
 - **Languages:** English. Other languages are translated with Claude and checked by a multi-agent reviewer Taimur built.
 - **Singing ads:** none made yet; happy to do one as a free test.
+- **Campaign output (Taimur, 28 Oct):** 140 CheerMyRun reels made in two weeks (133 posted on the 10 accounts).
 - **Volume per client (Taimur's DM to Tyler Wang, 20 Oct):** about 30 videos for Ketro and 10 for JTX, plus the CheerMyRun campaign.
 - **Rights:** no NDA with Doublespeed; the CheerMyRun work, numbers and client feedback can be shared publicly (Taimur, 2026-10-17). Quotes are from Iñigo Vazquez, founder of CheerMyRun (Taimur, 2026-10-17).
 
