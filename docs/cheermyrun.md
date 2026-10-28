@@ -66,7 +66,7 @@ Same reels reposted with only the hook redone, on accounts that mostly post UGC 
 | @runwithaoi_ (JP) | Deu6z51sJ3s, Run for me too | 4,789 | 33 | 0.7% | @runwithyui Dec-AQio_YS: 2,325 views |
 | @maddierunsdaily (EN) | Deu6Y8ZTGZ8, Run for me too | 1,452 | 36 | 2.5% | @chloerunsdaily DedE2WayqOU: 1,472 views |
 
-- New hook vs original: 4.3x views in France, 2.1x in Japan, level in English.
+- Selective sample: Taimur shared only these three; other hook-demo accounts barely got views and aren't listed (28 Oct). So the hook comparison (4.3x France, 2.1x Japan, level in English) is best-case, not a test result. Don't quote it, or the UGC comparison below, in public copy or DMs unless the full set is added.
 - On the same accounts, the UGC reels get about 130 to 570 views; the animated reposts got 1.5K to 9.3K (about 60x the usual reach on @chloesifit).
 - Campaign total with these: 136 reels, 927,715 views, 61,587 likes, 6.6% like rate.
 
