@@ -56,6 +56,13 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 - Best like rate on reels with 5K+ views: BR grandpa news 12.5%, BR stepdad 12.1%, ES grandpa news 11.2%, CO reel Deu5Wx6NODe 11.0%, FR stepdad remake 9.3%, IT stepdad 9.2%.
 - New story to note: the proposal story (17/10 batch, posted 20 Oct) is the second strongest after the stepdad story.
 
+### Papa (stepdad) format only, 28 Oct
+
+14 reels, 344,499 views, 24,345 likes, 7.1% like rate (38% of all campaign views from 11% of the reels).
+- Original Km 32 (posted 8 Oct, 7 markets): 204,585 views, 14,767 likes, 7.2%. DE 154K (6.4%), BR 17.9K (12.1%), IT 15.8K (9.2%), FR 8K (7.3%), CO 5K (7.8%), ES 3.4K (7.6%), JP 503 (0.4%).
+- US/AU versions (posted 14 Oct): 9,572 views, 549 likes. US 9.4K (5.8%), AU 158.
+- Remake (posted 16 Oct, 5 markets): 130,342 views, 9,029 likes, 6.9%. DE 85.5K (5.9%), FR 35.2K (9.3%), IT 5.9K (8.7%), US 2.1K (6.0%), AU 1.6K (4.1%).
+
 ### Hook demo accounts (28 Oct)
 
 Same reels reposted with only the hook redone, on accounts that mostly post UGC (Taimur). Only these three reels are his; the rest of those accounts is UGC and not counted.
