@@ -181,3 +181,14 @@ Doublespeed review status for all 30 was "pending" on 2026-10-16. Markets for th
 | Posted 15/10/26 | Dad in a taxi, one-way ticket | BR |  | Meu pai disse que já tinha gravado meu cheer pro km 35... mas ele estava num táxi, com uma passagem só de ida. #cheermyrun #maratona #pai #corrida | 1,316 | 87 | 1 | https://www.instagram.com/fitwithmariana_/reel/Deh_yi0oF1t/ |
 | Posted 15/10/26 | Dad in a taxi, one-way ticket | FR |  | Mon papa m'a dit que mon cheer du km 35 était déjà enregistré... mais il était dans un taxi, avec un aller simple. #cheermyrun #marathon #papa #course | 1,081 | 71 | 0 | https://www.instagram.com/camillesifit_/reel/Deh8fj6Nyfn/ |
 | Posted 15/10/26 | Taxi-driver dad, I'm going to be a doctor | CO |  | mi papá manejó taxi 20 años para que yo estudiara. en su km 7 le conté que voy a ser médica 🥹 #cheermyrun #bogotá #correr #running | 258 | 10 | 0 | https://www.instagram.com/valrunsdaily/reel/DeiAKI2AEw2/ |
+
+## Campaign facts (reels chat PDF, data as of 27 Nov 2026)
+
+Source: CMR-Campaign-Facts-2026-11-27.pdf (Doublespeed internal doc, not for sharing). Instagram reels excluding 52 videos from 7 known teammate drafts: 614 reels, 2.7M views, median 1.6K, 41 over 10K, 4 over 100K, like rate 5.7%. Facebook mirrors counted separately: 470 posts, 90K views, 0.7% like rate.
+- All accounts new: first 18 Instagram accounts added 28 Sep, first reels 7 Oct; Facebook pages added 1 Oct; more Instagram accounts added 13 Oct (2) and 31 Oct (8).
+- Reel count does not match Taimur's 384 or the site's 380: ask Taimur which to use.
+- Client scripts: Proposal (CL04, top reel), Gender Reveal (111K and 82K), Grandpa, plus Siblings kit. Papa, House, Homecoming, Run For Me Too have no client label. "I wrote every script" is not accurate.
+- Cheer lands about halfway (DE Papa 31 of 65s, US Homecoming 45 of 90s); October winners had no notification popup.
+- Km marker in the first line: small plus only (median 1,741 vs 1,400; top reel has none).
+- Top 5 by the PDF: Proposal US 268K / 16.8K (6.3%), Papa DE 171K / 10.7K, Papa DE second post 135K / 8.7K, Gender Reveal US 111K / 6.9K, Gender Reveal DE 82K / 448.
+- Tools now: Seedance 2.5 Flash on Doublespeed (720p with its own voices, upscaled to 1080p), Nano Banana Pro, ElevenLabs Music per scene.

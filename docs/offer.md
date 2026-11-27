@@ -8,7 +8,7 @@ The combination of four things:
 - **Rate:** $50 per video.
 - **Speed:** 24 hours from brief to finished ad. 70 reels in one week for CheerMyRun, up to 10 a day.
 - **Quality:** seven years as a 3D animator, so timing, acting and characters hold up.
-- **Story:** Taimur researches and writes every script himself.
+- **Story:** Taimur researches and writes every script himself. Correction (campaign facts PDF, 27 Nov): on CheerMyRun some winners came from client scripts (Proposal CL04, Gender Reveal, Grandpa). Don't claim he wrote every script; site About line needs fixing.
 
 In public copy, prove speed, quality and story with these numbers rather than saying "no one else does this". The rate stays private until a lead asks.
 
