@@ -24,13 +24,15 @@ Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 1
 **Elavate, 26 Nov** (UK collagen brand, Elavate Superfoods; 2 to 3 Meta ads a day: VSLs, AI voiceover and clay + Pixar style animation ads; remote worldwide, part or full time; checked 27 Nov)
 Post: https://x.com/careerspeakshq/status/2125844731053604865
 Apply: https://elavate.teamtailor.com/jobs/8778155-d2c-video-editor (the aicraftafrica link in the post now shows the Primal Queen listing). Form asks for 2 to 5 ads: proposal reel, claymation (site), pain relief cream.
-Application intro:
-> Clay and Pixar style animation ads is exactly what I make
+Application intro (in Taimur's style, 27 Nov):
+> Hey, saw the D2C Video Editor role. Clay and Pixar style animation ads are what I make every day
 >
-> I did a claymation ad for a business funding brand and my top Pixar style reel got 312K organic views and 21K likes
-> taimur.framer.website
+> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views and I did up to 10 a day so 2 to 3 a day works for me
 >
-> And 2 to 3 a day is very doable... my last campaign was 380 reels in 7 weeks with 2.5M organic views and I did up to 10 a day
+> This one did 312K views
+> instagram.com/reel/Deu6LaByK8P
+>
+> I also made a claymation ad for a business funding brand. That one and the rest of my work are here taimur.framer.website
 >
 > All my numbers so far are organic with no ad spend so I'd love to see how they do with spend behind them
 
@@ -52,21 +54,17 @@ DM (Taimur's own version, 27 Nov; typo fixes: Hey, Zack D. Films; cut to 2 links
 **@Flash_Ecom, 24 Nov** (word for word the same post as Isael, so likely the same brand: send one, or ask which brand first; no links; comment "EDIT" then DM)
 Post: https://x.com/Flash_Ecom/status/2125054361659228260
 Comment: EDIT
-DM:
-> Hey man EDIT
+DM (in Taimur's style, 27 Nov; send this one or Isael's, not both):
+> Hey, saw your post. AI animation and drama ads are what I make every day
 >
-> I make AI animated drama for brands and I've done health before so this one fits
+> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views
 >
-> Pain relief cream explainer (18.2K organic)
-> instagram.com/reel/DeAX99xM4wA
->
-> And my top reel did 312K organic views and 21K likes
+> This one did 312K views
 > instagram.com/reel/Deu6LaByK8P
 >
-> I made 380 reels in 7 weeks for one app with 2.5M organic views so volume won't be a problem
-> taimur.framer.website
+> For health I did some for a pain relief cream brand in Zack D. Films style (18K organic). That one and the rest of my work are here taimur.framer.website
 >
-> Which brand is it for? Want me to make a free test for it? You'd have it in 24 hours
+> Which brand is it for? Happy to make one for it for free so you can see it first
 
 **@konig0000, 22 Nov: skip.** Women's supplement role (Pixar, Suno, AI UGC). Likely Primal Queen (workwithprimalqueen.com, posted 22 Nov): beef organ supplement for women 35 to 55, angles include "desire", role mixes AI UGC, skits and micro drama, unpaid custom test video. Female brand + UGC: Taimur doesn't do it (27 Nov).
 Post: https://x.com/konig0000/status/2124388742714765453
@@ -76,34 +74,29 @@ Post: https://x.com/EcomKidoo/status/2123595676957437962
 
 **@AnmolXwealth, 20 Nov** (The Factual Holding Co, behind CHANGE and LVLS, crypto; short animated + AI videos daily with Higgsfield)
 Post: https://x.com/AnmolXwealth/status/2123556120677732738
-DM:
-> Hey Anmol for the AI video editor role
+DM (in Taimur's style, 27 Nov; crypto: Taimur's call):
+> Hey Anmol, saw your post. Short animated and AI videos are what I make every day and I'm in Higgsfield daily (Nano Banana Pro and Seedance 2.5)
 >
-> I'm in Higgsfield every day so daily videos is normal for me. Nano Banana Pro for the frames and Seedance 2.5 for the shots
+> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views
 >
-> This one did 312K organic views and 21K likes
+> This one did 312K views
 > instagram.com/reel/Deu6LaByK8P
-> Claymation and micro drama ads are here taimur.framer.website
 >
-> I did 380 reels in 7 weeks for one app with 2.5M organic views
+> I've also done claymation and micro drama ads. Those and the rest of my work are here taimur.framer.website
 >
-> Happy to make a test video for CHANGE in 24 hours
+> Happy to make one for CHANGE for free so you can see it first
 
 **ShortVids (shared by Taimur, 27 Nov; AI Video & Creative Editor: UGC, cinematic, graphics; portfolio must show 3 of 5 types; DM with portfolio and best result; paid test)** Weak fit: covers cinematic story led work clearly.
 Post: (link needed from Taimur: shared as pasted text)
-DM:
-> Hey for the AI Video & Creative Editor role
+DM (in Taimur's style, 27 Nov):
+> Hey, saw your post for the AI Video & Creative Editor role. Cinematic story led product films are what I make every day
 >
-> Cinematic story led product films are my strongest side
+> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views and no ad spend
 >
-> Pixar style drama with 312K organic views and 21K likes
+> This one did 312K views
 > instagram.com/reel/Deu6LaByK8P
-> Pain relief cream explainer 18.2K
-> instagram.com/reel/DeAX99xM4wA
-> And a claymation ad for a funding brand is on taimur.framer.website
 >
-> Best result so far is 380 reels in 7 weeks for one app with 2.5M organic views and no ad spend
-> I make character and product sheets before any shot so both stay the same across scenes
+> I also do claymation and Zack D. Films style ads and I make character and product sheets before any shot so both stay the same across scenes. All of it is here taimur.framer.website
 >
 > Happy to do the paid test
 
