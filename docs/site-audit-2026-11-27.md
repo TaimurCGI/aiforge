@@ -54,3 +54,18 @@ To watch: "rebuilt for 7 markets" is true for the original round; with the US/AU
 - Main button "Get a free test video" opens x.com/taimurcgi (profile), not a DM window.
 - All Instagram post links on cards point to real reels; client ad cards have none.
 - Images: 2 of 4 have empty alt text (decorative posters).
+
+## Round 4: Opus 5.5 review of the home page (live dd8221396, read-only)
+1. The free test needs the client's Higgsfield, but the hero doesn't say so. Reword How it works 02 and the test FAQ ("a seat on your Higgsfield account", "on your credits"). Ask Taimur what happens if a brand has no Higgsfield.
+2. "2D storybook" is listed twice, but no storybook sample is on the page (the JTX cards were removed under the 10K rule). Bring one JTX card back without numbers, or drop the format.
+3. Page order: move How it works up to right after the case study (hero, grid, case study, How it works, series, AI slop, About, FAQ).
+4. The hero subline repeats the formats line, and the 2.5M doesn't name the client. Suggested: "2.5M organic views from 380 reels in 7 weeks for CheerMyRun, in 10 markets and 7 languages. Seven years as a 3D animator. Your first test video is free and back in 24 hours."
+5. "10 markets / 7 languages" appears 6 times. Trim it from AI slop point 04 and the markets FAQ.
+6. The case-study stats repeat the hero. Swap "7 · Languages across 10 markets" for "4 · Reels past 100K views".
+7. "Stay on model" appears 5 times. Trim it in About, point 03 text and How it works 03.
+8. Brand count: the intro says four, the ticker shows five, About names three, and JTX has no reel. Fix this together with #2.
+9. Berlin card "Ran in 7 markets": the format ran in 9 (28 Oct). Change to "Format ran in 9 markets".
+10. "Overlap with any time zone" has no source (Whiskey Library asks for US hours). Confirm with Taimur. Also confirm Deu6LaByK8P is the AU proposal reel, and log the 268K/16.8K and 170K/10.7K like counts in cheermyrun.md.
+11. The FAQ has 9 questions. Cut "How do I reach you?" (it repeats the CTA), cut the tool list from the process answer, and change the subhead to "Quick answers before you hire."
+12. "Test ad" vs "test video": use "video" everywhere.
+Keep: headline, og image, founder quotes, buyer-facing card titles, organic vs ad labels, AI slop points 01 to 03, tools and formats FAQs, How it works content, no price.
