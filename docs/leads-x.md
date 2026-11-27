@@ -53,7 +53,7 @@ Style: one-line hook (verified result or an idea for their product), one reel li
 Offer (Taimur, 2026-10-17): a free test ad for their product. No price in first DMs, posts or on the site; quote only when they ask (reply below).
 
 If they ask about pricing, reply:
-> $50 per video, up to 60 seconds. That covers research, script and production. Generation runs on your Higgsfield, so those credits are on your side. For more videos it's just $50 times the count. The first test is free, back to you within 24 hours.
+> $50 per video, up to 60 seconds. Longer videos are possible and priced by length. That covers research, script and production. Generation runs on your Higgsfield, so those credits are on your side. For more videos it's just $50 times the count. The first test is free, back to you within 24 hours.
 
 Reels: Berlin 142K / 8.5K likes instagram.com/reel/DeQPcZdsZaC · Brazil grandpa news 31.1K / 2.9K+ likes instagram.com/reel/DekcYBXIhJz · Ketro 17.9K instagram.com/reel/DeAX99xM4wA
 

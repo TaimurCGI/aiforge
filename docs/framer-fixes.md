@@ -121,3 +121,4 @@ Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7
 - 2026-11-27 (version 6b875f672): footer CTA fixed on the phone breakpoint of the shared layout (vV0wX_aFY).
 - 2026-11-27 canvas (not published): FAQ tools item, formats answer (hooks, captions, safe zones), series card lines, new social image and meta descriptions on all three pages.
 - 2026-11-27 (version fa6e2d1b6, Taimur's OK, checked live): tools FAQ, formats answer (hooks, captions, safe zones), series card lines, new social image and meta descriptions on all three pages.
+- 2026-11-27 canvas (not published): home formats FAQ adds video length (most up to 60s, 90s made, longer when the brief needs it). Market pages left as they are (Taimur: not a priority now). Note: fa6e2d1b6 checked live on all three pages after a re-fetch (social image and descriptions); closed FAQ answers can't be seen in fetched HTML, checked on the canvas instead.

@@ -33,7 +33,8 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 
 ## 4. Offer
 
-- **$50 per video**, up to 60 seconds.
+- **$50 per video**, up to 60 seconds. Longer videos are possible (Taimur has made 90-second ones and can go as long as the brief needs) and cost more; rate for longer videos not set yet, ask Taimur (2026-11-27).
+- Safe zones: Taimur keeps captions and on-screen text inside the platform safe zones (confirmed 2026-11-27).
 - Includes research, script and production.
 - Generation costs are paid by the client: Taimur works on the client's Higgsfield (he covers Claude himself).
 - Volume: no cap. Taimur outsources if work goes past his own capacity (up to 10 a day himself).
