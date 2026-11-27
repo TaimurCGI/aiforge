@@ -186,7 +186,7 @@ Doublespeed review status for all 30 was "pending" on 2026-10-16. Markets for th
 
 Source: CMR-Campaign-Facts-2026-11-27.pdf (Doublespeed internal doc, not for sharing). Instagram reels excluding 52 videos from 7 known teammate drafts: 614 reels, 2.7M views, median 1.6K, 41 over 10K, 4 over 100K, like rate 5.7%. Facebook mirrors counted separately: 470 posts, 90K views, 0.7% like rate.
 - All accounts new: first 18 Instagram accounts added 28 Sep, first reels 7 Oct; Facebook pages added 1 Oct; more Instagram accounts added 13 Oct (2) and 31 Oct (8).
-- Reel count: Taimur chose 380 (27 Nov). Use 380 in posts, site and DMs; the 614 in the data includes work he does not count as his.
+- Reel count: site and docs use 380; the 27 Nov Facebook stats post uses 384 (Taimur). The 614 in the data includes work he does not count as his.
 - Client scripts: Proposal (CL04, top reel), Gender Reveal (111K and 82K), Grandpa, plus Siblings kit. Papa, House, Homecoming, Run For Me Too have no client label. "I wrote every script" is not accurate.
 - Cheer lands about halfway (DE Papa 31 of 65s, US Homecoming 45 of 90s); October winners had no notification popup.
 - Km marker in the first line: small plus only (median 1,741 vs 1,400; top reel has none).
