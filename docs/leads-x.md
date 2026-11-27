@@ -21,18 +21,20 @@ Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 1
 
 **Whiskey Library, 27 Nov: skip.** Alcohol brand (Taimur's voice profile: no alcohol, drugs, gambling or sexualization).
 
-**Elavate, 26 Nov** (application via the aicraftafrica.com link; deadline 9 Dec)
+**Elavate, 26 Nov** (UK collagen brand, Elavate Superfoods; 2 to 3 Meta ads a day: VSLs, AI voiceover and clay + Pixar style animation ads; remote worldwide, part or full time; checked 27 Nov)
 Post: https://x.com/careerspeakshq/status/2125844731053604865
+Apply: https://elavate.teamtailor.com/jobs/8778155-d2c-video-editor (the aicraftafrica link in the post now shows the Primal Queen listing). Form asks for 2 to 5 ads: proposal reel, claymation (site), pain relief cream.
 Application intro:
-> 2 to 3 Meta ads a day is very doable for me... I made 380 reels in 7 weeks for one client and did up to 10 a day
+> Clay and Pixar style animation ads is exactly what I make
 >
-> I do AI animation with ElevenLabs voiceovers. Mostly Pixar style 3D and claymation
-> My top reel got 312K organic views and 21K likes
+> I did a claymation ad for a business funding brand and my top Pixar style reel got 312K organic views and 21K likes
 > taimur.framer.website
 >
-> Happy to make you a free test ad in 24 hours so you can see the quality first
+> And 2 to 3 a day is very doable... I made 380 reels in 7 weeks for one client and did up to 10 a day
+>
+> All my numbers so far are organic with no ad spend so I'd love to see how they do with spend behind them
 
-**@Isael_ecomvid, 25 Nov** (supplement brand, AI animation + drama, health niche; comment "EDIT" then DM)
+**@Isael_ecomvid, 25 Nov** (brand not named in the post, no links; supplement brand, AI animation + drama, health niche; comment "EDIT" then DM)
 Post: https://x.com/Isael_ecomvid/status/2125335740045267421
 Comment: EDIT
 DM:
@@ -48,9 +50,9 @@ DM:
 >
 > Rest of my work is here taimur.framer.website
 >
-> Let me make one drama ad for your supplement for free and you'll have it in 24 hours
+> Which brand is it for? Let me make one drama ad for your supplement for free and you'll have it in 24 hours
 
-**@Flash_Ecom, 24 Nov** (same requirements as Isael, possibly the same brand; comment "EDIT" then DM)
+**@Flash_Ecom, 24 Nov** (word for word the same post as Isael, so likely the same brand: send one, or ask which brand first; no links; comment "EDIT" then DM)
 Post: https://x.com/Flash_Ecom/status/2125054361659228260
 Comment: EDIT
 DM:
@@ -67,39 +69,13 @@ DM:
 > I made 380 reels in 7 weeks for one app so volume won't be a problem
 > taimur.framer.website
 >
-> Want me to make a free test for your supplement? You'd have it in 24 hours
+> Which brand is it for? Want me to make a free test for it? You'd have it in 24 hours
 
-**@konig0000, 22 Nov** (women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus on winners)
+**@konig0000, 22 Nov: skip.** Women's supplement role (Pixar, Suno, AI UGC). Likely Primal Queen (workwithprimalqueen.com, posted 22 Nov): beef organ supplement for women 35 to 55, angles include "desire", role mixes AI UGC, skits and micro drama, unpaid custom test video. Female brand + UGC: Taimur doesn't do it (27 Nov).
 Post: https://x.com/konig0000/status/2124388742714765453
-Check the DM thread first: an October konig role was in "Apply now".
-Comment: Pixar style is my thing ngl... top reel did 312K organic. DMing you
-DM:
-> Hey for the women's supplement role
->
-> Pixar style drama is my main thing. This one did 312K organic views and 21K likes
-> instagram.com/reel/Deu6LaByK8P
->
-> I've done health too (pain relief cream explainer 17.9K)
-> instagram.com/reel/DeAX99xM4wA
->
-> 380 reels in 7 weeks for one client so I can keep up with volume
-> taimur.framer.website
->
-> I'll make one Pixar style ad for the brand for free and send it in 24 hours
 
-**@EcomKidoo, 20 Nov** (jewelry brand, AI UGC + animation, UGC is the priority; weaker fit)
+**@EcomKidoo, 20 Nov: skip.** Jewelry brand, AI UGC is the priority (post: "Must be really good with AI UGC and animations"). Taimur doesn't do UGC (27 Nov).
 Post: https://x.com/EcomKidoo/status/2123595676957437962
-DM:
-> Hey for the jewelry brand
->
-> Being honest I don't do AI UGC yet... animation is my side of it so tell me if that rules me out
->
-> If not this one did 312K organic views and 21K likes
-> instagram.com/reel/Deu6LaByK8P
->
-> And there's a claymation ad and more here taimur.framer.website
->
-> Happy to make one animated jewelry ad for free and send it in 24 hours
 
 **@AnmolXwealth, 20 Nov** (The Factual Holding Co, behind CHANGE and LVLS, crypto; short animated + AI videos daily with Higgsfield)
 Post: https://x.com/AnmolXwealth/status/2123556120677732738
