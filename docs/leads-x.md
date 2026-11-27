@@ -15,6 +15,120 @@ Searched daily. Work newest first; anything older than about a week is "later" (
 
 Restricted: @mariamrecruiter / @Inessa_kh (26 Nov, Pixar + claymation at volume, Europe & LatAm only).
 
+### Drafts for the 27 Nov scan (newest first; numbers from the 27 Nov count; Taimur sends, Claude never does)
+
+Links: proposal 268K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 17.9K instagram.com/reel/DeAX99xM4wA · portfolio taimur.framer.website
+
+**Whiskey Library, 27 Nov** (application link in @Akanji995's bio; also posted by @videoeditjobs with the link in comments)
+Application intro:
+> AI animation start to finish: script, generation, edit.
+>
+> Top reel: 268K organic views. 2.5M across 380 reels in 7 weeks for one app.
+>
+> Pixar-style 3D, claymation, Zack D. Films style.
+> taimur.framer.website
+>
+> Happy to make a free test video for Whiskey Library, back in 24 hours.
+
+**Elavate, 26 Nov** (application via the aicraftafrica.com link; deadline 9 Dec)
+Application intro:
+> 2 to 3 finished Meta ads a day works for me: I made 380 reels in 7 weeks for one client, up to 10 a day.
+>
+> AI animation with ElevenLabs voiceovers. Pixar-style 3D and claymation.
+> Top reel: 268K organic views.
+> taimur.framer.website
+>
+> Free test ad in 24 hours if useful.
+
+**@Isael_ecomvid, 25 Nov** (supplement brand, AI animation + drama, health niche; asks for a comment "EDIT" then a DM) https://x.com/Isael_ecomvid/status/2125335740045267421
+Comment: EDIT
+DM:
+> Hey Isael, EDIT, read the whole post.
+>
+> Drama, 268K organic views:
+> instagram.com/reel/Deu6LaByK8P
+>
+> Health: pain relief cream explainer, 17.9K organic:
+> instagram.com/reel/DeAX99xM4wA
+>
+> Portfolio: taimur.framer.website
+>
+> I'll make one drama ad for your supplement free, back in 24 hours.
+
+**@Flash_Ecom, 24 Nov** (same requirements as Isael, possibly the same brand; asks for a comment "EDIT" then a DM) https://x.com/Flash_Ecom/status/2125054361659228260
+Comment: EDIT
+DM:
+> Hey, EDIT. AI animation and drama are my main lane.
+>
+> Pain relief cream explainer (health), 17.9K organic:
+> instagram.com/reel/DeAX99xM4wA
+>
+> Pixar-style drama, 268K organic:
+> instagram.com/reel/Deu6LaByK8P
+>
+> 380 reels in 7 weeks for one app, so volume is covered.
+> taimur.framer.website
+>
+> Free test for your supplement in 24 hours?
+
+**@konig0000, 22 Nov** (women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus on winners) https://x.com/konig0000/status/2124388742714765453
+Check the DM thread first: an October konig role was in "Apply now".
+Comment: Pixar-style is my lane: 268K organic on my top reel. DMing.
+DM:
+> Hey, for the women's supplement role.
+>
+> Pixar-style drama, 268K organic:
+> instagram.com/reel/Deu6LaByK8P
+>
+> Health: pain relief cream explainer, 17.9K:
+> instagram.com/reel/DeAX99xM4wA
+>
+> 380 reels in 7 weeks for one client.
+> taimur.framer.website
+>
+> I'll make one Pixar-style ad for the brand free, back in 24 hours.
+
+**@EcomKidoo, 20 Nov** (jewelry brand, AI UGC + animation, UGC is the priority; weaker fit, no UGC in the portfolio) https://x.com/EcomKidoo/status/2123595676957437962
+DM:
+> Hey, for the jewelry brand.
+>
+> Animation is my side of it. I don't make AI UGC yet, so tell me if that rules me out.
+>
+> Pixar-style drama, 268K organic:
+> instagram.com/reel/Deu6LaByK8P
+> Claymation ad + more: taimur.framer.website
+>
+> I'd make one animated jewelry ad free, back in 24 hours.
+
+**@AnmolXwealth, 20 Nov** (The Factual Holding Co, behind CHANGE and LVLS, crypto; short animated + AI videos daily with Higgsfield) https://x.com/AnmolXwealth/status/2123556120677732738
+DM:
+> Hey Anmol, for the AI video editor role.
+>
+> I work in Higgsfield every day: Nano Banana Pro + Seedance 2.5.
+>
+> Pixar-style drama, 268K organic:
+> instagram.com/reel/Deu6LaByK8P
+> 2D storybook series for a trading app, plus more: taimur.framer.website
+>
+> 2.5M organic views across 380 reels in 7 weeks for one app.
+>
+> Happy to make a test video for CHANGE in 24 hours.
+
+**ShortVids (shared by Taimur, 27 Nov; AI Video & Creative Editor: UGC, cinematic, graphics; portfolio must show 3 of 5 types; DM with portfolio and best result; paid test)** Weak fit: covers cinematic story-led clearly, statics only if the heyyy Behance work is used.
+DM:
+> Hey, for the AI Video & Creative Editor role.
+>
+> Cinematic, story-led product films:
+> Pixar-style drama, 268K organic: instagram.com/reel/Deu6LaByK8P
+> Pain relief cream explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
+> Claymation ad for a funding brand: taimur.framer.website
+>
+> Best result: 380 reels in 7 weeks for one app, 2.5M organic views, no ad spend.
+> I build character and product sheets before any shot, so both stay consistent across scenes.
+>
+> Happy to do the paid test.
+
+
 ## Now (newest first)
 
 | Posted | Who | What | Status |
