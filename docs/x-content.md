@@ -500,3 +500,20 @@ Short, one hook, one link. Personalize the first line to their post every time.
 3. Answered 21 Oct: all reels on the 10 accounts are Taimur's. The German stepdad remake (posted 16 Oct) is at 67.5K; it's the same story as Berlin, so use it as a "same story, second version" proof point, not as a separate story.
 4. Answered 17 Oct: no NDA; CheerMyRun work, numbers and client feedback can be shared publicly (docs/offer.md).
 7. X signed the research browser out on 21 Oct. Sign in again in the browser pane so the 6 bio-only competitors (and daily searches) can be finished.
+
+## Result post patterns (X search, 27 Nov 2026)
+
+Top posts where people share AI video / organic results:
+- Tapa, brand posting AI videos (7.6M views, 19K followers, ~$15K sales, 2 weeks, zero ad spend): 108 likes, 7.1K views. https://x.com/onlytapa/status/2116607822700196284
+- Rios, app trial reels (3.7M views in 30 days, MRR tripled, zero ad spend, the repost trick): 224 likes, 19.6K views. https://x.com/Riosweb3/status/2125938092431249664
+- shalevhvs, AI character (400M organic views, "I'm the one behind it", comment CTA): 1,139 likes, 1,080 replies, 260K views. https://x.com/shalevhvs/status/2014732472664076414
+- jackfriks, 500+ videos for his app in a year (10M views, 100K installs, $40K): 292 likes. https://x.com/jackfriks/status/1846916418358411415
+- starter_story, Flame app (58M organic views, phone rack): 291 likes. https://x.com/starter_story/status/2116623432377086285
+
+What they share:
+1. Line one is the number plus the time frame ("3.7M views in 30 days").
+2. "Zero ad spend" or "completely organic" on its own short line.
+3. Results stacked as a short arrow list.
+4. One specific reason it worked (the "trick"), which is what gets saves.
+5. A business result beyond views when they have one (sales, MRR). Taimur has none yet: don't invent.
+6. Posts with a comment keyword CTA get far more replies (1,080 on shalevhvs).
