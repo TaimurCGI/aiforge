@@ -30,7 +30,7 @@ Application intro:
 > I did a claymation ad for a business funding brand and my top Pixar style reel got 312K organic views and 21K likes
 > taimur.framer.website
 >
-> And 2 to 3 a day is very doable... I made 380 reels in 7 weeks for one client and did up to 10 a day
+> And 2 to 3 a day is very doable... my last campaign was 380 reels in 7 weeks with 2.5M organic views and I did up to 10 a day
 >
 > All my numbers so far are organic with no ad spend so I'd love to see how they do with spend behind them
 
@@ -40,9 +40,9 @@ Comment: EDIT
 DM:
 > Hey Isael EDIT 🙃
 >
-> Animation and drama is what I make every day so this one fits me well
+> Animation and drama is what I make every day... my last campaign was 380 reels in 7 weeks with 2.5M organic views
 >
-> This one did 312K organic views and 21K likes
+> Top one did 312K and 21K likes
 > instagram.com/reel/Deu6LaByK8P
 >
 > And for health I did a pain relief cream explainer (17.9K organic)
@@ -66,7 +66,7 @@ DM:
 > And my top reel did 312K organic views and 21K likes
 > instagram.com/reel/Deu6LaByK8P
 >
-> I made 380 reels in 7 weeks for one app so volume won't be a problem
+> I made 380 reels in 7 weeks for one app with 2.5M organic views so volume won't be a problem
 > taimur.framer.website
 >
 > Which brand is it for? Want me to make a free test for it? You'd have it in 24 hours
