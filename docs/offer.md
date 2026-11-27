@@ -39,6 +39,7 @@ Ready-to-test, story-driven AI ads that hold attention, delivered fast. Proof: 1
 - Generation costs are paid by the client: Taimur works on the client's Higgsfield (he covers Claude himself).
 - Volume: no cap. Taimur outsources if work goes past his own capacity (up to 10 a day himself).
 - First step for new leads: a free test ad on their Higgsfield.
+- No Higgsfield on the client side: Taimur can use his own Higgsfield to reduce friction, but only after the client pays a 50% deposit (Taimur, 2026-11-27).
 - Work terms: contract first (per video or a monthly batch at the same rate). Full-time only if the offer is really good.
 
 ## 5. Price

@@ -69,3 +69,5 @@ To watch: "rebuilt for 7 markets" is true for the original round; with the US/AU
 11. The FAQ has 9 questions. Cut "How do I reach you?" (it repeats the CTA), cut the tool list from the process answer, and change the subhead to "Quick answers before you hire."
 12. "Test ad" vs "test video": use "video" everywhere.
 Keep: headline, og image, founder quotes, buyer-facing card titles, organic vs ad labels, AI slop points 01 to 03, tools and formats FAQs, How it works content, no price.
+
+Round 4 status (27 Nov): staged on the canvas: 1, 3, 4, 5, 6, 7, 9, 10 (time zone claim removed), 11, 12. Held for Taimur: 2 and 8 (2D storybook sample or drop it; brand count; whether Lucky Growth and NYMobile scripts were his for the About line). Taimur's answer on 1: paid work can run on his Higgsfield after a 50% deposit.
