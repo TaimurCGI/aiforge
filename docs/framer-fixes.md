@@ -94,3 +94,10 @@ Still open: suggestion 4 (case study needs a second winner; best is the DE stepd
 - 2026-10-28 (version 3618da09f, Taimur's OK, checked live): 900K+, 60K likes, 6.6% like rate, AU proposal card, 28 Oct reel numbers.
 - 2026-10-28 canvas (not published): "70 reels in one week" changed to "140 reels in two weeks" (Taimur: made 140 in two weeks, 133 posted) in the hero line, stat card (140 · Reels made in two weeks) and the "How fast" FAQ on all three pages. Capacity line "70 a week" kept.
 - 2026-10-28 (version 7b12e93c4, Taimur's OK, checked live): 140 reels in two weeks.
+
+## Update stats to the 27 Nov count (confirmed)
+
+Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7 weeks (first post 8 Oct), 4 reels past 100K, top reel 268.1K (AU proposal).
+
+7. Replace every "900K+" and any older totals or reel counts with the new figures. Suggested headline: "380 reels, 2.5M organic views in 7 weeks." Show me the wording on each page before publishing.
+8. Update the top-reel stats on the cards: AU proposal 268.1K, Berlin stepdad 170.5K, DE stepdad remake 134.6K, US "it's a girl" 110.8K.
