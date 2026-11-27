@@ -22,6 +22,7 @@ Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 1
 **Whiskey Library, 27 Nov: skip.** Alcohol brand (Taimur's voice profile: no alcohol, drugs, gambling or sexualization).
 
 **Elavate, 26 Nov** (application via the aicraftafrica.com link; deadline 9 Dec)
+Post: https://x.com/careerspeakshq/status/2125844731053604865
 Application intro:
 > 2 to 3 Meta ads a day is very doable for me... I made 380 reels in 7 weeks for one client and did up to 10 a day
 >
@@ -31,7 +32,8 @@ Application intro:
 >
 > Happy to make you a free test ad in 24 hours so you can see the quality first
 
-**@Isael_ecomvid, 25 Nov** (supplement brand, AI animation + drama, health niche; comment "EDIT" then DM) https://x.com/Isael_ecomvid/status/2125335740045267421
+**@Isael_ecomvid, 25 Nov** (supplement brand, AI animation + drama, health niche; comment "EDIT" then DM)
+Post: https://x.com/Isael_ecomvid/status/2125335740045267421
 Comment: EDIT
 DM:
 > Hey Isael EDIT 🙃
@@ -48,7 +50,8 @@ DM:
 >
 > Let me make one drama ad for your supplement for free and you'll have it in 24 hours
 
-**@Flash_Ecom, 24 Nov** (same requirements as Isael, possibly the same brand; comment "EDIT" then DM) https://x.com/Flash_Ecom/status/2125054361659228260
+**@Flash_Ecom, 24 Nov** (same requirements as Isael, possibly the same brand; comment "EDIT" then DM)
+Post: https://x.com/Flash_Ecom/status/2125054361659228260
 Comment: EDIT
 DM:
 > Hey man EDIT
@@ -66,7 +69,8 @@ DM:
 >
 > Want me to make a free test for your supplement? You'd have it in 24 hours
 
-**@konig0000, 22 Nov** (women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus on winners) https://x.com/konig0000/status/2124388742714765453
+**@konig0000, 22 Nov** (women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus on winners)
+Post: https://x.com/konig0000/status/2124388742714765453
 Check the DM thread first: an October konig role was in "Apply now".
 Comment: Pixar style is my thing ngl... top reel did 312K organic. DMing you
 DM:
@@ -83,7 +87,8 @@ DM:
 >
 > I'll make one Pixar style ad for the brand for free and send it in 24 hours
 
-**@EcomKidoo, 20 Nov** (jewelry brand, AI UGC + animation, UGC is the priority; weaker fit) https://x.com/EcomKidoo/status/2123595676957437962
+**@EcomKidoo, 20 Nov** (jewelry brand, AI UGC + animation, UGC is the priority; weaker fit)
+Post: https://x.com/EcomKidoo/status/2123595676957437962
 DM:
 > Hey for the jewelry brand
 >
@@ -96,7 +101,8 @@ DM:
 >
 > Happy to make one animated jewelry ad for free and send it in 24 hours
 
-**@AnmolXwealth, 20 Nov** (The Factual Holding Co, behind CHANGE and LVLS, crypto; short animated + AI videos daily with Higgsfield) https://x.com/AnmolXwealth/status/2123556120677732738
+**@AnmolXwealth, 20 Nov** (The Factual Holding Co, behind CHANGE and LVLS, crypto; short animated + AI videos daily with Higgsfield)
+Post: https://x.com/AnmolXwealth/status/2123556120677732738
 DM:
 > Hey Anmol for the AI video editor role
 >
@@ -111,6 +117,7 @@ DM:
 > Happy to make a test video for CHANGE in 24 hours
 
 **ShortVids (shared by Taimur, 27 Nov; AI Video & Creative Editor: UGC, cinematic, graphics; portfolio must show 3 of 5 types; DM with portfolio and best result; paid test)** Weak fit: covers cinematic story led work clearly.
+Post: (link needed from Taimur: shared as pasted text)
 DM:
 > Hey for the AI Video & Creative Editor role
 >
