@@ -48,6 +48,14 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 | CO | https://www.instagram.com/valrunsdaily |
 | JP | https://www.instagram.com/runwithyui |
 
+## Count 2026-11-27 (Doublespeed dashboard)
+
+- Group "insta animated", all time: **2.5M views, 5.27% engagement rate** (Doublespeed's figures, screenshots from Taimur). About 7 weeks after the first post (8 Oct).
+- Top reels: AU proposal 268.1K (@chloerunsdaily), Berlin stepdad 170.5K, DE stepdad remake 134.6K, US "it's a girl" at the Marine Corps Marathon 110.8K. Four reels past 100K.
+- Footer numbers on those screens (45.5M views, 4,711 posted, 60 accounts) are the whole Doublespeed workspace, not Taimur's. Never quote them.
+- Open: reel count in the group, and whether it holds anything that isn't Taimur's.
+- Proof: cgiforge repo lab/aiforge/proof/runner-campaign/2026-11-27-VIEWS.md; screenshots in Drive CGI Forge/Lab/aiforge/Proof/runner-campaign/2026-11-27/.
+
 ## Re-count 2026-10-28 (views + likes)
 
 - 133 of Taimur's reels on 10 accounts (excluding the JP real-runner ad and the meme; Taimur confirmed the 133 on 28 Oct): **912,196 views, 60,606 likes, 6.64% like rate** (likes / views). Two reels have likes hidden in the page preview; their 17 Oct counts were used (101 and 1).
