@@ -108,3 +108,4 @@ Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7
 - Berlin card 170K / 10.7K, AU proposal 268K / 16.8K (Doublespeed dashboard, 27 Nov).
 - Grid intro: "12 reels for five brands." Ketro "His knee sticks to the patio" moved out of Selected work (Category Market page, Market None, so it shows nowhere; item kept) for a clean 4x3 grid (Taimur, 27 Nov).
 - Open: hero and stat cards still say 900K+ / 140 (new wording proposed, not approved); brands strip and About line still list three brands.
+- Update (Taimur, 27 Nov): grid order top-viewed first then Ketro flamingo; reels under 10K views moved out of Selected work (Nonno 9K, mile 25 6.8K, JTX Chasing the loss 3.1K, JTX Mirror 2.6K; items kept as Category Market page); client ads labelled "... ad" in Format. Grid is now 8 cards (4x2): proposal 268K, flamingo 17.9K, Berlin 170K, Must be nice, Say It Back, Boxed in, area codes, jacket. Intro: "8 reels for four brands."
