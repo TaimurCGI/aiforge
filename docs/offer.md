@@ -65,6 +65,15 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
   - Taimur says these can be shared publicly (no NDA). Attribute as "Iñigo Vazquez, founder of CheerMyRun" (or "CheerMyRun's founder" when space is short).
 - **Conversion results:** no sign-up, sales, CTR or ROAS numbers yet. Taimur will ask CheerMyRun later; add them here when he has them.
 
+## New samples (shared by Taimur 2026-11-27, saved in Drive Portfolio/)
+
+No view or result numbers yet. Client sign-off to show them publicly not yet confirmed.
+- **Lucky Growth, "Must be nice" (claymation, 61s, US English).** A contractor charges $4,000 for a water heater, breaks down the costs to show he keeps $160, gets paid in 30 days and can't pay his helper; a two-minute online check gets him funding. Product at the payoff (small-business funding). Fills the claymation gap in job posts. Review: doublespeed.ai/review/8cb900aa-8823-43a5-89e3-bb6ea8d91dda (#1 claymation by Taimur; #2 2D and #3 3D versions of the same script, authorship not confirmed). Drive: Portfolio/Lucky Growth/must-be-nice-claymation.mp4
+- **NYMobile animated micro dramas (Pixar-style 3D, ~52s each, NYC).** Brand: vanity phone numbers. End card "Pick a number they'll never forget." Review: doublespeed.ai/review/bd3342de-6836-405f-9bb9-7a2f1daa82d5
+  - "Say It Back": a boy lost in a crowd remembers his mom's (212) 900-9090 number and a police officer calls her. Drive: Portfolio/NYMobile/drama-say-it-back.mp4
+  - "Blocked": a taco truck boxed in by a burger truck at lunch; customers still find her by her memorable number. Drive: Portfolio/NYMobile/drama-blocked-food-truck.mp4
+- **NYMobile x Jensen trend (live-action style, 17 to 23s).** Rides the Jensen Huang news trend to sell 212/310/305 numbers. Review: doublespeed.ai/review/0e633207-0103-40a2-bf67-a286f2d48703. Drive: Portfolio/NYMobile/jensen-trend-1-area-codes.mp4, jensen-trend-2-the-jacket.mp4. Uses a real person's likeness and a news-style headline: keep off the public site; DM use only after Taimur decides.
+
 ## 6. Content
 
 Origin story for posts: seven years animating in Blender, now AI; 70 reels in a week for CheerMyRun; 130K organic on one. Post plan: docs/x-content.md.
