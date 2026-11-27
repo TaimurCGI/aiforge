@@ -98,20 +98,19 @@ DM (in Taimur's style, 27 Nov; crypto: Taimur's call):
 >
 > Happy to make one for CHANGE for free so you can see it first
 
-**ShortVids (shared by Taimur, 27 Nov; AI Video & Creative Editor: UGC, cinematic, graphics; portfolio must show 3 of 5 types; DM with portfolio and best result; paid test)** Weak fit: covers cinematic story led work clearly.
-Post: (link needed from Taimur: shared as pasted text)
-DM (in Taimur's style, 27 Nov):
-> Hey, saw your post for the AI Video & Creative Editor role. Cinematic story led product films are what I make every day
+**ShortVids, 26 Nov (Devvrat Singh "Devv", Facebook)** AI Video & Creative Editor (UGC, cinematic, graphics), remote, full time contract. Agency making ads for D2C and ecom brands. Wants 2+ years editing short form ads, portfolio with 3 of 5 types (AI UGC, cinematic product films, human UGC edits, static 1:1 ads, carousels), best performing ad with results; shortlist gets a paid test. Weak fit: cinematic is clear, statics only if Taimur shares 3D product renders (Heyyy needs permission). Taimur commented on the post (27 Nov); Devv asked for Meta ads data.
+Post: https://www.facebook.com/share/1HKArAPMnY/
+Reply to Devv (Taimur's own text, tidied 27 Nov; last line changed because ShortVids runs a paid test and isn't a supplement brand):
+> Hey Devv, I don't have Meta ads data to show you yet. I just launched some and I'm waiting on the results
 >
-> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views and no ad spend
+> But I made animated AI stories for a marathon running app that got them 2.5M organic views in under 2 months
 >
 > This one did 312K views
 > instagram.com/reel/Deu6LaByK8P
 >
-> I also do claymation and Zack D. Films style ads and I make character and product sheets before any shot so both stay the same across scenes. All of it is here taimur.framer.website
+> In the health niche I did some for a pain relief cream brand in Zack D. Films style (18K organic). That one and the rest of my work are here taimur.framer.website
 >
-> Happy to do the paid test
-
+> Happy to do the paid test on one of your briefs
 
 ## Now (newest first)
 
