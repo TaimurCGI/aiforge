@@ -101,3 +101,10 @@ Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7
 
 7. Replace every "900K+" and any older totals or reel counts with the new figures. Suggested headline: "380 reels, 2.5M organic views in 7 weeks." Show me the wording on each page before publishing.
 8. Update the top-reel stats on the cards: AU proposal 268.1K, Berlin stepdad 170.5K, DE stepdad remake 134.6K, US "it's a girl" 110.8K.
+
+### Canvas 2026-11-27 (not published, waiting for Taimur's review)
+- Added 5 Selected work items: Lucky Growth "Must be nice" (claymation), NYMobile "He remembered Mom's number" and "Boxed in at lunch" (animated micro dramas), NYMobile "212, 310, 305 are back" and "Everybody remembers the jacket" (trend reels). Taimur OK'd showing all client work publicly (27 Nov). No view numbers yet, so Views/Likes are empty (empty hides the row; a space shows a bare "views" label).
+- Grid order: Berlin, proposal, Must be nice, Say It Back, flamingo, Boxed in, Nonno, mile 25, JTX x2, Ketro knee, two trend reels.
+- Berlin card 170K / 10.7K, AU proposal 268K / 16.8K (Doublespeed dashboard, 27 Nov).
+- Grid intro: "13 reels for five brands."
+- Open: 13th card sits alone on the last row; hero and stat cards still say 900K+ / 140 (new wording proposed, not approved); brands strip and About line still list three brands.
