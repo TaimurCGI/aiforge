@@ -10,7 +10,7 @@ Taimur finds AI animation jobs on X and sends the messages himself. This skill t
 ## Before you write
 
 1. **Get the post.** If Taimur gave an X link, open it in the browser pane (signed in as Taimur) and read the full post. If he pasted text with no link, search X for it; if you can't find it, write the draft and ask him for the link.
-2. **Open every link in the post** (apply pages, brand sites, forms, job boards) and **name the brand**. If the post doesn't name it, look it up (search the job title + company, check the poster's bio). Prefer the brand's own job page: shared job-board links can change (an aicraftafrica link once switched to another company's listing).
+2. **Open every link in the post** (apply pages, brand sites, forms, job boards) and **read each page to the end, including the application form** (forms often load late: scroll down and wait, then list every field). If the application is a form, draft an answer for every field instead of a DM, and mark the ones only Taimur can answer (city, timezone, rate, years). Then **name the brand**. If the post doesn't name it, look it up (search the job title + company, check the poster's bio). Prefer the brand's own job page: shared job-board links can change (an aicraftafrica link once switched to another company's listing).
 3. **Check the fit and skip if any of these hold**, telling Taimur why in one line:
    - Hard no: alcohol, drugs, gambling, sexualization or anything immoral (e.g. Whiskey Library, alcohol).
    - Female-focused brand where the work is UGC or sells on desire (e.g. Primal Queen).

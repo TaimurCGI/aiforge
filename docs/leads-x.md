@@ -21,20 +21,32 @@ Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 1
 
 **Whiskey Library, 27 Nov: skip.** Alcohol brand (Taimur's voice profile: no alcohol, drugs, gambling or sexualization).
 
-**Elavate, 26 Nov** (UK collagen brand, Elavate Superfoods; 2 to 3 Meta ads a day: VSLs, AI voiceover and clay + Pixar style animation ads; remote worldwide, part or full time; checked 27 Nov)
+**Elavate, 26 Nov** (UK collagen brand, Elavate Superfoods; 2 to 3 Meta ads a day: VSLs, AI voiceover and clay + Pixar style animation ads; remote worldwide, part or full time; full page and form read 27 Nov)
 Post: https://x.com/careerspeakshq/status/2125844731053604865
-Apply: https://elavate.teamtailor.com/jobs/8778155-d2c-video-editor (the aicraftafrica link in the post now shows the Primal Queen listing). Form asks for 2 to 5 ads: proposal reel, claymation (site), pain relief cream.
-Application intro (in Taimur's style, 27 Nov):
-> Hey, saw the D2C Video Editor role. Clay and Pixar style animation ads are what I make every day
+Apply: https://elavate.teamtailor.com/jobs/8778155-d2c-video-editor (the aicraftafrica link in the post now shows the Primal Queen listing)
+The application is a form, not a DM. Answers for each field (Taimur fills and submits):
+- Where are you based, timezone*: needs Taimur (city, Pakistan, GMT+5?)
+- Part time or full time dedicated*: needs Taimur (he prefers contract; full time only if the offer is really good)
+- Desired monthly rate: needs Taimur. At $50 a video, 2 to 3 a day on about 22 working days is 44 to 66 videos, so $2,200 to $3,300 a month.
+- Years making video ads: needs Taimur (client video work since about mid 2026? plus 7 years in 3D)
+- When can you start: Immediately
+- Portfolio: taimur.framer.website
+- LinkedIn, X, Instagram or TikTok: x.com/taimurcgi
+- Specialise in: Animation ads (clay / Pixar style), Micro drama / story ads, AI voiceover ads, Iterating winning ads
+- Tools daily: Seedance, Higgsfield, Flux / Nano Banana, Kling, Veo, ElevenLabs, ChatGPT / Claude, Premiere / After Effects
+- What kind of AI content do you make, and how?*
+> Story driven animation ads are my sweet spot. Mostly Pixar style 3D drama and claymation and I write every script myself
 >
-> The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views and I did up to 10 a day so 2 to 3 a day works for me
+> I research the product and the buyer first then write the script and the hook. Then I make character and product sheets in Nano Banana Pro and a first frame for every shot so the characters and product stay the same across the whole ad. Shots go through Seedance 2.5 in Higgsfield and I edit with ElevenLabs voices and sound and captions
 >
-> This one did 312K views
-> instagram.com/reel/Deu6LaByK8P
->
-> I also made a claymation ad for a business funding brand. That one and the rest of my work are here taimur.framer.website
->
-> All my numbers so far are organic with no ad spend so I'd love to see how they do with spend behind them
+> I can ship up to 10 finished ads a day. For a marathon running app I made 380 reels in 7 weeks with 2.5M organic views
+- Past work, 2 to 5 links, one per line*:
+> instagram.com/reel/Deu6LaByK8P (Pixar style drama for a running app. 312K views and 21K likes. Organic with no ad spend)
+> instagram.com/lenalaeuft_/reel/DeQPcZdsZaC (same app. The founder called this format a winner. 170K organic views across the account)
+> instagram.com/reel/DeAX99xM4wA (Zack D. Films style short for a pain relief cream. 18.2K organic)
+> taimur.framer.website (claymation ad for a business funding brand plus micro drama ads for a phone number brand)
+- Why you, in 2 to 3 sentences:
+> I've been a 3D animator for 7 years so I catch the bad timing and off model frames most AI editors miss. Clay and Pixar style story ads are exactly what I make and 2 to 3 a day is easy for me. All my numbers so far are organic with no ad spend so I'd love to see how they do with spend behind them
 
 **@Isael_ecomvid, 25 Nov** (brand not named in the post, no links; supplement brand, AI animation + drama, health niche; comment "EDIT" then DM)
 Post: https://x.com/Isael_ecomvid/status/2125335740045267421
