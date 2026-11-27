@@ -51,6 +51,7 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 ## Tools, languages, rights (Taimur, 2026-10-17)
 
 - **Tools:** Claude, Higgsfield (Nano Banana Pro + Seedance 2.5; occasionally Higgsfield 3D Jutsu), ElevenLabs. Kling or Veo when needed, but Seedance gives the best results. Editing and motion graphics through Claude; Premiere Pro and After Effects for hand edits when needed (rarely).
+- **Video models on CheerMyRun (Taimur and the reels chat, 2026-11-27):** Seedance 2.5 on Higgsfield for the October winners (DE Papa, AU Proposal, US Homecoming), then Kling 4.0 (720p plus 1080p upscale, from 9 Nov), then Seedance 2.5 Flash to save costs. Dialogue and the cheer come from the video model itself, not ElevenLabs; ElevenLabs was used for music cues and transcribing takes. One start frame per scene (6 to 7 per reel) with timed shots and hard cuts written in each prompt, not one frame per shot. One empty set image per location first. Hook is the first spoken line, shown as the top caption from frame 0, stating the event plainly with the km or mile marker. Some scripts started from the client's own scripts (the Proposal is client script CL04).
 - **Languages:** English. Other languages are translated with Claude and checked by a multi-agent reviewer Taimur built.
 - **Singing ads:** none made yet; happy to do one as a free test.
 - **Campaign output (Taimur, 28 Oct):** 140 CheerMyRun reels made in two weeks (133 posted on the 10 accounts).
