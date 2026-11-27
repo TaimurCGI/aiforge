@@ -55,6 +55,7 @@ $50 per video, no discounts: any volume is the count times $50 (20 videos = $1,0
 - **Singing ads:** none made yet; happy to do one as a free test.
 - **Campaign output (Taimur, 28 Oct):** 140 CheerMyRun reels made in two weeks (133 posted on the 10 accounts).
 - **Volume per client (Taimur's DM to Tyler Wang, 20 Oct):** about 30 videos for Ketro and 10 for JTX, plus the CheerMyRun campaign.
+- **Credit (Taimur, 2026-11-27):** the CheerMyRun campaign was 100% Taimur's work. Doublespeed is only the platform behind the dashboard. Claim the result as his ("I got a marathon app 2.5M views") and don't mention Doublespeed in posts.
 - **Rights:** no NDA with Doublespeed; the CheerMyRun work, numbers and client feedback can be shared publicly (Taimur, 2026-10-17). Quotes are from Iñigo Vazquez, founder of CheerMyRun (Taimur, 2026-10-17).
 
 ## Proof to collect
