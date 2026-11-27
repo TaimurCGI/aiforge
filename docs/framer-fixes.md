@@ -127,3 +127,4 @@ Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7
 - 2026-11-27 (version c0569e045, Taimur's OK, checked live): Opus round 4 fixes on home (list above), new section order and How it works phone/tablet layout. Live HTML has the new subline, 50% deposit line, "4 · Reels past 100K views", "Format ran in 9 markets", "Remote · available now", new FAQ subhead and test question; "any time zone" and "How do I reach you?" are gone.
 - 2026-11-27 (version 791c2ce1d, Taimur's OK, checked live): top reel (AU proposal, Deu6LaByK8P) now 312K views / 21.1K likes on the home grid card and the case-study caption on home, /brazil, /germany. No 268K or 16.8K left on any page.
 - 2026-11-27 canvas (not published): Ketro flamingo card views 17.9K to 18.2K (Taimur, 27 Nov). /brazil Portuguese stepdad 17.9K is a different reel, unchanged.
+- 2026-11-27 (version d61e2180a, Taimur's OK, checked live): Ketro flamingo card 18.2K views.
