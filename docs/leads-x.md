@@ -45,7 +45,7 @@ Comment: EDIT
 DM:
 > Hey Isael, EDIT, read the whole post.
 >
-> Drama, 312K organic views:
+> Drama, 312K organic views, 21K likes:
 > instagram.com/reel/Deu6LaByK8P
 >
 > Health: pain relief cream explainer, 17.9K organic:
@@ -63,7 +63,7 @@ DM:
 > Pain relief cream explainer (health), 17.9K organic:
 > instagram.com/reel/DeAX99xM4wA
 >
-> Pixar-style drama, 312K organic:
+> Pixar-style drama, 312K organic views, 21K likes:
 > instagram.com/reel/Deu6LaByK8P
 >
 > 380 reels in 7 weeks for one app, so volume is covered.
@@ -77,7 +77,7 @@ Comment: Pixar-style is my lane: 312K organic on my top reel. DMing.
 DM:
 > Hey, for the women's supplement role.
 >
-> Pixar-style drama, 312K organic:
+> Pixar-style drama, 312K organic views, 21K likes:
 > instagram.com/reel/Deu6LaByK8P
 >
 > Health: pain relief cream explainer, 17.9K:
@@ -94,7 +94,7 @@ DM:
 >
 > Animation is my side of it. I don't make AI UGC yet, so tell me if that rules me out.
 >
-> Pixar-style drama, 312K organic:
+> Pixar-style drama, 312K organic views, 21K likes:
 > instagram.com/reel/Deu6LaByK8P
 > Claymation ad + more: taimur.framer.website
 >
@@ -106,9 +106,9 @@ DM:
 >
 > I work in Higgsfield every day: Nano Banana Pro + Seedance 2.5.
 >
-> Pixar-style drama, 312K organic:
+> Pixar-style drama, 312K organic views, 21K likes:
 > instagram.com/reel/Deu6LaByK8P
-> 2D storybook series for a trading app, plus more: taimur.framer.website
+> Claymation and micro drama ads: taimur.framer.website
 >
 > 2.5M organic views across 380 reels in 7 weeks for one app.
 >
@@ -119,7 +119,7 @@ DM:
 > Hey, for the AI Video & Creative Editor role.
 >
 > Cinematic, story-led product films:
-> Pixar-style drama, 312K organic: instagram.com/reel/Deu6LaByK8P
+> Pixar-style drama, 312K organic views, 21K likes: instagram.com/reel/Deu6LaByK8P
 > Pain relief cream explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
 > Claymation ad for a funding brand: taimur.framer.website
 >
