@@ -17,7 +17,7 @@ Restricted: @mariamrecruiter / @Inessa_kh (26 Nov, Pixar + claymation at volume,
 
 ### Drafts for the 27 Nov scan (newest first; in Taimur's voice: no commas, no dashes or hyphens, casual and warm; proposal reel 312K views / 21K likes per Taimur 27 Nov; Taimur sends, Claude never does)
 
-Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 17.9K instagram.com/reel/DeAX99xM4wA · portfolio taimur.framer.website
+Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 18.2K (Taimur, 27 Nov) instagram.com/reel/DeAX99xM4wA · portfolio taimur.framer.website
 
 **Whiskey Library, 27 Nov: skip.** Alcohol brand (Taimur's voice profile: no alcohol, drugs, gambling or sexualization).
 
@@ -45,7 +45,7 @@ DM:
 > Top one did 312K and 21K likes
 > instagram.com/reel/Deu6LaByK8P
 >
-> And for health I did a pain relief cream explainer (17.9K organic)
+> And for health I did a pain relief cream explainer (18.2K organic)
 > instagram.com/reel/DeAX99xM4wA
 >
 > Rest of my work is here taimur.framer.website
@@ -60,7 +60,7 @@ DM:
 >
 > I make AI animated drama for brands and I've done health before so this one fits
 >
-> Pain relief cream explainer (17.9K organic)
+> Pain relief cream explainer (18.2K organic)
 > instagram.com/reel/DeAX99xM4wA
 >
 > And my top reel did 312K organic views and 21K likes
@@ -101,7 +101,7 @@ DM:
 >
 > Pixar style drama with 312K organic views and 21K likes
 > instagram.com/reel/Deu6LaByK8P
-> Pain relief cream explainer 17.9K
+> Pain relief cream explainer 18.2K
 > instagram.com/reel/DeAX99xM4wA
 > And a claymation ad for a funding brand is on taimur.framer.website
 >
