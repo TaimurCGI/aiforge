@@ -120,3 +120,4 @@ Source: docs/cheermyrun.md, "Count 2026-11-27". 380 reels, 2.5M organic views, 7
 - Note for agents: in applyChanges DSL every command must end with ";". Without it, later SET lines are applied to the first node (caused a mixed-up hero card and FAQ on 27 Nov; fixed).
 - 2026-11-27 (version 6b875f672): footer CTA fixed on the phone breakpoint of the shared layout (vV0wX_aFY).
 - 2026-11-27 canvas (not published): FAQ tools item, formats answer (hooks, captions, safe zones), series card lines, new social image and meta descriptions on all three pages.
+- 2026-11-27 (version fa6e2d1b6, Taimur's OK, checked live): tools FAQ, formats answer (hooks, captions, safe zones), series card lines, new social image and meta descriptions on all three pages.
