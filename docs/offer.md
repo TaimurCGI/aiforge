@@ -12,6 +12,8 @@ The combination of four things:
 
 In public copy, prove speed, quality and story with these numbers rather than saying "no one else does this". The rate stays private until a lead asks.
 
+**Paid ads (Taimur, 2026-11-27):** the NYMobile ads are now running as paid Meta ads; NYMobile hasn't shared results yet. Fine to say he has launched Meta ads for a client and is waiting on results. No spend, CTR or ROAS claims until he has numbers. Ask NYMobile for results.
+
 **Organic, not ads (Taimur, 2026-10-22):** all work so far is organic content with no ad spend. Taimur has not made or run paid ads yet. Describe it as organic AI drama reels / AI animation content, never as ads he made. Offering a free test ad to a lead is fine.
 
 ## 1. Niche
