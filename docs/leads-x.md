@@ -37,7 +37,7 @@ Application intro:
 **@Isael_ecomvid, 25 Nov** (brand not named in the post, no links; supplement brand, AI animation + drama, health niche; comment "EDIT" then DM)
 Post: https://x.com/Isael_ecomvid/status/2125335740045267421
 Comment: EDIT
-DM (Taimur's own version, 27 Nov; typo fixes: Hey, Zack D. Films):
+DM (Taimur's own version, 27 Nov; typo fixes: Hey, Zack D. Films; cut to 2 links and closing line added on his OK):
 > Hey Isael, saw your post. AI Animation and drama ads/reels are what I make every day
 >
 > The last campaign I worked on was for a marathon running app. 380 reels in 7 weeks with 2.5M organic views
@@ -45,10 +45,9 @@ DM (Taimur's own version, 27 Nov; typo fixes: Hey, Zack D. Films):
 > This one did 312K views
 > instagram.com/reel/Deu6LaByK8P
 >
-> And in the health niche I did some for a pain relief cream brand in Zack D. Films style (18K organic)
-> instagram.com/reel/DeAX99xM4wA
+> And in the health niche I did some for a pain relief cream brand in Zack D. Films style (18K organic). That one and the rest of my work are here taimur.framer.website
 >
-> Rest of my work you can find here taimur.framer.website
+> Happy to make one for your supplement for free so you can see it first
 
 **@Flash_Ecom, 24 Nov** (word for word the same post as Isael, so likely the same brand: send one, or ask which brand first; no links; comment "EDIT" then DM)
 Post: https://x.com/Flash_Ecom/status/2125054361659228260
