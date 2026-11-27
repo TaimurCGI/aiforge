@@ -15,15 +15,15 @@ Searched daily. Work newest first; anything older than about a week is "later" (
 
 Restricted: @mariamrecruiter / @Inessa_kh (26 Nov, Pixar + claymation at volume, Europe & LatAm only).
 
-### Drafts for the 27 Nov scan (newest first; numbers from the 27 Nov count; Taimur sends, Claude never does)
+### Drafts for the 27 Nov scan (newest first; numbers from the 27 Nov count, proposal reel 312K per Taimur 27 Nov; Taimur sends, Claude never does)
 
-Links: proposal 268K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 17.9K instagram.com/reel/DeAX99xM4wA · portfolio taimur.framer.website
+Links: proposal 312K instagram.com/reel/Deu6LaByK8P · Ketro pain relief cream 17.9K instagram.com/reel/DeAX99xM4wA · portfolio taimur.framer.website
 
 **Whiskey Library, 27 Nov** (application link in @Akanji995's bio; also posted by @videoeditjobs with the link in comments)
 Application intro:
 > AI animation start to finish: script, generation, edit.
 >
-> Top reel: 268K organic views. 2.5M across 380 reels in 7 weeks for one app.
+> Top reel: 312K organic views. 2.5M across 380 reels in 7 weeks for one app.
 >
 > Pixar-style 3D, claymation, Zack D. Films style.
 > taimur.framer.website
@@ -35,7 +35,7 @@ Application intro:
 > 2 to 3 finished Meta ads a day works for me: I made 380 reels in 7 weeks for one client, up to 10 a day.
 >
 > AI animation with ElevenLabs voiceovers. Pixar-style 3D and claymation.
-> Top reel: 268K organic views.
+> Top reel: 312K organic views.
 > taimur.framer.website
 >
 > Free test ad in 24 hours if useful.
@@ -45,7 +45,7 @@ Comment: EDIT
 DM:
 > Hey Isael, EDIT, read the whole post.
 >
-> Drama, 268K organic views:
+> Drama, 312K organic views:
 > instagram.com/reel/Deu6LaByK8P
 >
 > Health: pain relief cream explainer, 17.9K organic:
@@ -63,7 +63,7 @@ DM:
 > Pain relief cream explainer (health), 17.9K organic:
 > instagram.com/reel/DeAX99xM4wA
 >
-> Pixar-style drama, 268K organic:
+> Pixar-style drama, 312K organic:
 > instagram.com/reel/Deu6LaByK8P
 >
 > 380 reels in 7 weeks for one app, so volume is covered.
@@ -73,11 +73,11 @@ DM:
 
 **@konig0000, 22 Nov** (women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus on winners) https://x.com/konig0000/status/2124388742714765453
 Check the DM thread first: an October konig role was in "Apply now".
-Comment: Pixar-style is my lane: 268K organic on my top reel. DMing.
+Comment: Pixar-style is my lane: 312K organic on my top reel. DMing.
 DM:
 > Hey, for the women's supplement role.
 >
-> Pixar-style drama, 268K organic:
+> Pixar-style drama, 312K organic:
 > instagram.com/reel/Deu6LaByK8P
 >
 > Health: pain relief cream explainer, 17.9K:
@@ -94,7 +94,7 @@ DM:
 >
 > Animation is my side of it. I don't make AI UGC yet, so tell me if that rules me out.
 >
-> Pixar-style drama, 268K organic:
+> Pixar-style drama, 312K organic:
 > instagram.com/reel/Deu6LaByK8P
 > Claymation ad + more: taimur.framer.website
 >
@@ -106,7 +106,7 @@ DM:
 >
 > I work in Higgsfield every day: Nano Banana Pro + Seedance 2.5.
 >
-> Pixar-style drama, 268K organic:
+> Pixar-style drama, 312K organic:
 > instagram.com/reel/Deu6LaByK8P
 > 2D storybook series for a trading app, plus more: taimur.framer.website
 >
@@ -119,7 +119,7 @@ DM:
 > Hey, for the AI Video & Creative Editor role.
 >
 > Cinematic, story-led product films:
-> Pixar-style drama, 268K organic: instagram.com/reel/Deu6LaByK8P
+> Pixar-style drama, 312K organic: instagram.com/reel/Deu6LaByK8P
 > Pain relief cream explainer, 17.9K: instagram.com/reel/DeAX99xM4wA
 > Claymation ad for a funding brand: taimur.framer.website
 >

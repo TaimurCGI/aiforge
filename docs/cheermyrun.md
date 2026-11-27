@@ -52,6 +52,7 @@ Shared by Taimur on 2026-10-16. Market per account confirmed from the posted cap
 
 - Group "insta animated", all time: **2.5M views, 5.27% engagement rate** (Doublespeed's figures, screenshots from Taimur). About 7 weeks after the first post (8 Oct).
 - Top reels: AU proposal 268.1K (@chloerunsdaily), Berlin stepdad 170.5K, DE stepdad remake 134.6K, US "it's a girl" at the Marine Corps Marathon 110.8K. Four reels past 100K.
+- AU proposal reel (instagram.com/reel/Deu6LaByK8P, @chloerunsdaily, "I want to marry your daughter... during her marathon", posted 21 Oct), later 27 Nov: **312K views** (Taimur, from Instagram logged in) and **21,074 likes** (Instagram, read logged out by Claude). Like rate 6.8%. Site shows 312K / 21.1K from version after c0569e045.
 - Footer numbers on those screens (45.5M views, 4,711 posted, 60 accounts) are the whole Doublespeed workspace, not Taimur's. Never quote them.
 - Confirmed by Taimur (2026-11-27): the group is entirely his work, 380 videos posted. Quotable: **380 reels, 2.5M organic views in 7 weeks**.
 - Proof: cgiforge repo lab/aiforge/proof/runner-campaign/2026-11-27-VIEWS.md; screenshots in Drive CGI Forge/Lab/aiforge/Proof/runner-campaign/2026-11-27/.
