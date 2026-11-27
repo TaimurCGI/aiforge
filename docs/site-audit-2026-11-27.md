@@ -27,3 +27,30 @@ Source: ~25 animation job posts in docs/leads-x.md (Sept to Oct 2026), plus post
 - Series cards show a leftover line "Same runner · story 1 of 3" under "Recurring character · Episode 1".
 - Two Jensen trend reels use a real person's likeness and are live-action style; kept by Taimur's choice.
 - Two email addresses on the site (FAQ: taimurali969@, footer: taimurali50@).
+
+## Applied on canvas after the first audit (waiting for publish)
+- FAQ "Which tools do you use?" (from offer.md); formats answer adds extra hook versions, captions for sound-off viewing and safe zones (home, /brazil, /germany).
+- Series cards: leftover "Same runner · story N of 3" replaced with "CheerMyRun · Pixar-style 3D".
+
+## Round 1: job posts 20 to 27 Nov 2026 (X, animation only)
+| Posted | Who | Asks |
+|---|---|---|
+| 27 Nov | @Akanji995 / @videoeditjobs (Whiskey Library) | AI video & animation creator, DR ads, $800 to $1.2K/mo, worldwide, US hours |
+| 26 Nov | @mariamrecruiter, @Inessa_kh | US DTC brand, Pixar + claymation AI videos at volume, full-time. Europe & LatAm only (restricted) |
+| 26 Nov | @careerspeakshq (Elavate) | AI voiceovers, AI animation ads, 2 to 3 finished Meta ads a day, deadline 9 Dec |
+| 24 Nov | @Isael_ecomvid, @Flash_Ecom | Supplement brand: AI animation + drama ads, health-niche experience, $2.5K + % of spend; comment "EDIT" |
+| 22 Nov | @konig0000, @degenscales | Women's supplement: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus |
+| 20 Nov | @EcomKidoo / @GilbertLop_ | Jewelry brand: AI UGC + animation, volume |
+| 19 Nov | @AnmolXwealth (Factual Holding) | Short animated + AI videos daily with Higgsfield |
+What changed since October: Pixar + claymation together is now the most common ask; health-niche experience is asked outright; song (Suno) ads still keep coming up; competing freelancers advertise "60s to 6 min" and "multiple variations"; one shows paid results (1,700+ ads, $17M spend, 2.93 ROAS).
+Site gaps from this round: singing sample (still none); "health niche" is not named on the site though Ketro is a pain relief cream; length over 60s unanswered; no paid-ad results.
+
+## Round 2: fact check (live 6b875f672)
+All numbers match docs/cheermyrun.md (27 Nov count) or offer.md: 2.5M, 380 reels, 7 weeks, 4 past 100K, 268K/16.8K, 170K/10.7K, 134K, 67.3K/9.2K, 140 in two weeks, 10/day, 10 markets, 7 languages.
+To watch: "rebuilt for 7 markets" is true for the original round; with the US/AU versions the stepdad story ran in 9. "Text kept inside the safe zones" was added on the audit's suggestion; Taimur to confirm. Market-page cards other than Berlin and the Brazil grandpa still carry 28 Oct numbers.
+
+## Round 3: technical
+- Social preview image and meta descriptions were the old version ("Animated shorts that start with the story… Paid work for CheerMyRun, Ketro and JTX"). This is what shows when the link is pasted in a DM. New 1200x630 image and new descriptions staged on all three pages.
+- Main button "Get a free test video" opens x.com/taimurcgi (profile), not a DM window.
+- All Instagram post links on cards point to real reels; client ad cards have none.
+- Images: 2 of 4 have empty alt text (decorative posters).

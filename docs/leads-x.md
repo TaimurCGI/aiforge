@@ -2,6 +2,19 @@
 
 Searched daily. Work newest first; anything older than about a week is "later" (Taimur, 2026-10-17). Nothing is sent by Claude: drafts only. Outreach rule: lead with a reel and its numbers, then taimur.framer.website.
 
+## Scan 27 Nov (posts 20 to 27 Nov, animation only, newest first; no drafts yet)
+
+| Posted | Who | What | Link |
+|---|---|---|---|
+| 27 Nov | Whiskey Library (via @Akanji995, @videoeditjobs) | AI video & animation creator for DR ads, $800 to $1.2K/mo, worldwide, US hours; application link in post | https://x.com/Akanji995/status/2126188622604841446 |
+| 26 Nov | Elavate (via @careerspeakshq) | D2C editor: AI voiceovers, AI animation ads, 2 to 3 Meta ads a day; deadline 9 Dec | https://x.com/careerspeakshq/status/2125844731053604865 |
+| 24 Nov | @Isael_ecomvid / @Flash_Ecom | Supplement brand: AI animation + drama ads, health niche, $2.5K/mo + % of spend; comment "EDIT" | https://x.com/Flash_Ecom/status/2125054361659228260 |
+| 22 Nov | @konig0000 (also @degenscales) | Women's supplement brand: Pixar, Suno, AI UGC, cinema, VSLs; salary + bonus | https://x.com/konig0000/status/2124388742714765453 |
+| 20 Nov | @EcomKidoo | Jewelry brand: AI UGC and animation, volume (UGC is the priority) | https://x.com/EcomKidoo/status/2123595676957437962 |
+| 19 Nov | @AnmolXwealth (Factual Holding) | Short animated and AI videos daily with Higgsfield, remote any country | https://x.com/AnmolXwealth/status/2123556120677732738 |
+
+Restricted: @mariamrecruiter / @Inessa_kh (26 Nov, Pixar + claymation at volume, Europe & LatAm only).
+
 ## Now (newest first)
 
 | Posted | Who | What | Status |
